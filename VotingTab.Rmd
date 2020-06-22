@@ -1,0 +1,70 @@
+Movie Night Voting Tabulation
+=============================
+
+## Setup
+
+```{r, message = FALSE, warning = FALSE}
+setwd('~/Personal/IRV/ranking/')
+library(tidyverse)
+devtools::load_all('~/MyProjects/AfterSl1p/')
+theme_set(theme_bw())
+
+cols = c('#878787','#FDDBC7','#B2182B')
+ranklevs = c('I would NOT come to watch this film',
+		  'I do not love this film but would still show up',
+		  'I would REALLY LIKE to watch this film')
+make_rank = function(x){
+	x = factor(x, levels = ranklevs)
+	x = as.numeric(x) -2
+	return(x)
+}
+```
+
+
+## Import and Clean Data
+
+```{r}
+dat = read.csv('data/current_week.csv', stringsAsFactors = FALSE, header = FALSE)
+datm = as.matrix(dat[,-1])
+
+tdf = read.csv('data/current_movies.csv', row.names = 1, header = FALSE, 
+			   stringsAsFactors = FALSE)
+titles = tdf[[1]]
+names(titles) = rownames(tdf)
+
+datm[datm %in% names(titles)] = titles[datm[datm %in% names(titles)]]
+
+colnames(datm) = datm[1,]
+datm = datm[-1,]
+```
+
+
+## Tabulate the results
+
+```{r,  warning = FALSE, results = 'hold'}
+dat_num = (datm
+		   %>% data.frame()
+		   %>% mutate_all(make_rank))
+dat_long = (datm
+			%>% data.frame()
+			%>% gather(Movies, Votes)
+			%>% mutate(Votes = factor(Votes, levels = ranklevs)))
+
+results = sort(colSums(dat_num), decreasing = TRUE)
+results
+print('The winner is:')
+print(names(results)[1])
+```
+
+
+## Pics or it didn't happen
+
+```{r, fig.width = 9, warning = FALSE}
+dat_long$Movies = factor(dat_long$Movies, levels = names(results))
+plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
+	geom_histogram(stat = 'count') +
+	scale_fill_manual(values = cols) +
+	rotate_ticks()
+plt
+```
+

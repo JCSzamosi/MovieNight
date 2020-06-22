@@ -6,6 +6,7 @@ Movie Night Voting Tabulation
 ```{r, message = FALSE, warning = FALSE}
 setwd('~/Personal/MovieNight')
 library(tidyverse)
+library(pheatmap)
 devtools::load_all('~/MyProjects/AfterSl1p/')
 theme_set(theme_bw())
 
@@ -52,8 +53,9 @@ print('The winner is:')
 print(names(results)[1])
 ```
 
-
 ## Pics or it didn't happen
+
+### Votes
 
 ```{r, fig.width = 9, warning = FALSE}
 dat_long = (datm
@@ -67,3 +69,15 @@ plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
 	rotate_ticks()
 plt
 ```
+
+
+The survey was completed 11 times, and all movies were ranked each time.
+
+Romy and Michele's High School Reunion is the winner with 8 positive votes and
+0 negative votes.
+
+There were three movies that garnered negative votes: Tremors and Twister with 
+one down-vote each, and Babe 2 with two.
+
+Beetlejuice got the fewest positive votes (1), but it tied with Twister in the
+scoring because of Twister's single negative vote.

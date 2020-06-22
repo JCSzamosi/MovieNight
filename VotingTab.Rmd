@@ -4,7 +4,7 @@ Movie Night Voting Tabulation
 ## Setup
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Personal/IRV/ranking/')
+setwd('~/Personal/MovieNight')
 library(tidyverse)
 devtools::load_all('~/MyProjects/AfterSl1p/')
 theme_set(theme_bw())
@@ -45,13 +45,9 @@ datm = datm[-1,]
 dat_num = (datm
 		   %>% data.frame()
 		   %>% mutate_all(make_rank))
-dat_long = (datm
-			%>% data.frame()
-			%>% gather(Movies, Votes)
-			%>% mutate(Votes = factor(Votes, levels = ranklevs)))
-
 results = sort(colSums(dat_num), decreasing = TRUE)
-results
+res_df = data.frame(results)
+res_df
 print('The winner is:')
 print(names(results)[1])
 ```
@@ -60,11 +56,14 @@ print(names(results)[1])
 ## Pics or it didn't happen
 
 ```{r, fig.width = 9, warning = FALSE}
-dat_long$Movies = factor(dat_long$Movies, levels = names(results))
+dat_long = (datm
+			%>% data.frame()
+			%>% gather(Movies, Votes)
+			%>% mutate(Votes = factor(Votes, levels = ranklevs),
+					   Movies = factor(Movies, levels = names(results))))
 plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
 	geom_histogram(stat = 'count') +
 	scale_fill_manual(values = cols) +
 	rotate_ticks()
 plt
 ```
-

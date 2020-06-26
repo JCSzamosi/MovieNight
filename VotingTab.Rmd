@@ -64,7 +64,9 @@ print(names(results)[1])
 
 ## Pics or it didn't happen
 
-```{r, fig.width = 9, warning = FALSE}
+<details><summary>Click here for plotting code</summary>
+
+```{r, fig.width = 9, warning = FALSE, results = 'hold'}
 brk_levs = c('I would NOT come\nto watch this film',
 			 'I do not love this film\nbut would still show up',
 			 'I would REALLY LIKE\nto watch this film')
@@ -82,7 +84,6 @@ plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
 	theme(legend.text = element_text(margin = margin(t = 0.5,
 													 b = 0.5,
 													 unit = 'lines')))
-plt
 
 png(filename = 'current_week.png', height = 480, width = 800)
 plt +
@@ -99,6 +100,12 @@ plt +
 		  #legend.key = element_rect(colour = 'white', size = 10))
 dev.off()
 ```
+</details>
+
+![](./current_week.png)
+
+
+You can download a mediocre .png of the plot [here](./current_week.png).
 
 ## Executive Summaries Go At the Bottom
 

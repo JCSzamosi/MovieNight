@@ -3,6 +3,8 @@ Movie Night Voting Tabulation
 
 ## Setup
 
+<details><summary>Click here for setup code</summary>
+
 ```{r, message = FALSE, warning = FALSE}
 setwd('~/Personal/MovieNight')
 library(tidyverse)
@@ -21,8 +23,13 @@ make_rank = function(x){
 }
 ```
 
+</details>
 
 ## Import and Clean Data
+
+The voting data are available as a .csv file [here](./data/current_week.csv).
+
+<details><summary>Click here for data wrangling code</summary>
 
 ```{r}
 dat = read.csv('data/current_week.csv', stringsAsFactors = FALSE, header = FALSE)
@@ -38,6 +45,8 @@ datm[datm %in% names(titles)] = titles[datm[datm %in% names(titles)]]
 colnames(datm) = datm[1,]
 datm = datm[-1,]
 ```
+
+</details>
 
 
 ## Tabulate the results
@@ -55,29 +64,48 @@ print(names(results)[1])
 
 ## Pics or it didn't happen
 
-### Votes
-
 ```{r, fig.width = 9, warning = FALSE}
+brk_levs = c('I would NOT come\nto watch this film',
+			 'I do not love this film\nbut would still show up',
+			 'I would REALLY LIKE\nto watch this film')
 dat_long = (datm
 			%>% data.frame()
 			%>% gather(Movies, Votes)
-			%>% mutate(Votes = factor(Votes, levels = ranklevs),
+			%>% mutate(Votes = factor(Votes, levels = ranklevs,
+									  labels = brk_levs),
 					   Movies = factor(Movies, levels = names(results))))
 plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
 	geom_histogram(stat = 'count') +
-	scale_fill_manual(values = cols) +
-	rotate_ticks()
+	scale_fill_manual(values = cols, name = 'Vote Value') +
+	ylab('Vote Count') +
+	rotate_ticks() +
+	theme(legend.text = element_text(margin = margin(t = 0.5,
+													 b = 0.5,
+													 unit = 'lines')))
 plt
+
+png(filename = 'current_week.png', height = 480, width = 800)
+plt +
+	theme(axis.title = element_text(size = 20),
+		  axis.text.y = element_text(size = 15),
+		  axis.text.x = element_text(size = 15,
+		  						  angle = 90,
+		  						  hjust = 1,
+		  						  vjust = 0.5),
+		  legend.text = element_text(size = 15, margin = margin(t = 0.5,
+		  													  b = 0.5,
+		  													  unit = 'lines')),
+		  legend.title = element_text(size = 20))
+		  #legend.key = element_rect(colour = 'white', size = 10))
+dev.off()
 ```
 
+## Executive Summaries Go At the Bottom
 
-The survey was completed 11 times, and all movies were ranked each time.
-
-Romy and Michele's High School Reunion is the winner with 8 positive votes and
+* The survey was completed 11 times, and all movies were ranked each time.
+* Romy and Michele's High School Reunion is the winner with 8 positive votes and
 0 negative votes.
-
-There were three movies that garnered negative votes: Tremors and Twister with 
+* There were three movies that garnered negative votes: Tremors and Twister with 
 one down-vote each, and Babe 2 with two.
-
-Beetlejuice got the fewest positive votes (1), but it tied with Twister in the
+* Beetlejuice got the fewest positive votes (1), but it tied with Twister in the
 scoring because of Twister's single negative vote.

@@ -58,9 +58,13 @@ dat_num = (datm
 results = sort(colSums(dat_num), decreasing = TRUE)
 res_df = data.frame(results)
 res_df
-print('The winner is:')
-print(names(results)[1])
 ```
+
+#### We have a tie!
+
+Legally Blonde and Romy and Michele's High School Reunion have tied for 
+first place. Our benevolent dictator has chosen **Legally Blonde** on the basis 
+of his preference for doggos.
 
 ## Pics or it didn't happen
 
@@ -105,14 +109,14 @@ dev.off()
 ![](./current_week.png)
 
 
-You can download a mediocre .png of the plot [here](./current_week.png).
+You can download a .png of the plot [here](./current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 11 times, and all movies were ranked each time.
-* Romy and Michele's High School Reunion is the winner with 8 positive votes and
-0 negative votes.
+* The survey was completed 17 times, and all movies were ranked each time.
+* Romy and Michele's High School Reunion is tied for first place with Legally
+Blonde, at 13 positive votes and 0 negative votes each.
 * There were three movies that garnered negative votes: Tremors and Twister with 
 one down-vote each, and Babe 2 with two.
-* Beetlejuice got the fewest positive votes (1), but it tied with Twister in the
-scoring because of Twister's single negative vote.
+* Beetlejuice and Babe 2 were tied for fewest positive votes, but Twister and
+Babe 2 both scored below Beetlejuice because of their negative votes.

@@ -60,11 +60,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### We have a tie!
+#### Lost Boys Wins!
 
-Legally Blonde and Romy and Michele's High School Reunion have tied for 
-first place. Our benevolent dictator has chosen **Legally Blonde** on the basis 
-of his preference for doggos.
+**The Lost Boys** is the winner with 9 points!
 
 ## Pics or it didn't happen
 
@@ -89,7 +87,7 @@ plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
 													 b = 0.5,
 													 unit = 'lines')))
 
-png(filename = 'current_week.png', height = 480, width = 800)
+png(filename = 'results/current_week.png', height = 480, width = 800)
 plt +
 	theme(axis.title = element_text(size = 20),
 		  axis.text.y = element_text(size = 15),
@@ -103,20 +101,24 @@ plt +
 		  legend.title = element_text(size = 20))
 		  #legend.key = element_rect(colour = 'white', size = 10))
 dev.off()
+
+(dat_long
+	%>% count(Movies, Votes)
+	%>% filter(Movies == 'Phantom'))
 ```
 </details>
 
-![](./current_week.png)
+![](./results/current_week.png)
 
 
-You can download a .png of the plot [here](./current_week.png).
+You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 17 times, and all movies were ranked each time.
-* Romy and Michele's High School Reunion is tied for first place with Legally
-Blonde, at 13 positive votes and 0 negative votes each.
-* There were three movies that garnered negative votes: Tremors and Twister with 
-one down-vote each, and Babe 2 with two.
-* Beetlejuice and Babe 2 were tied for fewest positive votes, but Twister and
-Babe 2 both scored below Beetlejuice because of their negative votes.
+The options this week were highly controversial.
+
+* The survey was completed 14 times
+* **The Lost Boys** is the clear winner with the most positive votes (9) and 
+the fewest negative votes (0).
+* Every other movie garnered at least one negative vote, and Phantom earned the
+most with four. This drove Phantom into a negative score, with -1 points.

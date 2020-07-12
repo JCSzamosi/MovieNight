@@ -108,7 +108,6 @@ dev.off()
 ```
 </details>
 
-
 ![](./results/current_week.png)
 
 

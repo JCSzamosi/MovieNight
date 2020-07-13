@@ -8,7 +8,7 @@ Movie Night Voting Tabulation
 ```{r, message = FALSE, warning = FALSE}
 setwd('~/Personal/MovieNight')
 library(tidyverse)
-library(pheatmap)
+library(lubridate)
 devtools::load_all('~/MyProjects/AfterSl1p/')
 theme_set(theme_bw())
 
@@ -33,17 +33,23 @@ The voting data are available as a .csv file [here](./data/current_week.csv).
 
 ```{r}
 dat = read.csv('data/current_week.csv', stringsAsFactors = FALSE, header = FALSE)
-datm = as.matrix(dat[,-1])
+datm = as.matrix(dat)
 
 tdf = read.csv('data/current_movies.csv', row.names = 1, header = FALSE, 
 			   stringsAsFactors = FALSE)
+tdf = rbind('Timestamp',tdf)
 titles = tdf[[1]]
-names(titles) = rownames(tdf)
+names(titles) = c('Timestamp', rownames(tdf)[-1])
 
 datm[datm %in% names(titles)] = titles[datm[datm %in% names(titles)]]
 
 colnames(datm) = datm[1,]
 datm = datm[-1,]
+
+dat = (datm
+	   %>% data.frame()
+	   %>% mutate(Timestamp = substr(Timestamp, 1, 18),
+	   		   Timestamp = ymd_hms(Timestamp)))
 ```
 
 </details>
@@ -52,17 +58,17 @@ datm = datm[-1,]
 ## Tabulate the results
 
 ```{r,  warning = FALSE, results = 'hold'}
-dat_num = (datm
-		   %>% data.frame()
+dat_num = (dat
+		   %>% select(-Timestamp)
 		   %>% mutate_all(make_rank))
 results = sort(colSums(dat_num), decreasing = TRUE)
 res_df = data.frame(results)
 res_df
 ```
 
-#### Lost Boys Wins!
+#### Romy And Michele's High School Reunion wins!
 
-**The Lost Boys** is the winner with 9 points!
+**Romy and Michele** is the winner with 9 points
 
 ## Pics or it didn't happen
 
@@ -72,9 +78,8 @@ res_df
 brk_levs = c('I would NOT come\nto watch this film',
 			 'I do not love this film\nbut would still show up',
 			 'I would REALLY LIKE\nto watch this film')
-dat_long = (datm
-			%>% data.frame()
-			%>% gather(Movies, Votes)
+dat_long = (dat
+			%>% gather(Movies, Votes, -Timestamp)
 			%>% mutate(Votes = factor(Votes, levels = ranklevs,
 									  labels = brk_levs),
 					   Movies = factor(Movies, levels = names(results))))
@@ -101,10 +106,6 @@ plt +
 		  legend.title = element_text(size = 20))
 		  #legend.key = element_rect(colour = 'white', size = 10))
 dev.off()
-
-(dat_long
-	%>% count(Movies, Votes)
-	%>% filter(Movies == 'Phantom'))
 ```
 </details>
 
@@ -117,8 +118,10 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 The options this week were highly controversial.
 
-* The survey was completed 14 times
-* **The Lost Boys** is the clear winner with the most positive votes (9) and 
-the fewest negative votes (0).
-* Every other movie garnered at least one negative vote, and Phantom earned the
-most with four. This drove Phantom into a negative score, with -1 points.
+* The survey was completed 17 times
+* **Romy and Michele** just squeaked past My Cousin Vinnie with 11 votes in 
+favour and two votes against.
+* This week's choices were even more controversial than last, with every single
+movie getting at least two negative votes and at least two positive votes.
+* Two movies ended up with negative scores: Speed Racer and Batteries Not
+Included

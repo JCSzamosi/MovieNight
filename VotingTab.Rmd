@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Romy And Michele's High School Reunion wins!
+#### But I'm A Cheerleader Wins!
 
-**Romy and Michele** is the winner with 9 points
+**But I'm A Cheerleader** is the winner with 9 points
 
 ## Pics or it didn't happen
 
@@ -118,10 +118,10 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 The options this week were highly controversial.
 
-* The survey was completed 17 times
-* **Romy and Michele** just squeaked past My Cousin Vinnie with 11 votes in 
-favour and two votes against.
-* This week's choices were even more controversial than last, with every single
-movie getting at least two negative votes and at least two positive votes.
-* Two movies ended up with negative scores: Speed Racer and Batteries Not
-Included
+* The survey was completed 15 times
+* **But I'm A Cheerleader** tied with The Founder for the most positive 
+votes, but won overall because it had zero negative votes
+* Beetlejuice garnered the least active interest, with only three votes for, and
+two against
+* Phillip Morris was the most unpopular movie, with three votes against
+* No movie received a negative score

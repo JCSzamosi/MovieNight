@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### But I'm A Cheerleader Wins!
+#### The Fifth Element wins!
 
-**But I'm A Cheerleader** is the winner with 9 points
+**The Fifth Element** is the winner with 13 points
 
 ## Pics or it didn't happen
 
@@ -116,12 +116,16 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-The options this week were highly controversial.
+This week we had a very clear result.
 
-* The survey was completed 15 times
-* **But I'm A Cheerleader** tied with The Founder for the most positive 
-votes, but won overall because it had zero negative votes
-* Beetlejuice garnered the least active interest, with only three votes for, and
-two against
-* Phillip Morris was the most unpopular movie, with three votes against
-* No movie received a negative score
+* The survey was completed 19 times
+* **The Fifth Element** won with 14 positive votes and a single negative vote.
+* Every movie received at least one positive and one negative vote
+* War Games garnered the least interest of any kind, with only four positive
+votes and three negative
+* At -3, Capricorn One has earned the lowest score yet
+
+## Shenanigans to Come
+
+The second question has not yet been tabulated but will be discussed before the
+movie.

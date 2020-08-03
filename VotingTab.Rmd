@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### The Fifth Element wins!
+#### Hail Caesar Wins!
 
-**The Fifth Element** is the winner with 13 points
+**Hail Caesar** is the winner with 7 points
 
 ## Pics or it didn't happen
 
@@ -116,16 +116,15 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-This week we had a very clear result.
+**Hail Caesar** beat The Spy by 1 point
 
-* The survey was completed 19 times
-* **The Fifth Element** won with 14 positive votes and a single negative vote.
-* Every movie received at least one positive and one negative vote
-* War Games garnered the least interest of any kind, with only four positive
-votes and three negative
-* At -3, Capricorn One has earned the lowest score yet
-
-## Shenanigans to Come
-
-The second question has not yet been tabulated but will be discussed before the
-movie.
+* The survey was completed 13 times. The long weekend may account for the small
+number of voters.
+* **Hail Caesar** won with seven positive votes and zero negative votes
+* The Spy was the only other movie to receive zero negative votes
+* The Founder tied Hail Caeser for positive votes, but received its customary 
+two negative votes
+* Resident Evil was the least popular movie, with the fewest positive votes (3)
+and the most negative votes (also 3), for a final score of zero.
+* Despite coming in second with 11 positive votes last week, Dogma has dropped 
+to fifth place, with only four votes in favour this week.

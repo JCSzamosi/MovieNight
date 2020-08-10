@@ -66,9 +66,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Hail Caesar Wins!
+#### THREE WAY TIE!
 
-**Hail Caesar** is the winner with 7 points
+She's the Man, Burn After Reading, and The Spy have tied for first with seven 
+points each. Our benevolent dictator has chosen **The Spy** as the winner.
 
 ## Pics or it didn't happen
 
@@ -116,15 +117,10 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-**Hail Caesar** beat The Spy by 1 point
-
-* The survey was completed 13 times. The long weekend may account for the small
-number of voters.
-* **Hail Caesar** won with seven positive votes and zero negative votes
-* The Spy was the only other movie to receive zero negative votes
-* The Founder tied Hail Caeser for positive votes, but received its customary 
-two negative votes
-* Resident Evil was the least popular movie, with the fewest positive votes (3)
-and the most negative votes (also 3), for a final score of zero.
-* Despite coming in second with 11 positive votes last week, Dogma has dropped 
-to fifth place, with only four votes in favour this week.
+* The survey was completed 11 times. Small numbers of voters make ties more 
+likely.
+* **The Spy** won with seven positive votes and zero negative votes.
+* Burn After Reading also got seven positive votes and zero negative votes, 
+while She's The Man got eight positive votes and a single negative vote.
+* No movies were especially unpopular this week, and The Founder once again got
+its full complement of two negative votes.

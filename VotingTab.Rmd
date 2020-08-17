@@ -66,10 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### THREE WAY TIE!
+#### Jupiter Ascending wins!
 
-She's the Man, Burn After Reading, and The Spy have tied for first with seven 
-points each. Our benevolent dictator has chosen **The Spy** as the winner.
+Jupiter Ascending is our winner with 13 votes.
 
 ## Pics or it didn't happen
 
@@ -117,10 +116,9 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 11 times. Small numbers of voters make ties more 
-likely.
-* **The Spy** won with seven positive votes and zero negative votes.
-* Burn After Reading also got seven positive votes and zero negative votes, 
-while She's The Man got eight positive votes and a single negative vote.
-* No movies were especially unpopular this week, and The Founder once again got
-its full complement of two negative votes.
+* The survey was completed 17 times. 
+* **Jupiter Ascending** won with 13 positive votes and zero negative votes.
+* Blade came a close second with 12 positive votes and one negative vote
+* We had several highly polarizing movies this week, with Charlie's Angels and
+She's The Man both drawing similar numbers of positive and negative votes
+* Being There was highy unpopular, gaining a final score of -3.

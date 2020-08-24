@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Jupiter Ascending wins!
+#### Gross Pointe Blank wins!
 
-**Jupiter Ascending** is our winner with 13 votes.
+**Gross Pointe Blank** is our winner with 11 points.
 
 ## Pics or it didn't happen
 
@@ -116,9 +116,11 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 17 times. 
-* **Jupiter Ascending** won with 13 positive votes and zero negative votes.
-* Blade came a close second with 12 positive votes and one negative vote
-* We had several highly polarizing movies this week, with Charlie's Angels and
-She's The Man both drawing similar numbers of positive and negative votes
-* Being There was highy unpopular, gaining a final score of -3.
+* The survey was completed 18 times 
+* **Gross Pointe Blank** won with 12 positive votes and one negative vote.
+* Trading Places was the only movie that did not receive any negative votes, but
+support for it was pretty lack-luster, with eight positive votes and 10 neutral.
+* We had many controversial options this week, with every other movie receiving
+at least three negative votes
+* Undercover Brother was highly unpopular, with seven votes against to only five
+in favour

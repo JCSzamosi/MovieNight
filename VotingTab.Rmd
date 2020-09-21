@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Blues Brothers wins!
+#### Bill and Ted wins!
 
-**Blues Brothers** is our winner with 5 points.
+**Bill And Ted's Excellent Adventure** is our winner with 7 points.
 
 ## Pics or it didn't happen
 
@@ -116,9 +116,12 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 11 times 
-* **Blues Brothers** won with 5 positive votes and 0 negative vote.
-* Both Blues Brothers and Beetlejuice garnered zero negative votes, but neither
-garnered a lot of enthusiasm.
-* Tank Girl received the most positive votes at 6, but also received two 
-negative votes
+* The survey was completed 15 times 
+* **Bill and Ted's Excellent Adventure** won with 8 positive votes and 1 
+negative vote.
+* Frequently Asked Questions about Time Travel and Bedknobs and Broomsticks tied
+Bill and Ted for positive votes, but received 2 and 3 negative votes each, 
+putting them in second and third place, respectively.
+* Robin Hood: Men in Tights generated the least interest overall, with 10 
+neutral votes
+* Twister and Warm Bodies tied for last place with scores of zero.

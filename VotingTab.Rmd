@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Bill and Ted wins!
+#### The Heat wins!
 
-**Bill And Ted's Excellent Adventure** is our winner with 7 points.
+**The Heat** is our winner with 7 points.
 
 ## Pics or it didn't happen
 
@@ -116,12 +116,10 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 15 times 
-* **Bill and Ted's Excellent Adventure** won with 8 positive votes and 1 
-negative vote.
-* Frequently Asked Questions about Time Travel and Bedknobs and Broomsticks tied
-Bill and Ted for positive votes, but received 2 and 3 negative votes each, 
-putting them in second and third place, respectively.
-* Robin Hood: Men in Tights generated the least interest overall, with 10 
-neutral votes
-* Twister and Warm Bodies tied for last place with scores of zero.
+* The survey was completed 14 times 
+* **The Heat** won with 8 positive votes and 1 negative vote.
+* Ghostbusters and The Hustle tied for second with 7 positive votes and one 
+negative vote each.
+* Bridesmaids and Speed received the most negative attention, with four 
+votes against each.
+* Tremors garnered the least interest of all the movies

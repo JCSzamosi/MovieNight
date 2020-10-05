@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### The Heat wins!
+#### Hocus Pocus wins!
 
-**The Heat** is our winner with 7 points.
+**Hocus Pocus** is our winner with 5 points.
 
 ## Pics or it didn't happen
 
@@ -116,10 +116,13 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 14 times 
-* **The Heat** won with 8 positive votes and 1 negative vote.
-* Ghostbusters and The Hustle tied for second with 7 positive votes and one 
-negative vote each.
-* Bridesmaids and Speed received the most negative attention, with four 
-votes against each.
-* Tremors garnered the least interest of all the movies
+* The survey was completed 13 times, which is not very many times. We like when 
+more people vote.
+* **Hocus Pocus** won with 6 positive votes and 1 negative vote.
+* The Craft got the most postive votes (7) but also received 3 negative votes,
+knocking it to a tie for second place with Ocean's Eight (5 in favour, 1 
+against)
+* Many options were quite unpopular this week. All but the top three candidates
+had negative scores
+* Fast and the Furious, Speed, and Snatched tied for most negative votes 
+received, with 5 each.

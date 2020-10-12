@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Hocus Pocus wins!
+#### The Addams Family wins in a landslide!
 
-**Hocus Pocus** is our winner with 5 points.
+**The Addams Family** is our winner with 13 points.
 
 ## Pics or it didn't happen
 
@@ -116,13 +116,9 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 13 times, which is not very many times. We like when 
-more people vote.
-* **Hocus Pocus** won with 6 positive votes and 1 negative vote.
-* The Craft got the most postive votes (7) but also received 3 negative votes,
-knocking it to a tie for second place with Ocean's Eight (5 in favour, 1 
-against)
-* Many options were quite unpopular this week. All but the top three candidates
-had negative scores
-* Fast and the Furious, Speed, and Snatched tied for most negative votes 
-received, with 5 each.
+* The survey was completed 15 times. That is still not very many times.
+* **The Addams Family** won with 13 positive votes and 0 negative votes.
+* Death Becomes Her was the only over movie to receive 0 negative votes, but it
+only received 6 positive votes.
+* Practical Magic and Death Becomes Her tied for second place.
+* Supervolcano garnered a negative score, with 4 votes in favour and 6 against.

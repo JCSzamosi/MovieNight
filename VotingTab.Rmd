@@ -66,9 +66,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### The Addams Family wins in a landslide!
+#### Death Becomes Her wins!
 
-**The Addams Family** is our winner with 13 points.
+**Death Becomes Her** is our winner with 9 points.
 
 ## Pics or it didn't happen
 
@@ -116,9 +116,11 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 15 times. That is still not very many times.
-* **The Addams Family** won with 13 positive votes and 0 negative votes.
-* Death Becomes Her was the only over movie to receive 0 negative votes, but it
+* The survey was completed 23 times. Thanks to everyone who voted!
+* **Death Becomes Her** won with 10 positive votes and 1 negative vote.
+* We had a fairly controversial suite of candidates otherwise, with every other
+movie garnering at least 4 positive votes and at least 4 negative votes
 only received 6 positive votes.
-* Practical Magic and Death Becomes Her tied for second place.
-* Supervolcano garnered a negative score, with 4 votes in favour and 6 against.
+* Joe Versus the Volcano was the only movie to go into the negative, with 4 
+votes in favour, and 7 against
+* FAQaTT also received 7 negative votes, but those were balanced by 7 positive.

@@ -50,6 +50,9 @@ dat = (datm
 	   %>% data.frame()
 	   %>% mutate(Timestamp = substr(Timestamp, 1, 18),
 	   		   Timestamp = ymd_hms(Timestamp)))
+rev_titles = gsub(' [','',names(titles), fixed = TRUE)
+rev_titles = gsub(']','',rev_titles, fixed = TRUE)
+names(rev_titles) = titles
 ```
 
 </details>
@@ -63,12 +66,15 @@ dat_num = (dat
 		   %>% mutate_all(make_rank))
 results = sort(colSums(dat_num), decreasing = TRUE)
 res_df = data.frame(results)
+rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Death Becomes Her wins!
+#### Fashion and Spoopy Tie
 
-**Death Becomes Her** is our winner with 9 points.
+**The Craft but make it fashion** and **The Craft but make it spoopy** tied 
+for first place, with 8 points each. This week, we will be watching both movies 
+simultaneously. 
 
 ## Pics or it didn't happen
 
@@ -83,6 +89,7 @@ dat_long = (dat
 			%>% mutate(Votes = factor(Votes, levels = ranklevs,
 									  labels = brk_levs),
 					   Movies = factor(Movies, levels = names(results))))
+levels(dat_long$Movies) = rev_titles[levels(dat_long$Movies)]
 plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
 	geom_histogram(stat = 'count') +
 	scale_fill_manual(values = cols, name = 'Vote Value') +
@@ -116,11 +123,13 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 23 times. Thanks to everyone who voted!
-* **Death Becomes Her** won with 10 positive votes and 1 negative vote.
-* We had a fairly controversial suite of candidates otherwise, with every other
-movie garnering at least 4 positive votes and at least 4 negative votes
-only received 6 positive votes.
-* Joe Versus the Volcano was the only movie to go into the negative, with 4 
-votes in favour, and 7 against
-* FAQaTT also received 7 negative votes, but those were balanced by 7 positive.
+* The survey was completed 13 times. As always, low voter numbers make ties more
+likely
+* **The Craft but make it fashion** and **The Craft but make it spoopy** each
+received 9 votes in favour and 1 vote against. 
+* **The Craft but we pretend to hate it** also received 9 votes in favour, but
+three people voted against it.
+* Each choice received at least one negative vote.
+* We nonetheless had quite a popular suite of candidates this week, with all
+options receiving at least 7 votes in favour (53%), and only one option
+receiving 3 votes against.

@@ -70,11 +70,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Fashion and Spoopy Tie
+#### Sister Act wins!
 
-**The Craft but make it fashion** and **The Craft but make it spoopy** tied 
-for first place, with 8 points each. This week, we will be watching both movies 
-simultaneously. 
+**Sister Act** wins with 12 points!
 
 ## Pics or it didn't happen
 
@@ -89,7 +87,7 @@ dat_long = (dat
 			%>% mutate(Votes = factor(Votes, levels = ranklevs,
 									  labels = brk_levs),
 					   Movies = factor(Movies, levels = names(results))))
-levels(dat_long$Movies) = rev_titles[levels(dat_long$Movies)]
+#levels(dat_long$Movies) = rev_titles[levels(dat_long$Movies)]
 plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
 	geom_histogram(stat = 'count') +
 	scale_fill_manual(values = cols, name = 'Vote Value') +
@@ -123,13 +121,11 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 13 times. As always, low voter numbers make ties more
-likely
-* **The Craft but make it fashion** and **The Craft but make it spoopy** each
-received 9 votes in favour and 1 vote against. 
-* **The Craft but we pretend to hate it** also received 9 votes in favour, but
-three people voted against it.
-* Each choice received at least one negative vote.
-* We nonetheless had quite a popular suite of candidates this week, with all
-options receiving at least 7 votes in favour (53%), and only one option
-receiving 3 votes against.
+* The survey was completed 19 times. 
+* **Sister Act** won with 14 votes in favour, and 2 against.
+* First Wives Club came in second and Jumanji 2 and Turbo Kid tied for 3rd 
+place.
+* Fast And The Furious was our most controversial option, with 10 votes in 
+favour and 5 against.
+* They Live received a score of -3, which might be the lowest score any movie 
+has garnered so far (although I will not be going back to check)

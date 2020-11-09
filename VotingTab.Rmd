@@ -70,9 +70,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Sister Act wins!
+#### Nine To Five wins!
 
-**Sister Act** wins with 12 points!
+**Nine To Five** wins with 6 points!
 
 ## Pics or it didn't happen
 
@@ -121,11 +121,9 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 19 times. 
-* **Sister Act** won with 14 votes in favour, and 2 against.
-* First Wives Club came in second and Jumanji 2 and Turbo Kid tied for 3rd 
-place.
-* Fast And The Furious was our most controversial option, with 10 votes in 
-favour and 5 against.
-* They Live received a score of -3, which might be the lowest score any movie 
-has garnered so far (although I will not be going back to check)
+* The survey was completed 15 times 
+* **Nine to Five** won with 8 votes in favour and 2 against
+* Sister Act 2 and Turbo Kid tied for second place with 5 points each, but
+Turbo Kid had one more positive and negative vote than Sister Act 2
+* Shrek was the only movie to receive a negative score, with 3 votes in favour
+and 4 against.

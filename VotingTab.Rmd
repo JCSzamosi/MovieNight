@@ -70,9 +70,10 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Nine To Five wins!
+#### It's a Tie!
 
-**Nine To Five** wins with 6 points!
+**UHF** and Jumanji 2 tied for first with 4 points each. Our benevolent dictator
+has decided that we will be watching **UHF**.
 
 ## Pics or it didn't happen
 
@@ -121,9 +122,11 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 15 times 
-* **Nine to Five** won with 8 votes in favour and 2 against
-* Sister Act 2 and Turbo Kid tied for second place with 5 points each, but
-Turbo Kid had one more positive and negative vote than Sister Act 2
-* Shrek was the only movie to receive a negative score, with 3 votes in favour
-and 4 against.
+* The survey was completed 16 times 
+* **UHF** won with 7 votes in favour and 3 against. Jumanji tied for first with 
+8 votes in favour but 4 against.
+* This was a highly controversial suite of candidates. Matilda, Corrina Corrina, 
+and Demolition Man all got 7 or 8 votes in favour each, but they all had 5 or 6 
+votes against, bringing their totals down.
+* Sister Act 2 invoked the least interest of any kind, with 5 votes in favour
+and 2 against.

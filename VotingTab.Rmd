@@ -70,10 +70,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### It's a Tie!
+#### Empire Records Wins!
 
-**UHF** and Jumanji 2 tied for first with 4 points each. Our benevolent dictator
-has decided that we will be watching **UHF**.
+**Empire Records** wins with 8 points.
 
 ## Pics or it didn't happen
 
@@ -123,10 +122,9 @@ You can download a .png of the plot [here](./results/current_week.png).
 ## Executive Summaries Go At the Bottom
 
 * The survey was completed 16 times 
-* **UHF** won with 7 votes in favour and 3 against. Jumanji tied for first with 
-8 votes in favour but 4 against.
-* This was a highly controversial suite of candidates. Matilda, Corrina Corrina, 
-and Demolition Man all got 7 or 8 votes in favour each, but they all had 5 or 6 
-votes against, bringing their totals down.
-* Sister Act 2 invoked the least interest of any kind, with 5 votes in favour
-and 2 against.
+* **Empire Records** won with 9 votes in favour and 1 against.
+* We had a fairly well-liked suite of candidates this week, with 6 out of 8
+candidates receiving 3 or fewer downvotes.
+* The noteable exception is JCVD which, with 3 votes in favour and 9 against, 
+has received our biggest negative score to date (probably; I will not being
+going back to check).

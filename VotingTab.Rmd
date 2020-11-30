@@ -70,9 +70,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Empire Records Wins!
+#### Dredd wins!
 
-**Empire Records** wins with 8 points.
+**Dredd** wins with 6 points.
 
 ## Pics or it didn't happen
 
@@ -121,10 +121,11 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 16 times 
-* **Empire Records** won with 9 votes in favour and 1 against.
-* We had a fairly well-liked suite of candidates this week, with 6 out of 8
-candidates receiving 3 or fewer downvotes.
-* The noteable exception is JCVD which, with 3 votes in favour and 9 against, 
-has received our biggest negative score to date (probably; I will not being
-going back to check).
+* The survey was completed 18 times 
+* **Dredd** won with 10 votes in favour and 4 against.
+* Matilda came in second with 8 votes in favour, but 3 against.
+* We had quite a controversial slate of candidates this week, with no movie
+getting fewer than 3 votes against, and also very few movies getting many 
+neutral votes.
+* Our loser, The New Mutants, tied last week's loser (JCVD) for unpopularity,
+with a score of -6.

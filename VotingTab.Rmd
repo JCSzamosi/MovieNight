@@ -70,9 +70,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Dredd wins!
+#### Speed Racer wins!
 
-**Dredd** wins with 6 points.
+**Speed Racer** wins with 7 points.
 
 ## Pics or it didn't happen
 
@@ -121,11 +121,10 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 18 times 
-* **Dredd** won with 10 votes in favour and 4 against.
-* Matilda came in second with 8 votes in favour, but 3 against.
-* We had quite a controversial slate of candidates this week, with no movie
-getting fewer than 3 votes against, and also very few movies getting many 
-neutral votes.
-* Our loser, The New Mutants, tied last week's loser (JCVD) for unpopularity,
-with a score of -6.
+* The survey was completed 13 times 
+* **Speed Racer** won with 9 votes in favour and 2 against.
+* Jumanji 2 came in second, with less than half as many points.
+* Very few movies in this week's slate performed well. Our winner is the only
+option that received more than 5 votes in favour.
+* For the third week running we have a bottom score of -6, this time in Pete's
+Dragon.

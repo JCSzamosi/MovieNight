@@ -70,9 +70,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Speed Racer wins!
+#### Jumanji: Welcome to the Jungle wins!
 
-**Speed Racer** wins with 7 points.
+**Jumanji: Welcome to the Jungle** wins with 12 points.
 
 ## Pics or it didn't happen
 
@@ -121,10 +121,5 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 13 times 
-* **Speed Racer** won with 9 votes in favour and 2 against.
-* Jumanji 2 came in second, with less than half as many points.
-* Very few movies in this week's slate performed well. Our winner is the only
-option that received more than 5 votes in favour.
-* For the third week running we have a bottom score of -6, this time in Pete's
-Dragon.
+* The survey was completed 15 times 
+* There appears to have been some strategic voting

@@ -70,9 +70,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Jumanji: Welcome to the Jungle wins!
+#### Bi Hard wins!
 
-**Jumanji: Welcome to the Jungle** wins with 12 points.
+**Bi Hard** wins with 11 points.
 
 ## Pics or it didn't happen
 
@@ -121,5 +121,10 @@ You can download a .png of the plot [here](./results/current_week.png).
 
 ## Executive Summaries Go At the Bottom
 
-* The survey was completed 15 times 
-* There appears to have been some strategic voting
+* The survey was completed 14 times 
+* Bi Hard won with 11 votes in favour and none against
+* We had a popular slate of candidates this week. No options 
+received negative scores
+* Two options received zero votes against: Our winner, Bi Hard, 
+and Die Hard But Make It Spoopy. This may be unprecedented but I
+cannot be bothered to check.

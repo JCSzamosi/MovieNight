@@ -1,6 +1,16 @@
 Movie Night Voting Tabulation
 =============================
 
+## Executive Summaries Go At the Top For Engagement
+
+* The survey was completed 15 times 
+* Overall, the scores were pretty low. This was not a very popular slate of
+candidates
+* **Hot Rob**, Venom, and Dogma tied for first place with different numbers of
+positive and negative votes. **Hot Rob** has been declared the winner and I think
+we all know why
+* Prom: The Musical and Super Mario Brothers tied for least positive interest,
+but Super Mario Brothers garnered substantially more negative votes.
 ## Setup
 
 <details><summary>Click here for setup code</summary>
@@ -70,9 +80,11 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Bi Hard wins!
+#### We have a three-way!
 
-**Bi Hard** wins with 11 points.
+**Hot Rob**, Venom, and Dogma tied for first with 4 points each. The movie with 
+the fewest down-votes was **Hot Rob**, so it has been declared the winner by our
+benevolent dictator
 
 ## Pics or it didn't happen
 
@@ -119,12 +131,3 @@ dev.off()
 
 You can download a .png of the plot [here](./results/current_week.png).
 
-## Executive Summaries Go At the Bottom
-
-* The survey was completed 14 times 
-* Bi Hard won with 11 votes in favour and none against
-* We had a popular slate of candidates this week. No options 
-received negative scores
-* Two options received zero votes against: Our winner, Bi Hard, 
-and Die Hard But Make It Spoopy. This may be unprecedented but I
-cannot be bothered to check.

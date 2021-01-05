@@ -11,6 +11,7 @@ positive and negative votes. **Hot Rob** has been declared the winner and I thin
 we all know why
 * Prom: The Musical and Super Mario Brothers tied for least positive interest,
 but Super Mario Brothers garnered substantially more negative votes.
+
 ## Setup
 
 <details><summary>Click here for setup code</summary>

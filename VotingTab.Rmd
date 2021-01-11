@@ -4,13 +4,10 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 15 times 
-* Overall, the scores were pretty low. This was not a very popular slate of
-candidates
-* **Hot Rob**, Venom, and Dogma tied for first place with different numbers of
-positive and negative votes. **Hot Rob** has been declared the winner and I think
-we all know why
-* Prom: The Musical and Super Mario Brothers tied for least positive interest,
-but Super Mario Brothers garnered substantially more negative votes.
+* There was a wide spread in the results this week
+* **The School of Rock** won with 8 votes for and none against
+* Butt Boy got spanked, with only 2 votes in favour and 8 against
+* Only 4 people had any kind of opinion about Atomic Blonde
 
 ## Setup
 
@@ -81,11 +78,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### We have a three-way!
+#### The School of Rock Wins!
 
-**Hot Rob**, Venom, and Dogma tied for first with 4 points each. The movie with 
-the fewest down-votes was **Hot Rob**, so it has been declared the winner by our
-benevolent dictator
+**The School of Rock** is our winner with 8 points.
 
 ## Pics or it didn't happen
 

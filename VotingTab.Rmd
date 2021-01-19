@@ -3,11 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times 
-* There was a wide spread in the results this week
-* **The School of Rock** won with 8 votes for and none against
-* Butt Boy got spanked, with only 2 votes in favour and 8 against
-* Only 4 people had any kind of opinion about Atomic Blonde
+* The survey was completed 14 times 
+* **Priscilla, Queen of the Desert** (6 votes in favour, 1 against) tied for first 
+place with Pleasantville (7 votes in favour, 2 against).
+* Our benevolent dictator has chosen **Priscilla, Queen of the Desert** as our 
+winner
+* Repo, A Genetic Opera was highly controversial, garnering only three neutral
+votes
+* Only 1 person wanted to watch Solarbabies
 
 ## Setup
 
@@ -78,9 +81,10 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### The School of Rock Wins!
+#### It's a Tie
 
-**The School of Rock** is our winner with 8 points.
+**Priscilla, Queen of the Desert** tied for first place with Pleasantville. We
+will be watching Priscilla.
 
 ## Pics or it didn't happen
 

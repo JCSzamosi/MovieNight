@@ -3,14 +3,11 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times 
-* **Priscilla, Queen of the Desert** (6 votes in favour, 1 against) tied for first 
-place with Pleasantville (7 votes in favour, 2 against).
-* Our benevolent dictator has chosen **Priscilla, Queen of the Desert** as our 
-winner
-* Repo, A Genetic Opera was highly controversial, garnering only three neutral
-votes
-* Only 1 person wanted to watch Solarbabies
+* The survey was completed 15 times 
+* **Be Kind, Rewind** won with 9 votes in favour and 1 against
+* Unusually for us, there is a _strong_ negative correlation between the number
+of positive votes a movie got, and the number of negative votes
+* No movies received a majority of 'meh' votes
 
 ## Setup
 
@@ -81,10 +78,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### It's a Tie
+#### Be Kind, Rewind wins!
 
-**Priscilla, Queen of the Desert** tied for first place with Pleasantville. We
-will be watching Priscilla.
+**Be Kind, Rewind** won with 8 points.
 
 ## Pics or it didn't happen
 

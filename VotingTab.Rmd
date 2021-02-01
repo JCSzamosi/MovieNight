@@ -3,11 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times 
-* **Be Kind, Rewind** won with 9 votes in favour and 1 against
-* Unusually for us, there is a _strong_ negative correlation between the number
-of positive votes a movie got, and the number of negative votes
-* No movies received a majority of 'meh' votes
+* The survey was completed 16 times. That is the most respondents we have had
+in a while
+* **Men in Black** won with 10 votes in favour and 1 against
+* We are back to a flatter relation between positive and negative votes
+* Sonic the Hedgehog and Turbo Kid both garnered negative scores. Will this 
+spell their doom as recurring contenders on the candidate list? Join the 
+post-movie advisory committee to have your say!
 
 ## Setup
 
@@ -78,9 +80,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Be Kind, Rewind wins!
+#### Men in Black wins!
 
-**Be Kind, Rewind** won with 8 points.
+**Men in Black** won with 9 points.
 
 ## Pics or it didn't happen
 

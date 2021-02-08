@@ -3,13 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 16 times. That is the most respondents we have had
-in a while
-* **Men in Black** won with 10 votes in favour and 1 against
-* We are back to a flatter relation between positive and negative votes
-* Sonic the Hedgehog and Turbo Kid both garnered negative scores. Will this 
-spell their doom as recurring contenders on the candidate list? Join the 
-post-movie advisory committee to have your say!
+* The survey was completed 15 times.
+* **Sorry to Bother You** won with 9 votes in favour and none against.
+* Hunt for the Wilderpeople was a strong second place showing, with 6 votes in 
+favour and also none against.
+* We had a fairly apathetic electorate this week, with "meh" winning either a 
+plurality or majority of votes for most of the rest of the movies
+* Even Robocop's -1 score only required 4 votes against to counter the 3 in 
+favour.
 
 ## Setup
 
@@ -80,9 +81,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Men in Black wins!
+#### Sorry to Bother You wins!
 
-**Men in Black** won with 9 points.
+**Sorry to Bother You** won with 9 points.
 
 ## Pics or it didn't happen
 

@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **Sorry to Bother You** won with 9 votes in favour and none against.
-* Hunt for the Wilderpeople was a strong second place showing, with 6 votes in 
-favour and also none against.
-* We had a fairly apathetic electorate this week, with "meh" winning either a 
-plurality or majority of votes for most of the rest of the movies
-* Even Robocop's -1 score only required 4 votes against to counter the 3 in 
-favour.
+* The survey was completed 16 times.
+* We had an extremely unambiguous top two: **Johnny Mnemonic** and Constantine 
+tied for first place with 9 votes each in favour and 2 each against. Our 
+benevolent dictator has decided we will watch Johnny Mnemonic because 2021 is 
+bad.
+* No other movie got more than 6 votes in favour and no movie got more than 4 
+against.
+* The "meh" vote made a strong showing again this week, getting a plurality of
+of the votes in 5 out of 8 movies.
 
 ## Setup
 
@@ -81,9 +82,9 @@ rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### Sorry to Bother You wins!
+#### It's a Tie!
 
-**Sorry to Bother You** won with 9 points.
+**Johnny Mnemonic** and Constantine tied for first place with 7 points each.
 
 ## Pics or it didn't happen
 

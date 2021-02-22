@@ -3,15 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 16 times.
-* We had an extremely unambiguous top two: **Johnny Mnemonic** and Constantine 
-tied for first place with 9 votes each in favour and 2 each against. Our 
-benevolent dictator has decided we will watch Johnny Mnemonic because 2021 is 
-bad.
-* No other movie got more than 6 votes in favour and no movie got more than 4 
-against.
-* The "meh" vote made a strong showing again this week, getting a plurality of
-of the votes in 5 out of 8 movies.
+* The survey was completed 15 times.
+* **Constantine** won with 10 votes in favour and 2 against
+* Margin Call and The Sting tied for last with three votes in favour and six
+against each, but Trading Places had the fewest (2) votes in favour
+* Pump Up the Volume was our most controversial option, gaining only 2 votes of
+"meh".
 
 ## Setup
 
@@ -78,13 +75,13 @@ dat_num = (dat
 		   %>% mutate_all(make_rank))
 results = sort(colSums(dat_num), decreasing = TRUE)
 res_df = data.frame(results)
-rownames(res_df) = rev_titles[rownames(res_df)]
+#rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### It's a Tie!
+#### Constantine Wins!
 
-**Johnny Mnemonic** and Constantine tied for first place with 7 points each.
+**Constantine** won with 8 points!
 
 ## Pics or it didn't happen
 

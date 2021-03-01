@@ -3,12 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **Constantine** won with 10 votes in favour and 2 against
-* Margin Call and The Sting tied for last with three votes in favour and six
-against each, but Trading Places had the fewest (2) votes in favour
-* Pump Up the Volume was our most controversial option, gaining only 2 votes of
-"meh".
+* The survey was completed 14 times.
+* We had a standout favourite this week. **The Mummy** won with 9 votes in 
+favour and 1 against.
+* The Grand Budapest Hotel and Party Monster tied for second place, each with
+6 votes in favour and 3 against.
+* Most voters had opinions about most of the movies. No movie this week garnered
+a majority in its 'meh' category.
+* People seem to have mellowed about Pump Up the Volume
 
 ## Setup
 
@@ -79,9 +81,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Constantine Wins!
+#### The Mummy Wins!
 
-**Constantine** won with 8 points!
+**The Mummy** won with 8 points!
 
 ## Pics or it didn't happen
 

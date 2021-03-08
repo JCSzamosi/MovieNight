@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* We had a standout favourite this week. **The Mummy** won with 9 votes in 
-favour and 1 against.
-* The Grand Budapest Hotel and Party Monster tied for second place, each with
-6 votes in favour and 3 against.
-* Most voters had opinions about most of the movies. No movie this week garnered
-a majority in its 'meh' category.
-* People seem to have mellowed about Pump Up the Volume
+* The survey was completed 16 times.
+* We had four movies vying for top spot this week, with **RED**, Vampire 
+Academy, Speed, and Super Mario Bros all pulling in a plurality of positive
+votes.
+* **RED** won with 10 votes in favour and 3 against
+* The Grand Budapest Hotel achieved maximal apathy this week, with 11 neutral 
+votes
+* Neon Demon only received a single vote in favour, but Life Aquatic became our
+standout loser with a score of -7 and a majority (9) of votes against.
 
 ## Setup
 
@@ -81,9 +82,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### The Mummy Wins!
+#### RED Wins!
 
-**The Mummy** won with 8 points!
+**RED** won with 7 points!
 
 ## Pics or it didn't happen
 

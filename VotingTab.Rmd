@@ -3,15 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 16 times.
-* We had four movies vying for top spot this week, with **RED**, Vampire 
-Academy, Speed, and Super Mario Bros all pulling in a plurality of positive
-votes.
-* **RED** won with 10 votes in favour and 3 against
-* The Grand Budapest Hotel achieved maximal apathy this week, with 11 neutral 
-votes
-* Neon Demon only received a single vote in favour, but Life Aquatic became our
-standout loser with a score of -7 and a majority (9) of votes against.
+* The survey was only completed 8 times.
+* We had a clear winner in **The End Of The World Starring Simon Gets Pegged**
+* Only three options garnered any negative votes at all and no option ended up
+with a negative score
+* Hot Fuzz But In A Pub received the highest number of 'meh' votes (7/8) with
+Shaun Of The Dead But In A Pub coming close behind at 6/8.
+* Join us on Tuesday, March 16, 2021 to watch Simon get pegged
 
 ## Setup
 
@@ -49,12 +47,15 @@ datm = as.matrix(dat)
 
 tdf = read.csv('data/current_movies.csv', row.names = 1, header = FALSE, 
 			   stringsAsFactors = FALSE)
-tdf = rbind('Timestamp',tdf)
 titles = tdf[[1]]
-names(titles) = c('Timestamp', rownames(tdf)[-1])
+names(titles) = c(rownames(tdf))
 
 datm[datm %in% names(titles)] = titles[datm[datm %in% names(titles)]]
 
+# rev_titles = gsub(' [','',names(titles), fixed = TRUE)
+# rev_titles = gsub(']','',rev_titles, fixed = TRUE)
+# names(rev_titles) = titles
+# colnames(datm) = rev_titles[colnames(datm)]
 colnames(datm) = datm[1,]
 datm = datm[-1,]
 
@@ -62,9 +63,6 @@ dat = (datm
 	   %>% data.frame()
 	   %>% mutate(Timestamp = substr(Timestamp, 1, 18),
 	   		   Timestamp = ymd_hms(Timestamp)))
-rev_titles = gsub(' [','',names(titles), fixed = TRUE)
-rev_titles = gsub(']','',rev_titles, fixed = TRUE)
-names(rev_titles) = titles
 ```
 
 </details>
@@ -78,13 +76,13 @@ dat_num = (dat
 		   %>% mutate_all(make_rank))
 results = sort(colSums(dat_num), decreasing = TRUE)
 res_df = data.frame(results)
-#rownames(res_df) = rev_titles[rownames(res_df)]
+# rownames(res_df) = rev_titles[rownames(res_df)]
 res_df
 ```
 
-#### RED Wins!
+#### Simon Gets Pegged Wins!
 
-**RED** won with 7 points!
+**The World's End Starring Simon Gets Pegged** won with 6 points!
 
 ## Pics or it didn't happen
 

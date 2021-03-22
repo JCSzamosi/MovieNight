@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was only completed 8 times.
-* We had a clear winner in **The End Of The World Starring Simon Gets Pegged**
-* Only three options garnered any negative votes at all and no option ended up
-with a negative score
-* Hot Fuzz But In A Pub received the highest number of 'meh' votes (7/8) with
-Shaun Of The Dead But In A Pub coming close behind at 6/8.
-* Join us on Tuesday, March 16, 2021 to watch Simon get pegged
+* The survey was completed 15 times
+* **R.I.P.D** won with 9 votes in favour and 3 against
+* A majority of movies (5) received 'meh' for the majority of their votes
+* We had three movies go into negative points this week, with The Producers
+receiving only a single vote in favour
+* Our least-unpopular movies were Super Mario Bros. and Speed, each of which
+received only a single vote against.
 
 ## Setup
 
@@ -80,9 +80,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Simon Gets Pegged Wins!
+#### R.I.P.D. WINS!!
 
-**The World's End Starring Simon Gets Pegged** won with 6 points!
+**R.I.P.D. won with 6 points!**
 
 ## Pics or it didn't happen
 

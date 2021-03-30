@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times
-* **R.I.P.D** won with 9 votes in favour and 3 against
-* A majority of movies (5) received 'meh' for the majority of their votes
-* We had three movies go into negative points this week, with The Producers
-receiving only a single vote in favour
-* Our least-unpopular movies were Super Mario Bros. and Speed, each of which
-received only a single vote against.
+* The survey was completed 13 times
+* **Super Mario Bros** won with 8 votes in favour and 1 against
+* Super Mario Bros and Vampire Academy both received a majority of positive 
+votes (8 each) while It's A Mad Mad Mad World received a majority (7) of
+negative votes
+* Most people had either positive or negative opinions about most movies, but
+we still had two movies (Tremors and Mannequin) wash out to 0 points
 
 ## Setup
 
@@ -80,9 +80,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### R.I.P.D. WINS!!
+#### Super Mario Bros Wins!!
 
-**R.I.P.D. won with 6 points!**
+**Super Mario Bros won with 7 points!**
 
 ## Pics or it didn't happen
 

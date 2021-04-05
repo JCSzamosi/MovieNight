@@ -3,13 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times
-* **Super Mario Bros** won with 8 votes in favour and 1 against
-* Super Mario Bros and Vampire Academy both received a majority of positive 
-votes (8 each) while It's A Mad Mad Mad World received a majority (7) of
-negative votes
-* Most people had either positive or negative opinions about most movies, but
-we still had two movies (Tremors and Mannequin) wash out to 0 points
+* The survey was only completed 12 times, leading to a three-way tie for 
+second place.
+* **Speed** won with 5 votes in favour and 2 against
+* This may be our least popular slate of candidates to date
+* Four movies received negative scores, and only our winner got more than one
+point
+* No movie got a majority or even plurality of positive votes
+* Only one person voted for Demolition Man
 
 ## Setup
 
@@ -80,9 +81,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Super Mario Bros Wins!!
+#### Speed Wins!!
 
-**Super Mario Bros won with 7 points!**
+**Speed** wins with 3 points!
 
 ## Pics or it didn't happen
 

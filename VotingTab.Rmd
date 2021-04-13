@@ -3,14 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was only completed 12 times, leading to a three-way tie for 
-second place.
-* **Speed** won with 5 votes in favour and 2 against
-* This may be our least popular slate of candidates to date
-* Four movies received negative scores, and only our winner got more than one
-point
-* No movie got a majority or even plurality of positive votes
-* Only one person voted for Demolition Man
+* The survey was only completed 13 times,
+* **Vampire Academy** won with 7 votes in favour and 2 against
+* We had two perfect ties this week. The Net and Point Break tied for fourth
+and The Expendables and Bill and Ted 3 tied for sixth place.
+* Three movies had negative scores, but no movie scored less than -1.
+* Our winner, Vampire Academy, actually got a majority of positive votes
+* Votes were remarkably evenly split between the three options for most of 
+our candidates.
 
 ## Setup
 
@@ -81,9 +81,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Speed Wins!!
+#### Vampire Academy Wins!!
 
-**Speed** wins with 3 points!
+**Vampire Academy** wins with 5 points!
 
 ## Pics or it didn't happen
 

@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was only completed 13 times,
-* **Vampire Academy** won with 7 votes in favour and 2 against
-* We had two perfect ties this week. The Net and Point Break tied for fourth
-and The Expendables and Bill and Ted 3 tied for sixth place.
-* Three movies had negative scores, but no movie scored less than -1.
-* Our winner, Vampire Academy, actually got a majority of positive votes
-* Votes were remarkably evenly split between the three options for most of 
-our candidates.
+* The survey was only completed 12 times. Engagement has been dropping recently
+* **Harold and Kumar** won with 10 votes in favour and 0 against
+* This was a reasonably popular slate of candidates. No movies got negative 
+scores, but **Harold and Kumar** was the only movie with 0 negative votes
+* **Harold and Kumar** was also the only movie with a majority of votes in any
+category. No other movie got more than 6 positive, neutral, or negative votes.
+* Blaze it
 
 ## Setup
 
@@ -83,7 +82,7 @@ res_df
 
 #### Vampire Academy Wins!!
 
-**Vampire Academy** wins with 5 points!
+**Harold and Kumar** wins with 10 points!
 
 ## Pics or it didn't happen
 

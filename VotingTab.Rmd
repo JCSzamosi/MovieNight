@@ -3,16 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. This is three more participants than last 
-week
-* **Lock, Stock, and Two Smoking Barrels** won with 8 points in favour and 2
-against
-* There was a fair amount of apathy towards this week's slate of candidates.
-Three movies garnered a majority of neutral votes
-* No movies received a majority of negative votes
-* Who Framed Roger Rabbit and The Net tied for second place, but fewer people
-cared about The Net
-* Minority Report has dropped significantly in the rankings
+* The survey was completed 11 times. This is an exceptionally low number for us.
+* **Logan Lucky** won with 4 points in favour and 2 against
+* Who Framed Roger Rabbit had the least interest of any kind, with only three 
+votes either for or against.
+* No movie received a majority of positive or negative votes
+* Dodgeball was the movie that received the most interest, with 4 votes each for
+and against
 
 ## Setup
 
@@ -85,7 +82,7 @@ res_df
 
 #### Vampire Academy Wins!!
 
-**Lock, Stock, and Two Smoking Barrels** wins with 6 points!
+**Logan Lucky** wins with 2 points!
 
 ## Pics or it didn't happen
 

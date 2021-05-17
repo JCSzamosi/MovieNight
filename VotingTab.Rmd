@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. These low engagement numbers are becoming a
-habit
-* **Postcards from the Edge** won with 6 votes in favour and 1 against
-* Row1 and War Games tied for fewest 'meh' votes, with three each
-* More people wanted to see Row1 than wanted to see Ronin, Blue Crush, Indiana
-Jones, or That Thing You Do
-* Only one person voted for Corvette Summer
+* The survey was completed 14 times. Thank you for voting!
+* **Spaceballs** won with 7 votes in favour and 2 against
+* Wild Wild Wild West and Lego Batman tied for second, but Lego Batman garnered
+more interest in both directions and had the fewest 'meh' votes overall
+* Blue Crush continues to perform poorly
+* The Burbs and Who Framed Roger Rabbit both garnered the least interest, with 9
+'meh' votes each
 
 ## Setup
 
@@ -82,7 +82,7 @@ res_df
 
 #### Vampire Academy Wins!!
 
-**Postcards from the Edge** wins with 5 points!
+**Spaceballs** wins with 5 points!
 
 ## Pics or it didn't happen
 

@@ -3,13 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times. Thank you for voting!
-* **Spaceballs** won with 7 votes in favour and 2 against
-* Wild Wild Wild West and Lego Batman tied for second, but Lego Batman garnered
-more interest in both directions and had the fewest 'meh' votes overall
-* Blue Crush continues to perform poorly
-* The Burbs and Who Framed Roger Rabbit both garnered the least interest, with 9
-'meh' votes each
+* The survey was completed 11 times. Small numbers does tend to lead to ties.
+* **Ronin** and Lego Batman tied for first place, but fewer people voted against
+**Ronin**, which is how we default to breaking ties.
+* Independence Day and Lego Batman both receive 6 votes in favour, but 
+Independence Day got one additional vote against.
+* Only one person wanted to watch Monkey Warfare
+* Lego Batman and ID both had a majority positive votes, while War Games,
+The Sure Thing, and Monkey Warfare all got a majority 'meh' votes. No movie
+got a majority negative votes.
 
 ## Setup
 
@@ -82,7 +84,8 @@ res_df
 
 #### Vampire Academy Wins!!
 
-**Spaceballs** wins with 5 points!
+**Ronin** and Lego Batman tied for first place, with 4 points each. Our 
+benevolent dictator has decreed that we will be watching Ronin.
 
 ## Pics or it didn't happen
 

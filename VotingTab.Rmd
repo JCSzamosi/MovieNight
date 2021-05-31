@@ -3,15 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Small numbers does tend to lead to ties.
-* **Ronin** and Lego Batman tied for first place, but fewer people voted against
-**Ronin**, which is how we default to breaking ties.
-* Independence Day and Lego Batman both receive 6 votes in favour, but 
-Independence Day got one additional vote against.
-* Only one person wanted to watch Monkey Warfare
-* Lego Batman and ID both had a majority positive votes, while War Games,
-The Sure Thing, and Monkey Warfare all got a majority 'meh' votes. No movie
-got a majority negative votes.
+* The survey was completed 15 times
+* **Happy Feet** won with 12 votes in favour and 2 against
+* **Happy Feet** and Lego Batman both received majority positive votes. 
+Independence Day, Roger Rabbit, and Rush Hour all received majority 'meh' votes
+* Dodgeball received the most negative votes, while Rush Hour received the 
+fewest positive votes.
+* We had three movies with negative scores this time.
 
 ## Setup
 
@@ -84,8 +82,7 @@ res_df
 
 #### Vampire Academy Wins!!
 
-**Ronin** and Lego Batman tied for first place, with 4 points each. Our 
-benevolent dictator has decreed that we will be watching Ronin.
+**Happy Feet** wins with 10 points!
 
 ## Pics or it didn't happen
 

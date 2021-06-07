@@ -3,13 +3,11 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times
-* **Happy Feet** won with 12 votes in favour and 2 against
-* **Happy Feet** and Lego Batman both received majority positive votes. 
-Independence Day, Roger Rabbit, and Rush Hour all received majority 'meh' votes
-* Dodgeball received the most negative votes, while Rush Hour received the 
-fewest positive votes.
-* We had three movies with negative scores this time.
+* The survey was completed 10 times
+* **Paris is Burning** won with 8 votes in favour and 1 against
+* Happy People and Icarus tied for least interest with 7 'meh' votes each
+* Lo and Behold and F For Fake tied for last with 0 points each
+* No movie went in to negative scores.
 
 ## Setup
 
@@ -82,7 +80,7 @@ res_df
 
 #### Vampire Academy Wins!!
 
-**Happy Feet** wins with 10 points!
+**Paris is Burning** wins with 7 points!
 
 ## Pics or it didn't happen
 

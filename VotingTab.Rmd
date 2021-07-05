@@ -3,13 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times
-* **Pokemon: Detective Pikachu** won with 8 votes in favour and 1 against
-* Hunt for the Wilderpeople came a close second with 7 votes in favour and 
-also 1 against.
-* The Grand Budapest Hotel and Minority Report have both plummeted in the 
-rankings relative to previous weeks. They tied for last place with -3 points
-each
+* The survey was completed 10 times.
+* **Fursonas** won with 7 votes in favour and none against
+* Class Action Park came a close second with 6 votes in favour and 2 against.
+* Very few movies generated much excitement in either direction. 5 of our 8 
+candidates received a majority of their votes in the 'meh' category.
+* Only three movies received positive scores, but the lowest score was only -1.
 
 ## Setup
 
@@ -82,7 +81,7 @@ res_df
 
 #### Vampire Academy Wins!!
 
-**Pokemon: Detective Pikachu** wins with 7 points!
+**Fursonas** wins with 7 points!
 
 ## Pics or it didn't happen
 

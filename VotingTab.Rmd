@@ -3,12 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times.
-* **Fursonas** won with 7 votes in favour and none against
-* Class Action Park came a close second with 6 votes in favour and 2 against.
-* Very few movies generated much excitement in either direction. 5 of our 8 
-candidates received a majority of their votes in the 'meh' category.
-* Only three movies received positive scores, but the lowest score was only -1.
+* The survey was completed 8 times.
+* **Pithc Perfect** won with 2 votes in favour and none against
+* There was an unprecedented lack of enthusiasm for this week's options
+* Dragonheart, Hunt for the Wilderpeople, and Venom, all got three votes in 
+favour, and 1, 2, and 3 votes against respectively.
+* Nobody wants to know who framed Roger Rabbit
 
 ## Setup
 
@@ -79,9 +79,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!!
+#### Vampire Academy Ties!
 
-**Fursonas** wins with 7 points!
+**Pitch Perfect** and Dragonheart tied for first place with 2 points each! Our
+benevolent dictator has decreed that we will be watching **Pitch Perfect**.
 
 ## Pics or it didn't happen
 

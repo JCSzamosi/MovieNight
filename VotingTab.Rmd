@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 8 times.
-* **Step Up 2** won with 5 votes in favour and one against
-* There was a four-way tie for last with Into The Woods, The Last Five Years, 
-Love Songs, and Company all garnering -3 point each; however, only Company had 0
-votes in favour
-* Only two of our options received positive scores, but only Company received a
-majority of its votes in the 'meh' option
+* The survey was completed 12 times.
+* **Magic Mike XXL** won with 10 votes in favour and one against
+* Cruella made a strong second with 7 votes in favour and zero against
+* The movie that garnered the least interest in either direction was Tales from
+the Crypt
+* Stick It, Phanton of the Paradise, and The Muppets had a perfect 3-way tie for
+third place
 
 ## Setup
 
@@ -82,7 +82,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Step Up 2** wins with 4 points!
+**Magic Mike XXL** wins with 9 points!
 
 ## Pics or it didn't happen
 

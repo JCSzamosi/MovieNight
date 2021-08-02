@@ -3,13 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times.
-* **Magic Mike XXL** won with 10 votes in favour and one against
-* Cruella made a strong second with 7 votes in favour and zero against
-* The movie that garnered the least interest in either direction was Tales from
-the Crypt
-* Stick It, Phanton of the Paradise, and The Muppets had a perfect 3-way tie for
-third place
+* The survey was completed 11 times.
+* **Muppet Treasure Island** won with 7 votes in favour and none against
+* Dolemite received 6 votes in favour and 3 against
+* Five of our eight choices received exactly three negative votes each
+* Warm Bodies received the fewest positive votes, but Turbo Kid and Pig both
+got more votes against
 
 ## Setup
 
@@ -82,7 +81,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Magic Mike XXL** wins with 9 points!
+**Muppet Treasure Island** wins with 7 points!
 
 ## Pics or it didn't happen
 

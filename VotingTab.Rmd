@@ -4,11 +4,14 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 11 times.
-* **Muppet Treasure Island** won with 7 votes in favour and none against
-* Dolemite received 6 votes in favour and 3 against
-* Five of our eight choices received exactly three negative votes each
-* Warm Bodies received the fewest positive votes, but Turbo Kid and Pig both
-got more votes against
+* **Sonic the Hedgehog** won with 3 votes in favour and 1 against
+* Run Lola Run also has 2 points, but it had fewer negative (and positive)
+votes, so it will be our backup movie
+* The 'meh' vote won the day in most of this week's options
+* No movie received zero positive votes or zero negative votes
+* Half of the movies received negative scores, and the least popular 
+movie had more negative votes than the most popular movie received positive
+votes
 
 ## Setup
 
@@ -79,9 +82,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Muppet Treasure Island** wins with 7 points!
+**Sonic the Hedgehog** and Run Lola Run tie with 2 points each! We will be 
+watching **Sonic the Hedgehog**
 
 ## Pics or it didn't happen
 

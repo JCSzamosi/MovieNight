@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times.
-* **Sonic the Hedgehog** won with 3 votes in favour and 1 against
-* Run Lola Run also has 2 points, but it had fewer negative (and positive)
-votes, so it will be our backup movie
-* The 'meh' vote won the day in most of this week's options
-* No movie received zero positive votes or zero negative votes
-* Half of the movies received negative scores, and the least popular 
-movie had more negative votes than the most popular movie received positive
-votes
+* The survey was completed 13 times.
+* **Circus of Books** won with 6 votes in favour and none against
+* Class Action Park also received 6 points, but because that included 2 votes
+against, it will be our backup movie
+* The 'meh' vote had a plurality in all but the top two movies
+* Only Have a Good Trip received a negative score, with three votes in favour 
+and four against
+* Icarus garnered the least interest, with 8/13 neutral votes
 
 ## Setup
 
@@ -84,8 +83,8 @@ res_df
 
 #### Vampire Academy Ties!
 
-**Sonic the Hedgehog** and Run Lola Run tie with 2 points each! We will be 
-watching **Sonic the Hedgehog**
+Class Action Park and **Circus of Books** tie with 6 points each. We will be
+watching **Circus of Books**
 
 ## Pics or it didn't happen
 

@@ -3,14 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times.
-* **Circus of Books** won with 6 votes in favour and none against
-* Class Action Park also received 6 points, but because that included 2 votes
-against, it will be our backup movie
-* The 'meh' vote had a plurality in all but the top two movies
-* Only Have a Good Trip received a negative score, with three votes in favour 
-and four against
-* Icarus garnered the least interest, with 8/13 neutral votes
+* The survey was completed 17 times. The tabulation committee thanks you all for
+your active participation in the democratic process
+* **Batman Forever** won with 11 votes in favour and two against
+* We had a fairly popular suite of candidates this week. Six of our eight movies 
+had only 2 votes against
+* Howard The Duck was the only movie that received a negative score this week
+* Night at the Museum garnered the least interest, with 11 'meh' votes
+* Shape of Water made a close seconds with 10 apathetic votes
 
 ## Setup
 
@@ -81,10 +81,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-Class Action Park and **Circus of Books** tie with 6 points each. We will be
-watching **Circus of Books**
+**Batman Forever** wins with 9 points!
 
 ## Pics or it didn't happen
 

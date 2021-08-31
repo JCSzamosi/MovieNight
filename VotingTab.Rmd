@@ -3,14 +3,17 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 17 times. The tabulation committee thanks you all for
-your active participation in the democratic process
-* **Batman Forever** won with 11 votes in favour and two against
-* We had a fairly popular suite of candidates this week. Six of our eight movies 
-had only 2 votes against
-* Howard The Duck was the only movie that received a negative score this week
-* Night at the Museum garnered the least interest, with 11 'meh' votes
-* Shape of Water made a close seconds with 10 apathetic votes
+* The survey was completed 18 times. The tabulation committee thanks you all for
+your continued active participation in the democratic process
+* **Batman Returns** won with 13 votes in favour and one against
+* Pirates of the Caribbean tied for second place with The Suicide Squad. Our
+emergency backup movie will be Suicide Squad.
+* We had a broad range of popularities this week. Birdman's -5 score might be 
+the lowest score any movie has received so far, but I am not going to check.
+* No movie received a majority of its votes in the 'meh' category, although The
+Fugitive had 9 meh votes out of 18.
+* Batman Returns's 13 positive votes was the only case of a movie getting more
+than half of its votes in a give category
 
 ## Setup
 
@@ -83,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Batman Forever** wins with 9 points!
+**Batman Returns** wins with 12 points!
 
 ## Pics or it didn't happen
 

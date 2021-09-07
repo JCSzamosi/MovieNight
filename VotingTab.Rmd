@@ -5,15 +5,14 @@ Movie Night Voting Tabulation
 
 * The survey was completed 18 times. The tabulation committee thanks you all for
 your continued active participation in the democratic process
-* **Batman Returns** won with 13 votes in favour and one against
-* Pirates of the Caribbean tied for second place with The Suicide Squad. Our
-emergency backup movie will be Suicide Squad.
-* We had a broad range of popularities this week. Birdman's -5 score might be 
-the lowest score any movie has received so far, but I am not going to check.
-* No movie received a majority of its votes in the 'meh' category, although The
-Fugitive had 9 meh votes out of 18.
-* Batman Returns's 13 positive votes was the only case of a movie getting more
-than half of its votes in a give category
+* **Pirates of the Caribbean** won with 7 votes in favour and two against
+* Porco Rosso came in second with 7 votes in favour and two against. If we are
+not careful, we will end up watching a pig movie
+* Only one person wanted to watch Demolition Man
+* Get Shorty, Demolition Man, and The Rocketeer all received a majority of their
+votes in the 'meh' category. We may need a more interesting slate next week.
+* Four movies received negative scores, with Demolition Man and The Rocketeer 
+tying for last place with -4 points.
 
 ## Setup
 
@@ -86,7 +85,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Batman Returns** wins with 12 points!
+**Pirates of the Caribbean** wins with 5 points!
 
 ## Pics or it didn't happen
 

@@ -3,16 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 18 times. The tabulation committee thanks you all for
-your continued active participation in the democratic process
-* **Pirates of the Caribbean** won with 7 votes in favour and two against
-* Porco Rosso came in second with 7 votes in favour and two against. If we are
-not careful, we will end up watching a pig movie
-* Only one person wanted to watch Demolition Man
-* Get Shorty, Demolition Man, and The Rocketeer all received a majority of their
-votes in the 'meh' category. We may need a more interesting slate next week.
-* Four movies received negative scores, with Demolition Man and The Rocketeer 
-tying for last place with -4 points.
+* The survey was completed 12 times. As usual, engagement is reduced on 
+specialty weeks.
+* **Class Action Park** won with 7 votes in favour and one against
+* Zipper came in second with 5 votes in favour and one against; however, due to
+technical difficulties our backup movie will be Bob Ross
+* Bob Ross was the only movie that no one voted against.
+* With the exception of Class Action Park, all movies received a plurality of 
+their votes in the 'meh' category
 
 ## Setup
 
@@ -85,7 +83,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Pirates of the Caribbean** wins with 5 points!
+**Class Action Park** wins with 6 points!
 
 ## Pics or it didn't happen
 

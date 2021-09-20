@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. As usual, engagement is reduced on 
-specialty weeks.
-* **Class Action Park** won with 7 votes in favour and one against
-* Zipper came in second with 5 votes in favour and one against; however, due to
-technical difficulties our backup movie will be Bob Ross
-* Bob Ross was the only movie that no one voted against.
-* With the exception of Class Action Park, all movies received a plurality of 
-their votes in the 'meh' category
+* The survey was completed 13 times. Watch for further entergagement boosting 
+efforts from your humble organizing committee
+* **Clue** won with 8 votes in favour and two against
+* Hook came in second with 6 votes in favour and 1 against.
+* Crocodile Dundee was the most unpopular, with 5 votes against, while The
+Suicide Squad and The Rocketeer tied for least interest, each receiving 8 'meh'
+votes.
 
 ## Setup
 
@@ -83,7 +82,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Class Action Park** wins with 6 points!
+**Clue** wins with 6 points!
 
 ## Pics or it didn't happen
 

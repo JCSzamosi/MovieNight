@@ -3,23 +3,29 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Watch for further entergagement boosting 
-efforts from your humble organizing committee
-* **Clue** won with 8 votes in favour and two against
-* Hook came in second with 6 votes in favour and 1 against.
-* Crocodile Dundee was the most unpopular, with 5 votes against, while The
-Suicide Squad and The Rocketeer tied for least interest, each receiving 8 'meh'
-votes.
+* The survey was completed an unprecedented 21 times. This may in part be 
+explained by an early error in the poll that required some people to vote a 
+second time. All votes pertaining to what was originally listed as The Goonies
+were inhereted by The Hunt for Red October.
+* **Hook** won with 14 votes in favour and four against
+* Exactly one person would REALLY LIKE to watch Airheads
+* We had a relatively engaged electorate this week. Of all votes cast, 45 were
+'meh', 57 were against something, and 66 were in favour of something.
+* **Hook** and Clueless both received a majority of their votes in the plus
+category, while Airheads was the only movie to receive a majority of its votes
+in the minus category. No movie received a majority 'meh' votes.
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
+setwd('~/Documents/PersonalProjects/MovieNight/')
+#setwd('~/Projects/Personal/MovieNight')
 library(tidyverse)
 library(lubridate)
-devtools::load_all('~/Projects/Mine/aftersl1p/')
+#devtools::load_all('~/Projects/Mine/aftersl1p/')
+devtools::load_all('~/Documents/PersonalProjects/aftersl1p/')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -82,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Clue** wins with 6 points!
+**Hook** wins with 10 points!
 
 ## Pics or it didn't happen
 

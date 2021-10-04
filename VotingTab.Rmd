@@ -3,17 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed an unprecedented 21 times. This may in part be 
-explained by an early error in the poll that required some people to vote a 
-second time. All votes pertaining to what was originally listed as The Goonies
-were inhereted by The Hunt for Red October.
-* **Hook** won with 14 votes in favour and four against
-* Exactly one person would REALLY LIKE to watch Airheads
-* We had a relatively engaged electorate this week. Of all votes cast, 45 were
-'meh', 57 were against something, and 66 were in favour of something.
-* **Hook** and Clueless both received a majority of their votes in the plus
-category, while Airheads was the only movie to receive a majority of its votes
-in the minus category. No movie received a majority 'meh' votes.
+* The survey was completed an unprecedented 14 times.
+* **Stranger Than Fiction** won with 8 votes in favour and 1 against
+* Every movie got at least 2 votes in favour, but Blast from the Past got 8 
+votes against.
+* Clueless remains a highly polarizing movie, with only 2 votes in the 'meh'
+category
+* We had a pretty engaged electorate this week. Only two movies received a
+majority of their votes in the 'meh' category.
 
 ## Setup
 
@@ -88,7 +85,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Hook** wins with 10 points!
+**Stranger Than Fiction** wins with 7 points!
 
 ## Pics or it didn't happen
 

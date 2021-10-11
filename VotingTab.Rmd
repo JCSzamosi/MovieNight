@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed an unprecedented 14 times.
-* **Stranger Than Fiction** won with 8 votes in favour and 1 against
-* Every movie got at least 2 votes in favour, but Blast from the Past got 8 
-votes against.
-* Clueless remains a highly polarizing movie, with only 2 votes in the 'meh'
-category
-* We had a pretty engaged electorate this week. Only two movies received a
-majority of their votes in the 'meh' category.
+* The survey was completed 16 times.
+* **St. Trinians**, The Kitchen, and The Bling Ring tied for first place, each
+receiving 8 votes in favour and 3 against.
+* The Accountant, Night at the Museum, and Air Bud tied for last, but with 
+different numbers of votes in each category. Air Bud generated the least
+interest in either direction.
+* Clueless is no longer our most polarizing option. Five of our eight movies 
+received the same number of 'meh' votes.
+* The Accountant received the most negative votes in all.
 
 ## Setup
 
@@ -83,9 +84,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Stranger Than Fiction** wins with 7 points!
+**St. Trinian's**, The Kitchen, and The Bling Ring tied for first with 5 points
+each! We will be watching **St. Trinian's**.
 
 ## Pics or it didn't happen
 

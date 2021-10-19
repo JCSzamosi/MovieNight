@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 16 times.
-* **St. Trinians**, The Kitchen, and The Bling Ring tied for first place, each
-receiving 8 votes in favour and 3 against.
-* The Accountant, Night at the Museum, and Air Bud tied for last, but with 
-different numbers of votes in each category. Air Bud generated the least
-interest in either direction.
-* Clueless is no longer our most polarizing option. Five of our eight movies 
-received the same number of 'meh' votes.
-* The Accountant received the most negative votes in all.
+* The survey was completed 14 times.
+* **Witches of Eastwick** and The Kitchen tied for first place, both receiving
+8 votes in favour and none against!
+* Scooby-Doo and St. Trinian's 2 both received equal numbers of positive and
+negative votes, but St. Trinian's 2 garnered more interest overall.
+* We had a fairly popular slate this week, with only three movies receiving more
+than one negative vote
+* No movie got a negative score.
 
 ## Setup
 
@@ -86,8 +85,8 @@ res_df
 
 #### Vampire Academy Ties!
 
-**St. Trinian's**, The Kitchen, and The Bling Ring tied for first with 5 points
-each! We will be watching **St. Trinian's**.
+**Witches of Eastwick** and The Kitchen tied for first with 8 points
+each! We will be watching **Witches of Eastwick**.
 
 ## Pics or it didn't happen
 

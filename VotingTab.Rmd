@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Witches of Eastwick** and The Kitchen tied for first place, both receiving
-8 votes in favour and none against!
-* Scooby-Doo and St. Trinian's 2 both received equal numbers of positive and
-negative votes, but St. Trinian's 2 garnered more interest overall.
-* We had a fairly popular slate this week, with only three movies receiving more
-than one negative vote
-* No movie got a negative score.
+* The survey was completed 19 times. Your engagement with the democratic 
+process is appreciated
+* **Zombieland** won with 7 votes in favour and 2 against.
+* Only two movies received a majority of their votes in any category: apathy
+won both Manborg (12 votes) and Deathgasm (11).
+* Hausu was the least popular by a fair bit, scoring 4 points lower than the 
+next lowest scoring movie
+* Ginger Snaps and The Thing tied for second place. Our backup movie will be 
+The Thing.
 
 ## Setup
 
@@ -83,10 +84,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Witches of Eastwick** and The Kitchen tied for first with 8 points
-each! We will be watching **Witches of Eastwick**.
+**Zombieland** wins with 5 points.
 
 ## Pics or it didn't happen
 

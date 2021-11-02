@@ -3,15 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 19 times. Your engagement with the democratic 
-process is appreciated
-* **Zombieland** won with 7 votes in favour and 2 against.
-* Only two movies received a majority of their votes in any category: apathy
-won both Manborg (12 votes) and Deathgasm (11).
-* Hausu was the least popular by a fair bit, scoring 4 points lower than the 
-next lowest scoring movie
-* Ginger Snaps and The Thing tied for second place. Our backup movie will be 
-The Thing.
+* The survey was completed 15 times.
+* **Jennifer's Body** won with 10 votes in favour and 3 against.
+* Jennifer's Body was also the only film to get the majority of its votes in the
+positive category.
+* Only one other movie (Queen of the Damned) got a majority in any category. 
+* Most movies had a fairly even distribution of votes, indicating high voter 
+interest (positive or negative) in all of the movies
+* Anaconda and The Thing tied for last, but The Thing garnered more interest 
+overall
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Zombieland** wins with 5 points.
+**Jennifer's Body** wins with 7 points.
 
 ## Pics or it didn't happen
 

@@ -3,27 +3,27 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **Jennifer's Body** won with 10 votes in favour and 3 against.
-* Jennifer's Body was also the only film to get the majority of its votes in the
-positive category.
-* Only one other movie (Queen of the Damned) got a majority in any category. 
-* Most movies had a fairly even distribution of votes, indicating high voter 
-interest (positive or negative) in all of the movies
-* Anaconda and The Thing tied for last, but The Thing garnered more interest 
-overall
+* The survey was completed 13 times.
+* **Air Bud** won with 5 votes in favour and 3 against.
+* Sleeping with Other People came in second with four votes in favour
+* Four movies received negative scores, with Scooby Doo bringing up the rear 
+with 6 votes against and only 1 for
+* We had a number of unpopular movies. The bottom three options all received 6
+votes against, nearly half of all their votes
+* The Kitchen received the least interest, positive or negative, with 8/13 'meh'
+votes
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Documents/PersonalProjects/MovieNight/')
-#setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Documents/PersonalProjects/MovieNight/')
+setwd('~/Projects/Personal/MovieNight')
 library(tidyverse)
 library(lubridate)
-#devtools::load_all('~/Projects/Mine/aftersl1p/')
-devtools::load_all('~/Documents/PersonalProjects/aftersl1p/')
+devtools::load_all('~/Projects/Mine/aftersl1p/')
+# devtools::load_all('~/Documents/PersonalProjects/aftersl1p/')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Jennifer's Body** wins with 7 points.
+**Air Bud** wins with 2 points.
 
 ## Pics or it didn't happen
 

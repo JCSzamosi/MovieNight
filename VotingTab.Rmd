@@ -4,14 +4,14 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 13 times.
-* **Air Bud** won with 5 votes in favour and 3 against.
-* Sleeping with Other People came in second with four votes in favour
-* Four movies received negative scores, with Scooby Doo bringing up the rear 
-with 6 votes against and only 1 for
-* We had a number of unpopular movies. The bottom three options all received 6
-votes against, nearly half of all their votes
-* The Kitchen received the least interest, positive or negative, with 8/13 'meh'
-votes
+* **Get Shorty** won with 4 votes in favour and 2 against.
+* Sleeping with Other People came in second for the second week in a row,
+this time with three votes in favour and two against
+* Only three movies received net positive scores
+* Bend It Like Beckham generated the most interest in either direction, with 
+only three of its votes in the 'meh' category
+* The Accountant received the most hate, with 6 votes against, while Spy Kids
+received the least love with only one vote in favour
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Air Bud** wins with 2 points.
+**Get Shorty** wins with 2 points.
 
 ## Pics or it didn't happen
 

@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times.
-* **Get Shorty** won with 4 votes in favour and 2 against.
-* Sleeping with Other People came in second for the second week in a row,
-this time with three votes in favour and two against
-* Only three movies received net positive scores
-* Bend It Like Beckham generated the most interest in either direction, with 
-only three of its votes in the 'meh' category
-* The Accountant received the most hate, with 6 votes against, while Spy Kids
-received the least love with only one vote in favour
+* The survey was completed 15 times.
+* **Guns Akimbo** won with 7 votes in favour and 2 against.
+* Cruella came in second with only 6 votes in favour
+* Fully half of our candidates were in negative scores; however, the lowest 
+score was only -2
+* Throw Momma under the Train garnered the least interest with 10 'meh' votes
+* Every movie got at least 6 'meh' votes, but no movie got more than 5 'no' 
+votes
 
 ## Setup
 
@@ -86,7 +85,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Get Shorty** wins with 2 points.
+**Guns Akimbo** wins with 5 points.
 
 ## Pics or it didn't happen
 

@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **Guns Akimbo** won with 7 votes in favour and 2 against.
-* Cruella came in second with only 6 votes in favour
-* Fully half of our candidates were in negative scores; however, the lowest 
-score was only -2
-* Throw Momma under the Train garnered the least interest with 10 'meh' votes
-* Every movie got at least 6 'meh' votes, but no movie got more than 5 'no' 
-votes
+* The survey was completed 11 times. Close call for the pig this week.
+* **Horns** won with 6 votes in favour and 3 against.
+* Swiss Army Man can in second with 4 votes in favour and 2 against.
+* Engagement was high this week, despite low participation. Only one movie 
+garnered a majority of its votes in the 'meh' category.
+* Cooties received the most interest overall, with only a single 'meh' vote.
+* Every single movie received at least one vote in favour, which was not a given
+with this week's list
+* Every movie received at least two votes against
 
 ## Setup
 
@@ -85,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Guns Akimbo** wins with 5 points.
+**Horns** wins with 3 points.
 
 ## Pics or it didn't happen
 

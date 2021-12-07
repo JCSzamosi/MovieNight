@@ -3,15 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Close call for the pig this week.
-* **Horns** won with 6 votes in favour and 3 against.
-* Swiss Army Man can in second with 4 votes in favour and 2 against.
-* Engagement was high this week, despite low participation. Only one movie 
-garnered a majority of its votes in the 'meh' category.
-* Cooties received the most interest overall, with only a single 'meh' vote.
-* Every single movie received at least one vote in favour, which was not a given
-with this week's list
-* Every movie received at least two votes against
+* The survey was completed 15 times.
+* **Venom 2** won with 8 votes in favour and 3 against.
+* Gunpowder Milkshake came in second with 6 votes in favour and 4 against.
+* Every other movie on the list got negative points.
+* At -9, The Fugitive might have received the lowest score we've seen so far. 
+As usual, however, I am not going to go back and check. The repo is public if 
+anyone else wants to.
+* Cooties received the fewest neutral votes (1) while Snakes on a Plane received
+the most (6). No movie received a majority of its votes in the 'meh' category.
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Horns** wins with 3 points.
+**Venom 2** wins with 5 points.
 
 ## Pics or it didn't happen
 

@@ -4,14 +4,15 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 15 times.
-* **Venom 2** won with 8 votes in favour and 3 against.
-* Gunpowder Milkshake came in second with 6 votes in favour and 4 against.
-* Every other movie on the list got negative points.
-* At -9, The Fugitive might have received the lowest score we've seen so far. 
-As usual, however, I am not going to go back and check. The repo is public if 
-anyone else wants to.
-* Cooties received the fewest neutral votes (1) while Snakes on a Plane received
-the most (6). No movie received a majority of its votes in the 'meh' category.
+* **Chicago** won with 5 votes in favour and 3 against
+* Gunpowder Milkshake came in second with 3 votes in favour and 2 against.
+* Apathy ruled the day this week, with fully half of the options receiving
+a majority of their votes in the 'meh' category
+* Three of those four (Gunpowder Milkshake, Trading Places, and Layer 
+Cake) received a full two thirds of their votes in the 'meh' category.
+* Every single movie received a _plurality_ of its votes in the 'meh' 
+category, and the smallest number of votes in that category was 7, nearly 
+half.
 
 ## Setup
 
@@ -86,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Venom 2** wins with 5 points.
+**Chicago** wins with 2 points!
 
 ## Pics or it didn't happen
 

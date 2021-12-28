@@ -3,16 +3,19 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. This group's love for the Star Wars 1978 
-Holiday Special was strong, but not strong enough
-* **The Muppet/Lego Star Wars Holiday Special Double Feature** won with 7 votes 
-in favour and 0 against. It is rare for movies to receive zero negative votes.
-* Rare Exports came in second with three votes in favour and one against.
-* Single All The Way garnered the most interest, with only 3 votes in the 'meh'
-category, while Gremlins garnered the least, with 7.
-* The Santa Clause received a score of -7, probably the lowest score seen so far
-(although as usual I am not going to check), and received zero positive votes. 
-It is also rare for movies to receive zero positive votes.
+* The survey was completed 14 times. The tabulation committee thanks you for 
+your participation
+* **Gunpowder Milkshake** won with 7 votes in favour and none against. This is 
+the second week in a row that our winning pick had zero negative votes.
+* Blazing Saddles came in second with 4 votes in favour and only 1 against.
+* Turbo Kid and Matilda both received more positive votes than Blazing Saddles,
+but they also received negative votes, which lowered their scores
+* Apathy is back on the rise. Four out of our eight candidates received a 
+majority of their votes in the 'meh' category.
+* Three movies tied for last with scores of -2. This is not that bad by our
+standards.
+* Blazing Saddles received the most apathy (9 'meh' votes), while Turbo Kid
+received the least (4).
 
 ## Setup
 
@@ -87,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Muppet/Lego Star Wars Holidy Special Double Feature** wins with 7 points!
+**Gunpowder Milkshake** wins with 7 points!
 
 ## Pics or it didn't happen
 

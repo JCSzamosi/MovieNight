@@ -3,16 +3,16 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times. The tabulation committee thanks you for 
-your participation
-* **Star Trek IV** won with 6 votes in favour and 3 against.
-* FAQ About Time Travel also had 6 votes in favour, but had one more vote 
-against
-* Timeline generated the least interest, with 10/14 'meh' votes
-* T2, Deja Vu, and Timecop also had a majority of their votes (8 each) in the
-'meh' category
-* Bill and Ted and FAQ both had less than 1/3 of their votes in the 'meh'
-category.
+* The survey was completed 14 times. 
+* **Wild Wild West** and Robin Hood: Men In Tights tied with 6 votes each in 
+favour and 2 each against.
+* Our benevolent dictator has decreed that we will watch **Wild Wild West**, 
+with Men in Tights for backup
+* Votes were well split among categories for each movie, with only one movie
+(The Kitchen) receiving a majority of its votes in any category (meh).
+* Night at the Museum, Terminator 2, Wayne's World, and FAQ about Time Travel 
+all received exactly half of their votes in the 'meh' category
+* No movie was particularly more controversial than any other movie
 
 ## Setup
 
@@ -85,9 +85,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Star Trek IV: The Voyage Home** wins with 3 points!
+**Wild Wild West** and Robin Hood: Men in Tights tied with 4 points each.
 
 ## Pics or it didn't happen
 

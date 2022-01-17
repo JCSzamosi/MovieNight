@@ -3,16 +3,17 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times. 
-* **Wild Wild West** and Robin Hood: Men In Tights tied with 6 votes each in 
-favour and 2 each against.
-* Our benevolent dictator has decreed that we will watch **Wild Wild West**, 
-with Men in Tights for backup
-* Votes were well split among categories for each movie, with only one movie
-(The Kitchen) receiving a majority of its votes in any category (meh).
-* Night at the Museum, Terminator 2, Wayne's World, and FAQ about Time Travel 
-all received exactly half of their votes in the 'meh' category
-* No movie was particularly more controversial than any other movie
+* The survey was completed 18 times. The tabulation committee thanks you for 
+your participation in the democratic process.
+* **Dogma** won in a landslide, with 11 votes in favour an 0 against, more than
+doubling its runner up's point total.
+* Cruel Intentions came in second, with 8 votes in favour and 3 against
+* American Pie came in dead last with -4 points
+* There was a strong spread in the result, with half of the candidates receiving
+positive scores and half receiving negative scores.
+* Orgazmo received a positive score.
+* No movie received a majority of its votes in the 'meh' category, and no movie
+received a majority of its votes in any category except for **Dogma**
 
 ## Setup
 
@@ -85,9 +86,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Wild Wild West** and Robin Hood: Men in Tights tied with 4 points each.
+**Dogma** wins with 11 votes!
 
 ## Pics or it didn't happen
 

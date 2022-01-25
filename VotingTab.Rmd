@@ -3,17 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 18 times. The tabulation committee thanks you for 
-your participation in the democratic process.
-* **Dogma** won in a landslide, with 11 votes in favour an 0 against, more than
-doubling its runner up's point total.
-* Cruel Intentions came in second, with 8 votes in favour and 3 against
-* American Pie came in dead last with -4 points
-* There was a strong spread in the result, with half of the candidates receiving
-positive scores and half receiving negative scores.
-* Orgazmo received a positive score.
-* No movie received a majority of its votes in the 'meh' category, and no movie
-received a majority of its votes in any category except for **Dogma**
+* The survey was completed 12 times.
+* **Serial Mom** won with 6 votes in favour and 1 against
+* Hairspray was a close second, with 6 votes in favour and 2 against
+* No movie was hugely unpopular. Only three movies received negative totals, 
+with Desperate Living and Multiple Maniacs tying for last place at -2 points 
+each. 
+* Two movies (Female Trouble and Desperate Living) received a majority of their 
+votes in the 'meh' category. 
+* No other movie received a majority of its votes in any category
 
 ## Setup
 
@@ -88,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Dogma** wins with 11 votes!
+**Serial Mom** wins with 11 points!
 
 ## Pics or it didn't happen
 

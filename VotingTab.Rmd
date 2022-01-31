@@ -3,15 +3,18 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times.
-* **Serial Mom** won with 6 votes in favour and 1 against
-* Hairspray was a close second, with 6 votes in favour and 2 against
-* No movie was hugely unpopular. Only three movies received negative totals, 
-with Desperate Living and Multiple Maniacs tying for last place at -2 points 
-each. 
-* Two movies (Female Trouble and Desperate Living) received a majority of their 
-votes in the 'meh' category. 
-* No other movie received a majority of its votes in any category
+* The survey was completed 12 times. The pig has been granted a reprieve for one
+more week.
+* **SLC Punk** won with 5 votes in favour and 1 against
+* **SLC Punk** was the only movie with a positive score
+* There was a three-way tie for second place. Our benevolent dictator has 
+selected Cookie as our backup.
+* Half of our options received negative scores, with Wing Commander and Le 
+Divorce in a tie for last place.
+* Engagement and enthusiasm were both low this week. We had fewer votes cast
+than average, and very few positive votes cast at all.
+* That said, the votes were quite evenly distributed. No movie received a 
+majority of its votes in any category.
 
 ## Setup
 
@@ -86,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Serial Mom** wins with 11 points!
+**SLC Punk** wins with 4 points!
 
 ## Pics or it didn't happen
 

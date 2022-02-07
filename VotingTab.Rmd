@@ -3,18 +3,19 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. The pig has been granted a reprieve for one
-more week.
-* **SLC Punk** won with 5 votes in favour and 1 against
-* **SLC Punk** was the only movie with a positive score
-* There was a three-way tie for second place. Our benevolent dictator has 
-selected Cookie as our backup.
-* Half of our options received negative scores, with Wing Commander and Le 
-Divorce in a tie for last place.
-* Engagement and enthusiasm were both low this week. We had fewer votes cast
-than average, and very few positive votes cast at all.
-* That said, the votes were quite evenly distributed. No movie received a 
-majority of its votes in any category.
+* The survey was completed 16 times. The tabulation committee appreciates your
+contribution to avoiding the South Park movie
+* **Pig** won with 10 votes in favour and 2 against
+* Robin Hood: Men in Tights lagged Pig by a full 6 points, but holds a clear
+second place
+* There was a highly variable level of interest across this week's selection. 
+Cruel Intentions was the movie with the fewest 'meh' votes (3), while Throw
+Momma From the Train received the most (11).
+* Not a single person was excited to watch Throw Momma From the Train.
+* Of the 16*9 = 144 votes cast, 47 were negative, 37 were positive, and 60 were
+neutral. 
+* Row 1 (our surprise 9th option) placed dead centre with a score of -2. 2 
+people wanted to watch Row 1, 4 did not, and 10 were indifferent.
 
 ## Setup
 
@@ -89,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**SLC Punk** wins with 4 points!
+**Pig** wins with 8 points!
 
 ## Pics or it didn't happen
 

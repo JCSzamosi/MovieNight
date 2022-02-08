@@ -1,10 +1,25 @@
 Movie Nights through History
 ===========================
 
-```{r}
+Setup
+------
+
+```{r Setup, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(message=FALSE, warning=FALSE)
 library(tidyverse)
 library(lubridate)
 theme_set(theme_bw())
+```
+
+### Import Data
+
+The script that pulls all previous weeks' voting results is [here](./get_old.sh)
+and comes courtesy of @gnomon.
+
+I import each file, merge them together into a single data frame, and write it
+back to disk.
+
+```{r Import, results = 'hide'}
 weeks = list.files(path = 'old_data', pattern = 'week', full.names = TRUE)
 movies = list.files(path = 'old_data', pattern = 'movies', full.names = TRUE)
 movie_df = read.csv(movies[1], row.names = 1, header = FALSE)
@@ -43,12 +58,16 @@ vote_df = (vote_df
            %>% gather(Vote, Count, starts_with('I')))
 head(vote_df)
 write.csv(vote_df, file = 'all_weeks.csv', row.names = TRUE)
-# Clean in Open Refine
 ```
 
-Read in the cleaned data
+Once the data have been merged, I open them in OpenRefine to clean up any 
+instances of the same movie being given slightly different names on different
+weeks. The JSON file with the OpenRefine commands is
+[here](./open_refine_cleaning.json).
 
-```{r}
+Then I read in the cleaned data:
+
+```{r Cleaned, results='hide'}
 all_dat = read.csv('all-weeks-cleaned.csv')
 head(all_dat)
 all_dat = select(all_dat, -Column)
@@ -60,22 +79,40 @@ all_dat = (all_dat
                       Vote = factor(Vote, levels = c('Yes please!', 'meh', 'Nope'))))
 ```
 
+Naive Visualization
+-------------------
+
+Without filtering out any themed weeks, holidays, weeks when there was an error
+in the poll, etc., here are some plots:
+
 ```{r}
 cat_totals = (all_dat
               %>% group_by(Week, Vote)
               %>% summarize(Count = sum(Count)))
-ggplot(cat_totals, aes(Week, Count, colour = Vote)) +
+cat_plt = ggplot(cat_totals, aes(Week, Count, colour = Vote)) +
     geom_line() +
-    scale_colour_brewer(palette = 'Dark2')
+    scale_colour_brewer(palette = 'Dark2') +
+    ylim(0, 90) +
+    ylab('Number of Votes') +
+    ggtitle('Total votes in each category over time')
+cat_plt
     
 tots = (cat_totals
         %>% group_by(Week)
     %>% summarize(Count = sum(Count)/8))
-ggplot(tots, aes(Week, Count)) +
+tot_plt = ggplot(tots, aes(Week, Count)) +
     geom_line() +
-    ylim(0,25)
+    ylim(0,25) +
+    ylab('Number of Voters') +
+    ggtitle('Number of people who voted over time')
+tot_plt
 ```
 
+These are both pretty noisy. I'm seeing that the number of negative votes was 
+lower in the beginning, climbed over the first few months that we used this 
+system, and has stabilized pretty well. The number of voters each week is harder
+to make sense of through the noise. Some moving-window averaging will probably
+help clarify that.
 
 ```{r}
 cat_prop = (cat_totals
@@ -85,12 +122,25 @@ cat_prop = (cat_totals
            %>% ungroup())
 head(cat_prop)
 
-ggplot(cat_prop, aes(Total, CountProp, colour = Vote)) +
+cat_prop_plt = ggplot(cat_prop, aes(Total, CountProp, colour = Vote)) +
     geom_point() +
     geom_smooth(method = 'lm') +
-    scale_colour_brewer(palette = 'Dark2')
+    scale_colour_brewer(palette = 'Dark2') +
+    ggtitle('Proportion of votes in each category vs. number of voters')
+cat_prop_plt
 ```
 
-There appears to be a negative relationship between the number of people voting
-and the number of 'meh' votes cast. A positive relationship between number of
-voters and 'yes' votes is apparent, but weaker. I have not done a statistics.
+Typically, the 'meh' category gets the most votes, while the negative category
+gets the fewest. There appears to be a negative relationship between the number 
+of people voting and the number of 'meh' votes cast. A positive relationship 
+between number of voters and 'yes' votes is apparent, but weaker. 
+I have not done a statistics.
+
+To Do
+-----
+
+* Further clean the data to tease out theme/holiday/error weeks vs. everything
+else
+* Multinomial regression of proportion votes/cat vs. # voters
+* Suggestions are welcome via the [issues 
+tab](https://github.com/JCSzamosi/MovieNight/issues), but may be ignored.

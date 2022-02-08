@@ -1,0 +1,751 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Title",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FAQaTT",
+          " FAQaTT",
+          "FAQATT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FAQaTT"
+      },
+      {
+        "from": [
+          "RED",
+          "Red"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RED"
+      },
+      {
+        "from": [
+          "FastAndFurious",
+          "FastandFurious"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FastAndFurious"
+      }
+    ],
+    "description": "Mass edit cells in column Title"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Title",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PorcoRoss",
+          "PorcoRosso"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PorcoRosso"
+      },
+      {
+        "from": [
+          "ASimpleFavor",
+          "SimpleFavor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASimpleFavor"
+      }
+    ],
+    "description": "Mass edit cells in column Title"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Title",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CousinVinnie",
+          "MyCousinVinnie",
+          "MyCousinVinny"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MyCousinVinnie"
+      },
+      {
+        "from": [
+          "SuicideSquad",
+          "TheSuicideSquad"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SuicideSquad"
+      },
+      {
+        "from": [
+          "CousinVinnie",
+          "MyCousinVinnie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MyCousinVinnie"
+      },
+      {
+        "from": [
+          "MyCousinVinnie",
+          "MyCousinVinny"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MyCousinVinnie"
+      }
+    ],
+    "description": "Mass edit cells in column Title"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "TitleLong",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " [Have A Good Trip (2020, 1:26)]",
+          " [Have a Good Trip (2020, 1:26)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Have A Good Trip (2020, 1:26)]"
+      },
+      {
+        "from": [
+          " [Die Hard (1988, 2:12)]",
+          " [Die Hard Die (1988, 2:12)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Die Hard (1988, 2:12)]"
+      },
+      {
+        "from": [
+          " [Speed (1994, 1:56)]",
+          " [Speed (1994, 1:56) -]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Speed (1994, 1:56)]"
+      },
+      {
+        "from": [
+          " [League of Their Own (1992, 2:08)]",
+          " [League of Their Own - (1992, 2:08)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [League of Their Own (1992, 2:08)]"
+      },
+      {
+        "from": [
+          " [Bubba Ho-Tep (2002, 1:36)]",
+          " [Bubba Ho-Tep (2002, 1:36) -]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Bubba Ho-Tep (2002, 1:36)]"
+      }
+    ],
+    "description": "Mass edit cells in column TitleLong"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "TitleLong",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " [Happy People: A Year in the Taiga (2010, 1:34)]",
+          " [Happy People: A Year in the Taiga (2013, 1:34)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Happy People: A Year in the Taiga (2010, 1:34)]"
+      },
+      {
+        "from": [
+          " [Robin Hood: Men in Tights (1993, 1:44)]",
+          " [Robin Hood: Men in Tights (1993,1:44)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Robin Hood: Men in Tights (1993, 1:44)]"
+      },
+      {
+        "from": [
+          " [Hot Rob (2007, 1:28)]",
+          " [Hot Rod (2007, 1:28)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Hot Rob (2007, 1:28)]"
+      }
+    ],
+    "description": "Mass edit cells in column TitleLong"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "TitleLong",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Votes [My Cousin Vinnie (1992, 1:59)]",
+          " [My Cousin Vinnie (1992, 1:59)]",
+          " [My Cousin Vinny (1992, 1:59)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [My Cousin Vinnie (1992, 1:59)]"
+      },
+      {
+        "from": [
+          " [Mortal Kombat (1995, 1:41)]",
+          "Votes [Mortal Kombat (1995, 1:41)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Mortal Kombat (1995, 1:41)]"
+      },
+      {
+        "from": [
+          " [Who Framed Roger Rabbit (1988, 1:44)]",
+          " [Who Framed Roger Rabbit (1988)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Who Framed Roger Rabbit (1988, 1:44)]"
+      },
+      {
+        "from": [
+          " [The Net (1995, 1:54)]",
+          "Votes [The Net (1995, 1:54)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [The Net (1995, 1:54)]"
+      },
+      {
+        "from": [
+          " [Undercover Brother (2002, 1:26)]",
+          "Votes [Undercover Brother (2002, 1:26)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Undercover Brother (2002, 1:26)]"
+      },
+      {
+        "from": [
+          " [They Live (1988, 1:34)]",
+          "Votes [They Live (1988, 1:34)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [They Live (1988, 1:34)]"
+      },
+      {
+        "from": [
+          " [Magic Mike XXL (2015, 1:55)]",
+          "Votes [Magic Mike XXL (2015, 1:55)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Magic Mike XXL (2015, 1:55)]"
+      },
+      {
+        "from": [
+          " [Dogma (1999, 2:08)]",
+          "Votes [Dogma (1999, 2:08)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Dogma (1999, 2:08)]"
+      },
+      {
+        "from": [
+          " [The First Wives Club (1996, 1:42)]",
+          "Votes [The First Wives Club (1996, 1:42)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [The First Wives Club (1996, 1:42)]"
+      },
+      {
+        "from": [
+          " [WarGames (1983, 1:52)]",
+          "Votes [WarGames (1983, 1:52)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [WarGames (1983, 1:52)]"
+      },
+      {
+        "from": [
+          "Votes [Clueless (1995, 1:37)]",
+          " [Clueless (1995, 1:37)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Votes [Clueless (1995, 1:37)]"
+      },
+      {
+        "from": [
+          " [The Italian Job (2003, 1:51)]",
+          "Votes [The Italian Job (2003, 1:51)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [The Italian Job (2003, 1:51)]"
+      },
+      {
+        "from": [
+          " [UHF (1989, 1:37)]",
+          "Votes [UHF (1989, 1:37)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [UHF (1989, 1:37)]"
+      },
+      {
+        "from": [
+          " [Trading Places (1983, 1:56)]",
+          "Votes [Trading Places (1983, 1:56)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Trading Places (1983, 1:56)]"
+      },
+      {
+        "from": [
+          "Votes [RED (2010, 1:51)]",
+          " [RED (2010, 1:51)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Votes [RED (2010, 1:51)]"
+      },
+      {
+        "from": [
+          " [Terminator 2 (1991, 2:17)]",
+          " [Terminator 2 (1991, 2:33)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Terminator 2 (1991, 2:17)]"
+      },
+      {
+        "from": [
+          " [Constantine (2005, 2:00)]",
+          "Votes [Constantine (2005, 2:00)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Constantine (2005, 2:00)]"
+      },
+      {
+        "from": [
+          " [The Hunt for Red October (1990, 2:15)]",
+          "Votes [The Hunt for Red October (1990, 2:15)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [The Hunt for Red October (1990, 2:15)]"
+      },
+      {
+        "from": [
+          "Votes [Twister (1996, 1:53)]",
+          " [Twister (1996, 1:53)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Votes [Twister (1996, 1:53)]"
+      },
+      {
+        "from": [
+          " [Black Dynamite (2009, 1:24)]",
+          "Votes [Black Dynamite (2009, 1:24)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Black Dynamite (2009, 1:24)]"
+      },
+      {
+        "from": [
+          " [Die Hard (1988, 2:12)]",
+          " [Die Hard 2D (1988, 2:12)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Die Hard (1988, 2:12)]"
+      },
+      {
+        "from": [
+          " [The Faculty (1998, 1:47)]",
+          "Votes [The Faculty (1998, 1:47)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [The Faculty (1998, 1:47)]"
+      },
+      {
+        "from": [
+          " [Bend It Like Beckham (2002, 1:52)]",
+          "Votes [Bend It Like Beckham (2002, 1:52)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Bend It Like Beckham (2002, 1:52)]"
+      },
+      {
+        "from": [
+          "Votes [Mean Girls (2004, 1:37)]",
+          " [Mean Girls (2004, 1:37)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Votes [Mean Girls (2004, 1:37)]"
+      },
+      {
+        "from": [
+          " [Tremors (1990, 1:36)]",
+          "Votes [Tremors (1990, 1:36)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Tremors (1990, 1:36)]"
+      },
+      {
+        "from": [
+          "Votes [Beetlejuice (1988, 1:32)]",
+          " [Beetlejuice (1988, 1:32)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Votes [Beetlejuice (1988, 1:32)]"
+      },
+      {
+        "from": [
+          " [My Cousin Vinnie (1992, 1:59)]",
+          " [My Cousin Vinny (1992, 1:59)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [My Cousin Vinnie (1992, 1:59)]"
+      },
+      {
+        "from": [
+          " [The Mummy (1999, 2:04)]",
+          "Votes [The Mummy (1999, 2:04)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [The Mummy (1999, 2:04)]"
+      },
+      {
+        "from": [
+          " [Circus of Books (2016, 1:26)]",
+          " [Circus of Books (2019, 1:27)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Circus of Books (2016, 1:26)]"
+      },
+      {
+        "from": [
+          " [The Wiz (1978, 2:14)]",
+          "Votes [The Wiz (1978, 2:14)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [The Wiz (1978, 2:14)]"
+      },
+      {
+        "from": [
+          "Votes [My Cousin Vinnie (1992, 1:59)]",
+          " [My Cousin Vinnie (1992, 1:59)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [My Cousin Vinnie (1992, 1:59)]"
+      },
+      {
+        "from": [
+          " [Empire Records (1995, 1:30)]",
+          "Votes [Empire Records (1995, 1:30)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Empire Records (1995, 1:30)]"
+      },
+      {
+        "from": [
+          " [Speed Racer (2008, 2:15)]",
+          "Votes [Speed Racer (2008, 2:15)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Speed Racer (2008, 2:15)]"
+      }
+    ],
+    "description": "Mass edit cells in column TitleLong"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "TitleLong",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " [Lego Batman (2017, 1:45)]",
+          " [Lego Batman (2017, 1:44) -]",
+          "Votes [Lego Batman (2017,1:44)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Lego Batman (2017, 1:45)]"
+      },
+      {
+        "from": [
+          " [Class Action Park (2020, 1:29)]",
+          " [Class Action Park (2020, 2:01)]",
+          " [Class.Action.Park (2020)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Class Action Park (2020, 1:29)]"
+      },
+      {
+        "from": [
+          " [Class Action Park (2020, 1:29)]",
+          " [Class Action Park (2020, 2:01)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Class Action Park (2020, 1:29)]"
+      },
+      {
+        "from": [
+          " [Bill & Ted Face The Music (2020, 1:32)]",
+          " [Bill & Ted Face The Music Without Fat Suits (2020, 1:32)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Bill & Ted Face The Music (2020, 1:32)]"
+      },
+      {
+        "from": [
+          " [Beauty Day (2011, 1:32)]",
+          " [Beauty.Day (2011)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Beauty Day (2011, 1:32)]"
+      },
+      {
+        "from": [
+          " [Batman Forever (1995, 2:02)]",
+          "Votes [Batman Forever (1995, 2:01)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Batman Forever (1995, 2:02)]"
+      },
+      {
+        "from": [
+          " [Super Mario Bros (1993, 1:45)]",
+          " [Super Mario Brothers (1993, 2:27)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Super Mario Bros (1993, 1:45)]"
+      },
+      {
+        "from": [
+          " [Lego Batman (2017, 1:45)]",
+          " [Lego Batman (2017, 1:44) -]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Lego Batman (2017, 1:45)]"
+      },
+      {
+        "from": [
+          " [Recorder.The.Marian.Stokes.Project (2019)]",
+          " [Recorder: The Marian Stokes Project (2019, 1:28)]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " [Recorder.The.Marian.Stokes.Project (2019)]"
+      }
+    ],
+    "description": "Mass edit cells in column TitleLong"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Title",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BlingRing",
+          "TheBlingRing"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BlingRing"
+      },
+      {
+        "from": [
+          "PumpUpTheVolume",
+          "PumpUpVolume"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PumpUpTheVolume"
+      },
+      {
+        "from": [
+          "ThrowMommaFromTrain",
+          "ThrowMomma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ThrowMommaFromTrain"
+      },
+      {
+        "from": [
+          "RedOctober",
+          "Hunt4RedOctober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hunt4RedOctober"
+      }
+    ],
+    "description": "Mass edit cells in column Title"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Title",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RogerRabbit",
+          "WhoFramedRogerRabbit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WhoFramedRogerRabbit"
+      }
+    ],
+    "description": "Mass edit cells in column Title"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Title",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dolemite",
+          "DolemiteIsMyName"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dolemite"
+      },
+      {
+        "from": [
+          "RomeoAndJuliet",
+          "RomeoPlusJuliet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RomeoAndJuliet"
+      }
+    ],
+    "description": "Mass edit cells in column Title"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Title",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "HotFuzzButInAPub",
+          "ShaunButInAPub"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HotFuzzButInAPub"
+      },
+      {
+        "from": [
+          "HuntForTheWilderpeople",
+          "HuntForWilder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HuntForTheWilderpeople"
+      }
+    ],
+    "description": "Mass edit cells in column Title"
+  }
+]

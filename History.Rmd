@@ -1,0 +1,96 @@
+Movie Nights through History
+===========================
+
+```{r}
+library(tidyverse)
+library(lubridate)
+theme_set(theme_bw())
+weeks = list.files(path = 'old_data', pattern = 'week', full.names = TRUE)
+movies = list.files(path = 'old_data', pattern = 'movies', full.names = TRUE)
+movie_df = read.csv(movies[1], row.names = 1, header = FALSE)
+movie_df
+titles = movie_df[[1]]
+names(titles) = rownames(movie_df)
+titles
+weeks[1]
+substr(weeks[1], 10, 19)
+vote_df = read.csv(weeks[1], check.names = FALSE)
+vote_df
+vote_df = (vote_df
+           %>% gather(TitleLong, Vote, -Timestamp)
+           %>% count(TitleLong, Vote, name = 'Count') 
+           %>% mutate(Week = substr(weeks[1], 10, 19),
+                      Title = titles[TitleLong]))
+vote_df
+
+for (week in weeks[2:length(weeks)]){
+    movie = gsub('week','movies',week)
+    movie_df = read.csv(movie, row.names = 1, header = FALSE)
+    titles = movie_df[[1]]
+    names(titles) = rownames(movie_df)
+    vote_df = rbind(vote_df,
+                    (read.csv(week, check.names = FALSE)
+                     %>% gather(TitleLong, Vote, -Timestamp)
+                     %>% count(TitleLong, Vote, name = 'Count')
+                     %>% mutate(Week = substr(week, 10, 19),
+                                Title = titles[TitleLong])))
+}
+
+head(vote_df)
+tail(vote_df)
+vote_df = (vote_df
+           %>% spread(Vote, Count, fill = 0)
+           %>% gather(Vote, Count, starts_with('I')))
+head(vote_df)
+write.csv(vote_df, file = 'all_weeks.csv', row.names = TRUE)
+# Clean in Open Refine
+```
+
+Read in the cleaned data
+
+```{r}
+all_dat = read.csv('all-weeks-cleaned.csv')
+head(all_dat)
+all_dat = select(all_dat, -Column)
+levels(factor(all_dat$Vote))
+all_dat = (all_dat
+           %>% mutate(Week = ymd(Week),
+                      Vote = factor(Vote, 
+                                    labels = c('meh', 'Nope', 'Yes please!')),
+                      Vote = factor(Vote, levels = c('Yes please!', 'meh', 'Nope'))))
+```
+
+```{r}
+cat_totals = (all_dat
+              %>% group_by(Week, Vote)
+              %>% summarize(Count = sum(Count)))
+ggplot(cat_totals, aes(Week, Count, colour = Vote)) +
+    geom_line() +
+    scale_colour_brewer(palette = 'Dark2')
+    
+tots = (cat_totals
+        %>% group_by(Week)
+    %>% summarize(Count = sum(Count)/8))
+ggplot(tots, aes(Week, Count)) +
+    geom_line() +
+    ylim(0,25)
+```
+
+
+```{r}
+cat_prop = (cat_totals
+           %>% group_by(Week)
+           %>% mutate(CountProp = Count/sum(Count),
+                      Total = sum(Count)/8)
+           %>% ungroup())
+head(cat_prop)
+
+ggplot(cat_prop, aes(Total, CountProp, colour = Vote)) +
+    geom_point() +
+    geom_smooth(method = 'lm') +
+    scale_colour_brewer(palette = 'Dark2')
+```
+
+There appears to be a negative relationship between the number of people voting
+and the number of 'meh' votes cast. A positive relationship between number of
+voters and 'yes' votes is apparent, but weaker. I have not done a statistics.

@@ -56,9 +56,12 @@ datm = as.matrix(dat)
 tdf = read.csv('data/current_movies.csv', row.names = 1, header = FALSE, 
 			   stringsAsFactors = FALSE)
 titles = tdf[[1]]
+titles
 names(titles) = c(rownames(tdf))
+titles
 
 datm[datm %in% names(titles)] = titles[datm[datm %in% names(titles)]]
+datm
 
 # rev_titles = gsub(' [','',names(titles), fixed = TRUE)
 # rev_titles = gsub(']','',rev_titles, fixed = TRUE)

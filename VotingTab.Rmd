@@ -3,19 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 16 times. The tabulation committee appreciates your
-contribution to avoiding the South Park movie
-* **Pig** won with 10 votes in favour and 2 against
-* Robin Hood: Men in Tights lagged Pig by a full 6 points, but holds a clear
-second place
-* There was a highly variable level of interest across this week's selection. 
-Cruel Intentions was the movie with the fewest 'meh' votes (3), while Throw
-Momma From the Train received the most (11).
-* Not a single person was excited to watch Throw Momma From the Train.
-* Of the 16*9 = 144 votes cast, 47 were negative, 37 were positive, and 60 were
-neutral. 
-* Row 1 (our surprise 9th option) placed dead centre with a score of -2. 2 
-people wanted to watch Row 1, 4 did not, and 10 were indifferent.
+* The survey was completed 13 times.
+* **Cool Runnings** won with 7 votes in favour and 1 against
+* I, Tonya came in second with 7 votes in favour but 2 against
+* All movies garnered approximately equal interest, but the distribution of that
+interest between positive and negative varied. 
+* There was a good spread of votes. All vote categories (yes, meh, or no) were
+in the majority in at least one movie
+* No one wanted to watch One Day in September
+* Foxcatcher and Munich each received only one vote each
 
 ## Setup
 
@@ -93,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Pig** wins with 8 points!
+**Cool Runnings** wins with 6 points!
 
 ## Pics or it didn't happen
 

@@ -3,15 +3,20 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times.
-* **Cool Runnings** won with 7 votes in favour and 1 against
-* I, Tonya came in second with 7 votes in favour but 2 against
-* All movies garnered approximately equal interest, but the distribution of that
-interest between positive and negative varied. 
-* There was a good spread of votes. All vote categories (yes, meh, or no) were
-in the majority in at least one movie
-* No one wanted to watch One Day in September
-* Foxcatcher and Munich each received only one vote each
+* The survey was completed 14 times.
+* **Space Jam** won with 5 votes in favour and 2 against
+* Up in the Air came in second, with 1 point (4 votes in favour and 3 against).
+* Those were the only movies with positive scores. Half the movies had exactly
+the same numbers of positive and negative votes, and two movies (Beethoven and
+Stop or My Mom Will Shoot) received negative scores. 
+* Five of our eight options received at least half of their votes in the 'meh'
+category
+* No movie received more than 5 votes in either the positive or negative 
+category
+* Draft Day and Beethoven tied for most negative votes, while Space Jam and 
+Draft Day tied for most positive votes.
+* Draft Day received the fewest 'meh' votes, while Heavy Metal received the 
+most.
 
 ## Setup
 
@@ -19,11 +24,12 @@ in the majority in at least one movie
 
 ```{r, message = FALSE, warning = FALSE}
 # setwd('~/Documents/PersonalProjects/MovieNight/')
-setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-devtools::load_all('~/Projects/Mine/aftersl1p/')
-# devtools::load_all('~/Documents/PersonalProjects/aftersl1p/')
+# devtools::load_all('~/Projects/Mine/aftersl1p/')
+devtools::load_all('~/Work/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -89,7 +95,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Cool Runnings** wins with 6 points!
+**Space Jam** wins with 3 points!
 
 ## Pics or it didn't happen
 

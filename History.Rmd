@@ -9,6 +9,7 @@ knitr::opts_chunk$set(message=FALSE, warning=FALSE)
 library(tidyverse)
 library(lubridate)
 theme_set(theme_bw())
+setwd('~/Projects/MovieNight/')
 ```
 
 ### Import Data
@@ -19,7 +20,7 @@ and comes courtesy of @gnomon.
 I import each file, merge them together into a single data frame, and write it
 back to disk.
 
-```{r Import, results = 'hide'}
+```{r Import, results = 'hide', eval=FALSE}
 weeks = list.files(path = 'old_data', pattern = 'week', full.names = TRUE)
 movies = list.files(path = 'old_data', pattern = 'movies', full.names = TRUE)
 movie_df = read.csv(movies[1], row.names = 1, header = FALSE)
@@ -135,6 +136,73 @@ gets the fewest. There appears to be a negative relationship between the number
 of people voting and the number of 'meh' votes cast. A positive relationship 
 between number of voters and 'yes' votes is apparent, but weaker. 
 I have not done a statistics.
+
+Most Frequent Candidates
+-------------------------
+
+Of the movies that have not won, these have been on the list the most 
+frequently.
+
+```{r}
+# head(all_dat)
+
+winners = read.csv('winners.csv')
+# head(winners)
+
+freqs = (all_dat
+  %>% filter(!(Title %in% winners$Winner))
+  %>% count(Title)
+  %>% mutate(Count = n/3)
+  %>% arrange(desc(n), desc(Title))
+  %>% select(-n))
+freqs
+```
+
+I have also manually curated a list of the movies most in keeping with our
+80's/90's computer nerd roots:
+
+* batteries not included
+* war games
+* burn after reading
+* robocop
+* spy kids
+* turbo kid
+* terminator 2
+* the net
+* tracer
+
+Runners Up
+----------
+
+```{r}
+get_second = function(v){
+  r = rank(-1*v)
+  return(which(r == 2))
+}
+
+seconds = (all_dat
+ %>% filter(SpecialWeek == '')
+ %>% spread(Vote,Count)
+ %>% mutate(Score = `Yes please!` - Nope)
+ %>% group_by(Week)
+ %>% summarize(Second = Title[get_second(Score)])
+ %>% filter(!(Second %in% winners$Winner)))
+
+(seconds
+  %>% count(Second)
+  %>% arrange(desc(n)))
+```
+
+Once previous winners are excluded, no movie came in second more than once
+
+Here are the movies that came in second, sorted by how frequently they
+occurred in lists at all.
+
+```{r}
+sec_freq = left_join(seconds, freqs, by = c('Second' = 'Title'))
+sec_freq %>% arrange(desc(Count), desc(Second))
+```
+
 
 To Do
 -----

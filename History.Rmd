@@ -155,7 +155,7 @@ freqs = (all_dat
   %>% mutate(Count = n/3)
   %>% arrange(desc(n), desc(Title))
   %>% select(-n))
-freqs
+freqs %>% filter(Count >= 5)
 ```
 
 I have also manually curated a list of the movies most in keeping with our

@@ -8,6 +8,7 @@ Setup
 knitr::opts_chunk$set(message=FALSE, warning=FALSE)
 library(tidyverse)
 library(lubridate)
+library(nnet)
 theme_set(theme_bw())
 ```
 
@@ -144,3 +145,29 @@ else
 * Multinomial regression of proportion votes/cat vs. # voters
 * Suggestions are welcome via the [issues 
 tab](https://github.com/JCSzamosi/MovieNight/issues), but may be ignored.
+
+```{r}
+head(all_dat)
+mult_dat = (cat_totals
+            %>% select(Week, Vote, Count)
+            %>% spread(Vote, Count)
+            %>% rename(no = Nope, 
+                       yes = `Yes please!`)
+            %>% select(Week, no, meh, yes))
+mult_dat
+
+mult_resp = as.matrix(mult_dat[,2:4])
+mult_resp
+head(mult_resp)
+voters = rowSums(mult_resp)
+voters = scale(voters)
+week = mult_dat$Week
+week = scale(week)
+mod = multinom(mult_resp ~ voters*week)
+summary(mod)
+exp(coef(mod))
+pred = head(round(fitted(mod), 2))
+head(pred)
+
+```
+

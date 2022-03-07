@@ -3,16 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times.
-* **Mars Attacks** won with 5 votes in favour and 1 against
-* Be Cool also received 5 positive votes, but it had 3 against, earning it 
-second place
-* Voting was less clean this week, with lower correlation between positive and
-negative votes than some weeks
-* Only one person wanted to see Renaissance Man. The 'meh' category for
-Renaissance Man was also the only category with a majority of votes (7/12)
-* Matilda generated the most controversy, with the fewest 'meh' votes and 
-almost equal numbers of positive and negative votes.
+* The survey was completed 14 times.
+* **Office Space** won with 11 votes in favour and none against.
+* The First Wives Club also received 11 positive votes, but it had two against.
+* The Lighthouse was our most controversial option, while To Die For generated
+the least interest
+* There was a wide variety of voting outcomes in this week's poll. One movie 
+only received a single 'meh' vote (The First Wives Club), while another had a
+full two thirds of its votes in that category (To Die For).
 
 ## Setup
 
@@ -91,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Mars Attacks** wins with 4 points!
+**Office Space** wins with 11 points!
 
 ## Pics or it didn't happen
 

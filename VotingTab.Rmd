@@ -3,14 +3,19 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Office Space** won with 11 votes in favour and none against.
-* The First Wives Club also received 11 positive votes, but it had two against.
-* The Lighthouse was our most controversial option, while To Die For generated
-the least interest
-* There was a wide variety of voting outcomes in this week's poll. One movie 
-only received a single 'meh' vote (The First Wives Club), while another had a
-full two thirds of its votes in that category (To Die For).
+* The survey was completed 18 times. The tabulation committee thanks you for 
+your particiption in the democratic process.
+* **Burn after Reading** won with 10 votes in favour and three against. This
+means **Burn after Reading** received a majority of its votes in the positive
+category.
+* War Games came in second with 8 votes in favour and 2 against.
+* Only two movies (Turbo Kid and Tracers) received negative scores. Seven people
+were strongly opposed to Tracers.
+* Apathy won the day for three movies: The Net, Batteries not Included, and 
+Robocop all received the majority of their votes in the 'meh' category.
+
+Please check out our [history](./History.html) page for a list of which movies 
+have received the most positive votes over the last two years without winning.
 
 ## Setup
 
@@ -89,7 +94,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Office Space** wins with 11 points!
+**Burn After Reading** wins with 7 points!
 
 ## Pics or it didn't happen
 

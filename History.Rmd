@@ -10,7 +10,7 @@ library(tidyverse)
 library(lubridate)
 library(nnet)
 theme_set(theme_bw())
-setwd('~/Projects/MovieNight/')
+setwd('~/Projects/Personal/MovieNight/')
 ```
 
 ### Import Data
@@ -138,8 +138,12 @@ of people voting and the number of 'meh' votes cast. A positive relationship
 between number of voters and 'yes' votes is apparent, but weaker. 
 I have not done a statistics.
 
-Most Frequent Candidates
+
+What should we watch next
 -------------------------
+
+### Most Frequent Candidates
+
 
 Of the movies that have not won, these have been on the list the most 
 frequently.
@@ -172,8 +176,7 @@ I have also manually curated a list of the movies most in keeping with our
 * the net
 * tracer
 
-Runners Up
-----------
+### Runners Up
 
 ```{r}
 get_second = function(v){
@@ -204,6 +207,45 @@ sec_freq = left_join(seconds, freqs, by = c('Second' = 'Title'))
 sec_freq %>% arrange(desc(Count), desc(Second))
 ```
 
+### Movies with lots of positive votes
+
+Here is a histogram of the proportion of votes for any given movie that are 
+positive
+
+```{r}
+mv_prop = (all_dat
+           %>% filter(SpecialWeek == '',
+                      !(Title %in% winners$Winner))
+           %>% select(-SpecialWeek, -ExtraRow)
+           %>% group_by(Week, Title)
+           %>% mutate(CountProp = Count/sum(Count))
+           %>% ungroup()
+           %>% group_by(Title, Vote)
+           %>% summarize(MeanProp = mean(CountProp))
+           %>% ungroup())
+
+head(mv_prop)
+
+ggplot(mv_prop, aes(x = MeanProp)) +
+  geom_histogram()
+```
+
+Let's pull out the top 10%
+
+```{r}
+yes_prop = filter(mv_prop, Vote == 'Yes please!')
+quantile(yes_prop$MeanProp, 0.9)
+```
+
+10% of non-winner movies received 41% or more of their votes in the positive 
+category (averaged over all the times they appeared on the poll)
+
+```{r}
+yes_prop %>% filter(MeanProp >= 0.417) %>% arrange(desc(MeanProp)) %>% data.frame()
+```
+
+The above are the 23 movies that have received the most positive votes without
+winning
 
 To Do
 -----

@@ -3,16 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 18 times. The tabulation committee thanks you for 
+* The survey was completed 17 times. The tabulation committee thanks you for 
 your particiption in the democratic process.
-* **Burn after Reading** won with 10 votes in favour and three against. This
-means **Burn after Reading** received a majority of its votes in the positive
-category.
-* War Games came in second with 8 votes in favour and 2 against.
-* Only two movies (Turbo Kid and Tracers) received negative scores. Seven people
-were strongly opposed to Tracers.
-* Apathy won the day for three movies: The Net, Batteries not Included, and 
-Robocop all received the majority of their votes in the 'meh' category.
+* **Moulin Rouge** won with 8 votes in favour and 3 against. 
+* Our backup movie in case of excessive problematicity is All That Jazz
+* Musical week was a popular week. No movies received negative scores. Our 
+lowest scoring movie was Cats (1998) with a score of 0.
+* Apathy still won the day in four of our eight options: **Moulin Rouge**, 
+Little Shop of Horrors, The Saddest Music in the World, and Cats (1998).
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning.
@@ -94,7 +92,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Burn After Reading** wins with 7 points!
+**Moulin Rouge** won with 5 points!
 
 ## Pics or it didn't happen
 

@@ -3,14 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 17 times. The tabulation committee thanks you for 
-your particiption in the democratic process.
-* **Moulin Rouge** won with 8 votes in favour and 3 against. 
-* Our backup movie in case of excessive problematicity is All That Jazz
-* Musical week was a popular week. No movies received negative scores. Our 
-lowest scoring movie was Cats (1998) with a score of 0.
-* Apathy still won the day in four of our eight options: **Moulin Rouge**, 
-Little Shop of Horrors, The Saddest Music in the World, and Cats (1998).
+* The survey was completed 12 times.
+* **Cabaret** won with 7 votes in favour and 2 against
+* Our backup movie in case of excessive problematicity is still All That Jazz\
+* Apathy levels were high this week, with four of our eight movies receiving at
+least half of their votes in the 'meh' category. 
+* Only **Cabaret** received a majority of its votes in any other category.
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning.
@@ -92,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Moulin Rouge** won with 5 points!
+**Cabaret** wins with 5 points!
 
 ## Pics or it didn't happen
 

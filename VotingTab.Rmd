@@ -4,11 +4,12 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 12 times.
-* **Cabaret** won with 7 votes in favour and 2 against
-* Our backup movie in case of excessive problematicity is still All That Jazz\
-* Apathy levels were high this week, with four of our eight movies receiving at
-least half of their votes in the 'meh' category. 
-* Only **Cabaret** received a majority of its votes in any other category.
+* **Burlesque** won with 6 votes in favour and 1 against
+* Our backup movie in case of excessive problematicity will be Flashdance.
+* Apathy levels remain high. Six of our eight movies got at least half of their
+votes in the 'meh' category. 
+* Once again, only our winner received a majority of its votes in any other 
+category.
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning.
@@ -90,7 +91,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Cabaret** wins with 5 points!
+**Burlesque** wins with 5 points!
 
 ## Pics or it didn't happen
 

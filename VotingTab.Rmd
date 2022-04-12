@@ -3,16 +3,19 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times.
-* **Burlesque** won with 6 votes in favour and 1 against
-* Our backup movie in case of excessive problematicity will be Flashdance.
-* Apathy levels remain high. Six of our eight movies got at least half of their
-votes in the 'meh' category. 
-* Once again, only our winner received a majority of its votes in any other 
-category.
+* The survey was completed 14 times.
+* **Josie and the Pussycats** and UnicycleDave Maze tied with 7 votes in favour 
+and 2 against each.
+* We will be watching **Josie and the Pussycats** with UnicycleDave as backup.
+* Apathy was low this week. Only one movie (Fame) received a majority of its 
+votes in the 'meh' category.
+* No movie received a majority of its votes in any other category, but our two
+winners received half their votes in the positive category, and half of voters
+did _not_ want to see Garfield.
 
 Please check out our [history](./History.html) page for a list of which movies 
-have received the most positive votes over the last two years without winning.
+have received the most positive votes over the last two years without winning,
+to help inform future list creation.
 
 ## Setup
 
@@ -89,9 +92,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Burlesque** wins with 5 points!
+**Josie and the Pussycats** and UnicycleDave tie with 5 points each. Our
+benevolent dictator has decreed that we will watch Josie and the Pussycats.
 
 ## Pics or it didn't happen
 

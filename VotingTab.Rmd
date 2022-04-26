@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Josie and the Pussycats** and UnicycleDave Maze tied with 7 votes in favour 
-and 2 against each.
-* We will be watching **Josie and the Pussycats** with UnicycleDave as backup.
-* Apathy was low this week. Only one movie (Fame) received a majority of its 
-votes in the 'meh' category.
-* No movie received a majority of its votes in any other category, but our two
-winners received half their votes in the positive category, and half of voters
-did _not_ want to see Garfield.
+* The survey was completed 15 times.
+* **Pirate Radio**, Frequently Asked Questions about Time Travel, and Labyrinth
+tied for first place.
+* We will be watching **Pirate Radio** with FAQaTT as backup.
+* Kicking Blood and Madelines tied for most votes in the 'meh' category, while
+Maze Runner tied Kicking Blood for most negative votes.
+* Labyrinth received the most positive votes while FAQaTT, Pirate Radio, and The
+355 tied for second most
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning,
@@ -94,8 +93,9 @@ res_df
 
 #### Vampire Academy Ties!
 
-**Josie and the Pussycats** and UnicycleDave tie with 5 points each. Our
-benevolent dictator has decreed that we will watch Josie and the Pussycats.
+**Pirate Radio**, Labyrinth, and Frequently Asked Questions about Time Travel
+tied for first with four points each. Our benevolent dictator has decreed that
+we will watch **Pirate Radio**.
 
 ## Pics or it didn't happen
 

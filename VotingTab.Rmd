@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **Pirate Radio**, Frequently Asked Questions about Time Travel, and Labyrinth
-tied for first place.
-* We will be watching **Pirate Radio** with FAQaTT as backup.
-* Kicking Blood and Madelines tied for most votes in the 'meh' category, while
-Maze Runner tied Kicking Blood for most negative votes.
-* Labyrinth received the most positive votes while FAQaTT, Pirate Radio, and The
-355 tied for second most
+* The survey was completed 13 times.
+* **Molly's Game** won with 5 points in favour and 2 against.
+* The Kitchen came in second with 5 points in favour and 3 against.
+* Our loser, The Cloverfield Paradox, had 1 vote in favour and 7 against, for
+a score of -6. I don't think this is the lowest score we've ever had, but it's
+pretty low.
+* The Rocketeer garnered the least interest, with 8 'meh' votes.
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning,
@@ -21,12 +20,12 @@ to help inform future list creation.
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-devtools::load_all('~/Projects/Mine/aftersl1p/')
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# devtools::load_all('~/Projects/Mine/aftersl1p/')
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -90,11 +89,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Pirate Radio**, Labyrinth, and Frequently Asked Questions about Time Travel
-tied for first with four points each. Our benevolent dictator has decreed that
-we will watch **Pirate Radio**.
+**Molly's Game** wins with 3 points.
 
 ## Pics or it didn't happen
 

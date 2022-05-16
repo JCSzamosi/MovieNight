@@ -3,12 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times.
-* **The Kitchen** won with 
-* The Bad Guys and Pump Up the Volume tied for second place. We will be using
-The Bad Guys as our emergency backup movie.
-* Our losing movie got a score of -6 for the second week in a row, and half of
-our movies received negative scores.
+* The survey was completed 12 times.
+* **Sonic The Hedgehog 2** won with 6 votes in favour and 1 against.
+* The Lost City came in second with 5 votes in favour and 2 against.
+* Those were our only movies with positive scores this week.
+* Nobody voted in favour of The Rocketeer
+* Only one person wants to see The Bad Guys
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning,
@@ -90,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Kitchen** wins with 4 points
+**Sonic The Hedgehog 2** wins with 5 points
 
 ## Pics or it didn't happen
 

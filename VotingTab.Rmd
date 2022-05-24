@@ -3,12 +3,16 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times.
-* **Sonic The Hedgehog 2** won with 6 votes in favour and 1 against.
-* The Lost City came in second with 5 votes in favour and 2 against.
-* Those were our only movies with positive scores this week.
-* Nobody voted in favour of The Rocketeer
-* Only one person wants to see The Bad Guys
+* The survey was completed 17 times. The tabulation committee thanks you for 
+your participation in the democratic process.
+* **TheLostCity** and Pacific Rim tied for first with 6 points each. **The Lost
+City** had 9 votes in favour and 3 against while Pacific Rim had 8 and 2.
+* We will be watching **The Lost City** because of its chaotic Tuesday quality
+* Half of our candidates received positive scores and half received negative 
+scores. There were no movies with a score of zero.
+* We had a tie for last place as well, between The Dark Tower and Playmobil.
+* The four movies with negative scores also received the highest number of
+'meh' votes.
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning,
@@ -19,12 +23,12 @@ to help inform future list creation.
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-devtools::load_all('~/Projects/Mine/aftersl1p/')
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# devtools::load_all('~/Projects/Mine/aftersl1p/')
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -88,9 +92,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Sonic The Hedgehog 2** wins with 5 points
+**The Lost City** and Pacific Rim tied for first place. We will be watching 
+**The Lost City**.
 
 ## Pics or it didn't happen
 

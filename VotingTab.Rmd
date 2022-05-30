@@ -3,16 +3,17 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 17 times. The tabulation committee thanks you for 
-your participation in the democratic process.
-* **TheLostCity** and Pacific Rim tied for first with 6 points each. **The Lost
-City** had 9 votes in favour and 3 against while Pacific Rim had 8 and 2.
-* We will be watching **The Lost City** because of its chaotic Tuesday quality
-* Half of our candidates received positive scores and half received negative 
-scores. There were no movies with a score of zero.
-* We had a tie for last place as well, between The Dark Tower and Playmobil.
-* The four movies with negative scores also received the highest number of
-'meh' votes.
+* The survey was completed 12 times. Low response rates can make ties more 
+likely
+* **Palm Springs** won with six votes in favour and zero against.
+* Baywatch (2017) also received six votes in favour, but two people votes 
+against it.
+* No other movie received more than three votes in favour
+* Entergagement was low this week. All but one movie received at least half of 
+its votes in the 'meh' category, and three received at least two thirds in that
+category
+* Four of our eight candidates netted scores of zero
+
 
 Please check out our [history](./History.html) page for a list of which movies 
 have received the most positive votes over the last two years without winning,
@@ -23,12 +24,12 @@ to help inform future list creation.
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# devtools::load_all('~/Projects/Mine/aftersl1p/')
-devtools::load_all('~/Work/Projects/aftersl1p')
+devtools::load_all('~/Projects/Mine/aftersl1p/')
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -92,10 +93,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**The Lost City** and Pacific Rim tied for first place. We will be watching 
-**The Lost City**.
+**Palm Springs** wins with 6 points!
 
 ## Pics or it didn't happen
 

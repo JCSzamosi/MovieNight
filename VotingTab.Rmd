@@ -3,33 +3,28 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low response rates can make ties more 
+* The survey was completed 13 times. Low response rates can make ties more 
 likely
-* **Palm Springs** won with six votes in favour and zero against.
-* Baywatch (2017) also received six votes in favour, but two people votes 
-against it.
-* No other movie received more than three votes in favour
-* Entergagement was low this week. All but one movie received at least half of 
-its votes in the 'meh' category, and three received at least two thirds in that
-category
-* Four of our eight candidates netted scores of zero
-
-
-Please check out our [history](./History.html) page for a list of which movies 
-have received the most positive votes over the last two years without winning,
-to help inform future list creation.
+* **Popstar** won with eight votes in favour and two against.
+* Best in Show will be our backup movie, having received four votes in favour 
+and one against.
+* Four of our options had positive scores and three had negative.
+* Votes were pretty evenly split between 'meh' votes and actual opinions. Four
+movies received more than half of their votes in the 'meh' category.
+* As usual, our winner was the only movie to receive a majority of its votes in 
+the positive category.
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-devtools::load_all('~/Projects/Mine/aftersl1p/')
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# devtools::load_all('~/Projects/Mine/aftersl1p/')
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -95,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Palm Springs** wins with 6 points!
+**Popstar** wins with 6 points!
 
 ## Pics or it didn't happen
 

@@ -3,16 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Low response rates can make ties more 
+* The survey was completed 10 times. Low response rates can make ties more 
 likely
-* **Popstar** won with eight votes in favour and two against.
-* Best in Show will be our backup movie, having received four votes in favour 
-and one against.
-* Four of our options had positive scores and three had negative.
-* Votes were pretty evenly split between 'meh' votes and actual opinions. Four
-movies received more than half of their votes in the 'meh' category.
-* As usual, our winner was the only movie to receive a majority of its votes in 
-the positive category.
+* **Jack Reacharound** won with 9 votes in favour and 10 against.
+* Edging Until Tomorrow and Topping a Few Good Gunmen tied for second with eight
+positive votes and one negative vote each.
+* Two options this week received zero negative votes: our winner, and The Right Tops with Guns
+* Taps Gun was massively under-appreciated, and received only a single vote in 
+favour. Topgun Thunder, on the other hand, was not a very clever title and 
+deserved the L.
 
 ## Setup
 
@@ -90,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Popstar** wins with 6 points!
+**Jack Reacharound** wins with 9 points!
 
 ## Pics or it didn't happen
 

@@ -3,15 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low response rates can make ties more 
+* The survey was completed 11 times. Low response rates can make ties more 
 likely
-* **Jack Reacharound** won with 9 votes in favour and 10 against.
-* Edging Until Tomorrow and Topping a Few Good Gunmen tied for second with eight
-positive votes and one negative vote each.
-* Two options this week received zero negative votes: our winner, and The Right Tops with Guns
-* Taps Gun was massively under-appreciated, and received only a single vote in 
-favour. Topgun Thunder, on the other hand, was not a very clever title and 
-deserved the L.
+* **The Unbearable Weight of Massive Talent** won with 7 votes in favour and 
+none against.
+* Firefox and The Core both received zero votes in favour, while In Time 
+received one
+* Our winner received zero votes against, once again.
 
 ## Setup
 
@@ -89,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Jack Reacharound** wins with 9 points!
+**The Unbearable Weight of Massive Talent** wins with 7 points!
 
 ## Pics or it didn't happen
 

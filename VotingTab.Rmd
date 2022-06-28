@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low response rates can make ties more 
+* The survey was completed 10 times. Low response rates can make ties more 
 likely
-* **The Unbearable Weight of Massive Talent** won with 7 votes in favour and 
-none against.
-* Firefox and The Core both received zero votes in favour, while In Time 
-received one
-* Our winner received zero votes against, once again.
+* **Paddington 2** won with 7 votes in favour and none against, which is 
+becoming a bit of a pattern.
+* Jamie is our official runner-up
+* The Kundera was our most controversial, while The Truman Show garnered the 
+least interest.
 
 ## Setup
 
@@ -87,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Unbearable Weight of Massive Talent** wins with 7 points!
+**Paddington 2** wins with 7 points.
 
 ## Pics or it didn't happen
 

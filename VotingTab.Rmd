@@ -3,13 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low response rates can make ties more 
-likely
-* **Paddington 2** won with 7 votes in favour and none against, which is 
-becoming a bit of a pattern.
-* Jamie is our official runner-up
-* The Kundera was our most controversial, while The Truman Show garnered the 
-least interest.
+* The survey was completed 15 times. 
+* In what may be a Tuesday Movie Night first, we only had a single movie with a
+positive score, and it leads the next highest by 7 points.
+* **Swiss Army Man** wins with 9 votes in favour and 2 against.
+* Peter Rabbit and The Bubble came joint second with 0 points each. The Bubble 
+will be our emergency backup film in case of excessive problematicity with the
+Daniel Radcliffe Does Weekend At Vinnies movie we have chosen
+* One person voted in favour of Everybody's Talking About Jamie, and not a 
+single person wanted to see Young Adam.
 
 ## Setup
 
@@ -87,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Paddington 2** wins with 7 points.
+**Swiss Army Man** wins with 7 points!
 
 ## Pics or it didn't happen
 

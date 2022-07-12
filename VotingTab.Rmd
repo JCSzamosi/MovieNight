@@ -3,15 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. 
-* In what may be a Tuesday Movie Night first, we only had a single movie with a
-positive score, and it leads the next highest by 7 points.
-* **Swiss Army Man** wins with 9 votes in favour and 2 against.
-* Peter Rabbit and The Bubble came joint second with 0 points each. The Bubble 
-will be our emergency backup film in case of excessive problematicity with the
-Daniel Radcliffe Does Weekend At Vinnies movie we have chosen
-* One person voted in favour of Everybody's Talking About Jamie, and not a 
-single person wanted to see Young Adam.
+* The survey was completed 10 times. Low voting numbers make ties more likely.
+Also Garfield.
+* **Independence Day** won with 4 votes in favour and 2 against.
+* The Bubble and Knight and Day tied for second. Knight and Day will be our 
+emergency backup fillum
+* Nobody wanted to see Cowboys and Aliens
 
 ## Setup
 
@@ -89,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Swiss Army Man** wins with 7 points!
+**Independence Day** wins with 2 points.
 
 ## Pics or it didn't happen
 

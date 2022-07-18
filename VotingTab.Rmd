@@ -5,10 +5,12 @@ Movie Night Voting Tabulation
 
 * The survey was completed 10 times. Low voting numbers make ties more likely.
 Also Garfield.
-* **Independence Day** won with 4 votes in favour and 2 against.
-* The Bubble and Knight and Day tied for second. Knight and Day will be our 
-emergency backup fillum
-* Nobody wanted to see Cowboys and Aliens
+* **LiloAndStitch** won with 5 votes in favour and 1 against.
+* Pacific Rim and Contact tied for second place. Contact will be our backup 
+movie unless our benevolent dictator overrides me after I've gone to bed.
+* Edge Of Tomorrow garnered the least interest, while Pacific Rim was the most 
+divisive.
+* Only one person wanted to watch I, Robot.
 
 ## Setup
 
@@ -86,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Independence Day** wins with 2 points.
+**Lilo and Stitch** wins with 4 points.
 
 ## Pics or it didn't happen
 

@@ -3,3 +3,4 @@
 *Rproj*
 .Rproj.user
 old_data/*
+*.DS_Store*

@@ -3,14 +3,7 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low voting numbers make ties more likely.
-Also Garfield.
-* **LiloAndStitch** won with 5 votes in favour and 1 against.
-* Pacific Rim and Contact tied for second place. Contact will be our backup 
-movie unless our benevolent dictator overrides me after I've gone to bed.
-* Edge Of Tomorrow garnered the least interest, while Pacific Rim was the most 
-divisive.
-* Only one person wanted to watch I, Robot.
+No executive summary this week. This is for the archives only.
 
 ## Setup
 
@@ -88,7 +81,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Lilo and Stitch** wins with 4 points.
+**Fire Island** won.
 
 ## Pics or it didn't happen
 

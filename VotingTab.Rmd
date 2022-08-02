@@ -3,7 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-No executive summary this week. This is for the archives only.
+* The survey was completed 12 times. Low participation numbers make ties more
+likely.
+* **Out of Sight** won with six votes in favour and one against
+* We have a three-way tie for second. In case of problematicity, we will watch 
+The Great Muppet Caper
+* The Great Muppet Caper was the only movie with no negative votes
+* No movie had a negative score. Our least popular movie was The Love Punch,
+which had a score of 0.
 
 ## Setup
 
@@ -81,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Fire Island** won.
+**Out of Sight** won with 5 points.
 
 ## Pics or it didn't happen
 

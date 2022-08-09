@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low participation numbers make ties more
-likely.
-* **Out of Sight** won with six votes in favour and one against
-* We have a three-way tie for second. In case of problematicity, we will watch 
-The Great Muppet Caper
-* The Great Muppet Caper was the only movie with no negative votes
-* No movie had a negative score. Our least popular movie was The Love Punch,
-which had a score of 0.
+* The survey was completed 14 times. 
+* **Moonfall** received 6 votes in favour and 2 against while Twister received 
+7 votes in favour and 3 against.
+* Only one person wanted to see These Final Hours and only one person objected 
+to Deep Impact
+* Five of our eight options had at least half of their votes in the 'meh' 
+category and four had it in the majority
+* None of the films received a majority of their votes either positive or
+negative
 
 ## Setup
 
@@ -86,9 +87,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Out of Sight** won with 5 points.
+**Moonfall** and Twister tied with 4 points each. We will be watching 
+**Moonfall**
 
 ## Pics or it didn't happen
 

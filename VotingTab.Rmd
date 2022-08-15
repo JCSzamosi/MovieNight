@@ -3,15 +3,17 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times. 
-* **Moonfall** received 6 votes in favour and 2 against while Twister received 
-7 votes in favour and 3 against.
-* Only one person wanted to see These Final Hours and only one person objected 
-to Deep Impact
-* Five of our eight options had at least half of their votes in the 'meh' 
-category and four had it in the majority
-* None of the films received a majority of their votes either positive or
-negative
+* The survey was completed 15 times. 
+* **Xanadu**, A Few Best Men, and Face/Off all received 4 votes in favour and 3
+against, for a perfect three-way tie. We will be watching **Xanadu**, with 
+A Few Best Friend as backup.
+* No other movie had positive scores, and the mean of all scores is less than
+zero
+* All movies except Grease received a plurality of their votes in the 'meh' 
+category
+* Theme nights tend to have lower entergagement than non-theme nights
+* Only one person wanted to see either of Very Excellent Mr Dundee and Two of
+a Kind
 
 ## Setup
 
@@ -89,8 +91,8 @@ res_df
 
 #### Vampire Academy Ties!
 
-**Moonfall** and Twister tied with 4 points each. We will be watching 
-**Moonfall**
+**Xanadu**, A Few Best Men, and Face/Off tied for first place with a score of 1
+point each. We will be watching **Xanadu**
 
 ## Pics or it didn't happen
 

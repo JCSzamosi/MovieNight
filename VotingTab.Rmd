@@ -3,17 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. 
-* **Xanadu**, A Few Best Men, and Face/Off all received 4 votes in favour and 3
-against, for a perfect three-way tie. We will be watching **Xanadu**, with 
-A Few Best Friend as backup.
-* No other movie had positive scores, and the mean of all scores is less than
-zero
-* All movies except Grease received a plurality of their votes in the 'meh' 
-category
-* Theme nights tend to have lower entergagement than non-theme nights
-* Only one person wanted to see either of Very Excellent Mr Dundee and Two of
-a Kind
+* The survey was completed 13 times. 
+* **Air Force One** won with six votes in favour and none against.
+* Poseidon will be our emergency backup movie with three votes in favour and one
+against.
+* No movie other than our winner got more than three votes in favour. Most of
+the variation in scores comes from the different number of negative votes
+* Only one person wanted to see In The Line of Fire, while eight people did 
+_not_ want to see Das Boot.
 
 ## Setup
 
@@ -89,10 +86,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Xanadu**, A Few Best Men, and Face/Off tied for first place with a score of 1
-point each. We will be watching **Xanadu**
+**Air Force One** wins with six points.
 
 ## Pics or it didn't happen
 

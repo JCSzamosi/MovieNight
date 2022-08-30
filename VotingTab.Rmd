@@ -3,14 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. 
-* **Air Force One** won with six votes in favour and none against.
-* Poseidon will be our emergency backup movie with three votes in favour and one
-against.
-* No movie other than our winner got more than three votes in favour. Most of
-the variation in scores comes from the different number of negative votes
-* Only one person wanted to see In The Line of Fire, while eight people did 
-_not_ want to see Das Boot.
+* The survey was completed 11 times. Low voter numbers make ties more likely.
+* **Chip n Dale Rescue Rangers** won with seven votes in favour and one against.
+* The Great Muppet Caper is our emergency backup movie with six votes in favour.
+* Wag the Dog, The Hitman's Wife's Bodyguard, and Contact all tied for third,
+showing strong apathy votes
+* Only one person wanted to see The Garbage Pail Kids
 
 ## Setup
 
@@ -88,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Air Force One** wins with six points.
+**Chip n Dale Rescue Rangers** wins with six points.
 
 ## Pics or it didn't happen
 

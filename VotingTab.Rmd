@@ -4,11 +4,11 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 11 times. Low voter numbers make ties more likely.
-* **Chip n Dale Rescue Rangers** won with seven votes in favour and one against.
-* The Great Muppet Caper is our emergency backup movie with six votes in favour.
-* Wag the Dog, The Hitman's Wife's Bodyguard, and Contact all tied for third,
-showing strong apathy votes
-* Only one person wanted to see The Garbage Pail Kids
+* **The Great Muppet Caper** won with four votes in favour and none against
+* Day Shift will be our emergency backup movie, just in case **The Great Muppet Caper** is too problematic and we need a safer option
+* Four movies tied for fourth place
+* No movies had zero votes in favour, but three (Space Jam, T2, and Lightyear) 
+only had one positive vote each.
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Chip n Dale Rescue Rangers** wins with six points.
+**The Great Muppet Caper** wins with four points!
 
 ## Pics or it didn't happen
 

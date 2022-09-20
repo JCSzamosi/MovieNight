@@ -3,12 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low voter numbers make ties more likely.
-* **RescuersDownUnder** won with six votes in favour and two against
-* Pushing Tin will be our emergency backup movie, just in case **Rescuers Down Under** is too problematic and we need a safer option
-* Three movies tied for fourth place
-* No movies had zero votes in favour, but only one person wanted to see the 
-Trial of the Incredible Hulk
+* The survey was completed 11 times. Low voter numbers make ties more likely.
+* **Real Genius** won with four votes in favour and none against
+* House Bunny and Fantastic Mr. Fox tied for second place. Our emergency backup
+movie will be House Bunny.
+* Three movies tied for third place.
+* Only two people had opinions about Firebird.
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Rescuers Down Under** wins with four points!
+**Real Genius** wins with four points!
 
 ## Pics or it didn't happen
 

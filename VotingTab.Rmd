@@ -3,12 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter numbers make ties more likely.
-* **Real Genius** won with four votes in favour and none against
-* House Bunny and Fantastic Mr. Fox tied for second place. Our emergency backup
-movie will be House Bunny.
-* Three movies tied for third place.
-* Only two people had opinions about Firebird.
+* The survey was completed 12 times
+* **Barb and Star** won with eight votes in favour and two against
+* Bubba Hot-Tep, They Live, and Mad Max Beyond Thunderdome tied for last place
+with negative three votes each
+* Only two movies had positive scores: our winner and Best in Show
+* Nobody wants to see The Hitman's Wife's Bodyguard or They Live
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Real Genius** wins with four points!
+**Barb and Star Go to Vista Del Mar** wins with six points!
 
 ## Pics or it didn't happen
 

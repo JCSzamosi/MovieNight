@@ -3,12 +3,18 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times
-* **Barb and Star** won with eight votes in favour and two against
-* Bubba Hot-Tep, They Live, and Mad Max Beyond Thunderdome tied for last place
-with negative three votes each
-* Only two movies had positive scores: our winner and Best in Show
-* Nobody wants to see The Hitman's Wife's Bodyguard or They Live
+* The survey was completed 12 times. Low voter numbers make ties more likely
+* **Hotel Transylvania** won with four votes in favour and two against
+* Starship Troopers and Best in Show tied for second place. Best in Show 
+received fewer negative (and positive) votes, so it will be our emergency 
+backup movie
+* This was not a very popular slate. four of our movies had negative scores and
+only three had positive scores. 
+* All but one film (Starship Troopers) had at least 50% of its votes in the
+'meh' category
+* Nobody wanted to see Confess, Fletch, but very few people didn't want to see
+it either.
+* Exactly one person wanted to see Spirited.
 
 ## Setup
 
@@ -86,7 +92,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Barb and Star Go to Vista Del Mar** wins with six points!
+**Hotel Transylvania** wins with 2 points!
 
 ## Pics or it didn't happen
 

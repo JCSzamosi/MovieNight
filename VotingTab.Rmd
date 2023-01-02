@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times.
-* **Turning Red** won with nine votes in favour and none against.
-* Our emergency backup movie will be Encanto, with a score of 7.
-* In a possibly unprecedented result, every single movie had a positive score 
-and no movie had more than two down votes.
-* Up garnered the least interest, with 8 'meh' votes
-* Turning Red, Encanto, and Soul had the fewest 'meh' votes
-* Let's cry, motherfuckers
+* The survey was completed 14 times.
+* **Throw Momma From the Train** won with eight votes in favour and two against.
+* Our emergency backup movie will be Encanto, with a score of 3.
+* Half of our movies received negative scores, with the lowest score going to
+The Transporter, which no one wanted to see.
+* One person wanted to see Smokey and the Bandit
+* There were relatively few 'meh' votes this week
 
 ## Setup
 
@@ -88,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Turning Red** wins with 9 points!
+**Throw Momma From the Train** wins with 6 points!
 
 ## Pics or it didn't happen
 

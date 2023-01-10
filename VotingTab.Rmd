@@ -4,12 +4,11 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 14 times.
-* **Throw Momma From the Train** won with eight votes in favour and two against.
-* Our emergency backup movie will be Encanto, with a score of 3.
-* Half of our movies received negative scores, with the lowest score going to
-The Transporter, which no one wanted to see.
-* One person wanted to see Smokey and the Bandit
-* There were relatively few 'meh' votes this week
+* **Glass Onion** won with 7 votes in favour and 2 against
+* Puss in Boots will be our emergency backup movie. It came in second with 
+6 votes in favour and 3 against
+* One person wanted to see Pretty Woman
+* As point count went down, 'meh' votes went up. This is not always the case.
 
 ## Setup
 
@@ -87,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Throw Momma From the Train** wins with 6 points!
+**Glass Onion** wins with 5 points!
 
 ## Pics or it didn't happen
 

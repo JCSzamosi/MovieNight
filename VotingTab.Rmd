@@ -3,12 +3,16 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Glass Onion** won with 7 votes in favour and 2 against
+* The survey was completed 20 times. The organizing committee thanks you for
+your involvement in the democratic process
+* **Knives Out** won with 12 votes in favour and 1 against
 * Puss in Boots will be our emergency backup movie. It came in second with 
-6 votes in favour and 3 against
-* One person wanted to see Pretty Woman
-* As point count went down, 'meh' votes went up. This is not always the case.
+11 votes in favour and 1 against
+* The two leaders were well ahead of the pack. VelociPastor and Rubber tied
+for second with 4 points each
+* One person wanted to see Turner and Hootch
+* Three movies received negative scores, and Rubber elicited the least interest 
+in either direction
 
 ## Setup
 
@@ -86,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Glass Onion** wins with 5 points!
+**Knives Out** wins with 11 points!
 
 ## Pics or it didn't happen
 

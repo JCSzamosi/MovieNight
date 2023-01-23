@@ -3,16 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 20 times. The organizing committee thanks you for
-your involvement in the democratic process
-* **Knives Out** won with 12 votes in favour and 1 against
-* Puss in Boots will be our emergency backup movie. It came in second with 
-11 votes in favour and 1 against
-* The two leaders were well ahead of the pack. VelociPastor and Rubber tied
-for second with 4 points each
-* One person wanted to see Turner and Hootch
-* Three movies received negative scores, and Rubber elicited the least interest 
-in either direction
+* The survey was completed 11 times. Low voter turnout makes ties more likely
+* **Puss In Boots** won with 8 votes in favour and 1 against
+* The Menu, a horror movie about hunting humans, will be our emergency backup in 
+case the movie for children with the cartoon cat is too problematic
+* Not one single person wanted to see Ticket to Paradise
+* Only three movies had positive scores
+* Only one person did not have an opinion about The Menu, which is, once again,
+our emergency backup movie in case Puss In Boots is too hard to watch
+* Only three people had any opinions at all about Cyrano
 
 ## Setup
 
@@ -90,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Knives Out** wins with 11 points!
+**Puss In Boots** wins with 7 points!
 
 ## Pics or it didn't happen
 

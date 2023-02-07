@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low voter turnout makes ties more likely
-* **The Menu** won with 8 votes in favour and 2 against
-* Seriously Red came in second with 4 points.
-* mTHREEEEEEgan was a highly divisive movie, with only one person voting 'meh',
-and a point difference of 1.
-* No movie received a negative score. The Love Punch came last with a score of 0
-* Marcel the Shell and Tammy and the T-Rex were also quite controversial
-* Despite low voter numbers, voter engagement with the movies was quite high
-this week.
+* The survey was completed 14 times.
+* **Bon Cop, Bad Cop** won with 7 votes in favour and 3 against
+* Marcel the Shell will be our emergency backup movie in case the copaganda is
+too copagandish
+* Apathy levels were high this week, with most movies having at least half their
+votes in the 'meh' category.
+* Only one person wanted to see The Bad Guys
+* Two whole people wanted to see The Room
 
 ## Setup
 
@@ -89,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Puss In Boots** wins with 7 points!
+**Bon Cop, Bad Cop** wins with 4 points
 
 ## Pics or it didn't happen
 

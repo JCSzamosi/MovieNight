@@ -3,26 +3,24 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Bon Cop, Bad Cop** won with 7 votes in favour and 3 against
-* Marcel the Shell will be our emergency backup movie in case the copaganda is
-too copagandish
-* Apathy levels were high this week, with most movies having at least half their
-votes in the 'meh' category.
-* Only one person wanted to see The Bad Guys
-* Two whole people wanted to see The Room
+* The survey was completed 11 times. Low voter turnout makes ties more likely.
+* **Marcel The Shell** won with 4 votes in favour and 3 against
+* Voter engagement was low this week, but enthusiasm was even lower
+* Most movies received the majority of their votes in the 'meh' category
+* 4 of our 8 candidates had 0 or 1 positive votes
+* Every single movie had at least 2 negative votes
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# devtools::load_all('~/Projects/Mine/aftersl1p/')
-devtools::load_all('~/Work/Projects/aftersl1p')
+devtools::load_all('~/Projects/Mine/aftersl1p/')
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -88,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Bon Cop, Bad Cop** wins with 4 points
+**Marcel the Shell** wins with 1 point.
 
 ## Pics or it didn't happen
 

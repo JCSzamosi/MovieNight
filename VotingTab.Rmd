@@ -3,12 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely.
-* **Marcel The Shell** won with 4 votes in favour and 3 against
-* Voter engagement was low this week, but enthusiasm was even lower
-* Most movies received the majority of their votes in the 'meh' category
-* 4 of our 8 candidates had 0 or 1 positive votes
-* Every single movie had at least 2 negative votes
+* The survey was completed 10 times. Low voter turnout makes ties more likely.
+* **Tremors** won with 4 votes in favour and 1 against
+* Only VelociPastor had fewer than half of its votes in the 'meh' category
+* One person wanted to see The Abyss
+* Most movies only had one or two negative votes
+* Seven of our eight movies had three or more positive votes
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Marcel the Shell** wins with 1 point.
+**Tremors** wins with 3 point.
 
 ## Pics or it didn't happen
 

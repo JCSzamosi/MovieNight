@@ -3,12 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low voter turnout makes ties more likely.
-* **Tremors** won with 4 votes in favour and 1 against
-* Only VelociPastor had fewer than half of its votes in the 'meh' category
-* One person wanted to see The Abyss
-* Most movies only had one or two negative votes
-* Seven of our eight movies had three or more positive votes
+* The survey was completed 12 times. Low voter turnout makes ties more likely.
+* **Boondock Saints** won with 6 votes in favour and 1 against
+* Hairspray and Max Payne generated the most controversy
+* Only one person wanted to see Harrison Bergeron
+* Two people voted to watch another Tom Cruise movie
+
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Tremors** wins with 3 point.
+**Boondock Saints** wins with 5 points.
 
 ## Pics or it didn't happen
 

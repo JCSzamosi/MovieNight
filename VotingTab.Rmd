@@ -3,11 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low voter turnout makes ties more likely.
-* **Boondock Saints** won with 6 votes in favour and 1 against
-* Hairspray and Max Payne generated the most controversy
-* Only one person wanted to see Harrison Bergeron
-* Two people voted to watch another Tom Cruise movie
+* The survey was completed 16 times.
+* **The Meg** won with 10 votes in favour and 3 against
+* Mega Shark vs. Giant Octobus, Snakes on a Plane, and Anaconda all received 8
+votes in favour, but Mega Shark comes in second with only 3 votes against
+* Several movies did not have a plurality of their votes in the 'meh' category.
+The tabulation committee thanks you for your entergagement.
 
 
 ## Setup
@@ -86,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Boondock Saints** wins with 5 points.
+**The Meg** wins with 7 points.
 
 ## Pics or it didn't happen
 

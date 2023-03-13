@@ -14,12 +14,12 @@ Movie Night Voting Tabulation
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# devtools::load_all('~/Projects/Mine/aftersl1p/')
-devtools::load_all('~/Work/Projects/aftersl1p')
+devtools::load_all('~/Projects/Mine/aftersl1p/')
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')

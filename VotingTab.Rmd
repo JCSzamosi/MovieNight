@@ -3,14 +3,11 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Bon Cop, Bad Cop** won with 7 votes in favour and 3 against
-* Marcel the Shell will be our emergency backup movie in case the copaganda is
-too copagandish
-* Apathy levels were high this week, with most movies having at least half their
-votes in the 'meh' category.
-* Only one person wanted to see The Bad Guys
-* Two whole people wanted to see The Room
+* The survey was completed 13 times.
+* **Robin Hood: Men in Tights** won with 10 votes in favour and 1 against
+* History of the World Part 1 is our emergency backup movie with 6 points
+* Our top 4 movies only had one negative vote each
+* Apathy was high at the lower end
 
 ## Setup
 
@@ -88,7 +85,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Bon Cop, Bad Cop** wins with 4 points
+**Robin Hood: Men in Tights** wins with 9 points!
 
 ## Pics or it didn't happen
 

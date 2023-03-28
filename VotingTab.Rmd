@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely
-* **Spies Like Us** has been chosen by our benevolent dictator. It received 5
-votes in favour and none against.
-* Iron Eagle and The Transporter each received 6 votes in favour and 1 against.
-* Taxi Driver is the only movie on this list with a unique score (3). The
-Thomas Crown Affair and Gone In 60 Seconds tied for second-last place (although
-they made up their scores of 1 in notably different ways), and Zoolander and 
-Jaws tied for last place, with identically made-up scores of -1.
+* The survey was completed 13 times. Low voter turnout makes ties more likely
+* **The VelociPastor** wins with 6 votes in favour and 2 against
+* Our emergency backup fillum will be History of the World, Part 1
+* M3gan garnered the most interest in both directions, with only 3 'meh' votes
+* Only one person wanted to see each of Tammy and the T-Rex and Raiders of the 
+Lost Shark; however, Tammy and the T-Rex received substantially fewer downvotes
+* Every movie had at least one vote in each category
 
 ## Setup
 
@@ -86,10 +85,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Spies Like Us**, Iron Eagle, and The Transporter tied for first with 5 points 
-each.
+**The VelociPastor** wins with 4 points!
 
 ## Pics or it didn't happen
 

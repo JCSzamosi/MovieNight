@@ -4,12 +4,12 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 13 times. Low voter turnout makes ties more likely
-* **The VelociPastor** wins with 6 votes in favour and 2 against
-* Our emergency backup fillum will be History of the World, Part 1
-* M3gan garnered the most interest in both directions, with only 3 'meh' votes
-* Only one person wanted to see each of Tammy and the T-Rex and Raiders of the 
-Lost Shark; however, Tammy and the T-Rex received substantially fewer downvotes
-* Every movie had at least one vote in each category
+* **Cocaine Bear** wins with 6 votes in favour and 4 against
+* Our emergency backup film will be Mummies with 1 point
+* The remaining 6 movies all had negative scores
+* Every movie had at least three negative votes
+* Most movies had two or fewer positive votes, but every movie had at least one
+* The movies with the middlingest scores had the most 'meh' votes
 
 ## Setup
 
@@ -87,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The VelociPastor** wins with 4 points!
+**Cocaine Bear** wins with 2 points!
 
 ## Pics or it didn't happen
 

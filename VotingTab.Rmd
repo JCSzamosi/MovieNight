@@ -4,12 +4,14 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 13 times. Low voter turnout makes ties more likely
-* **Cocaine Bear** wins with 6 votes in favour and 4 against
-* Our emergency backup film will be Mummies with 1 point
-* The remaining 6 movies all had negative scores
-* Every movie had at least three negative votes
-* Most movies had two or fewer positive votes, but every movie had at least one
-* The movies with the middlingest scores had the most 'meh' votes
+* **Teenage Mutant Ninja Turtles** wins with 5 votes in favour and none against
+* Our emergency backup film will be Babe 2, with 2 points
+* Babe 2 was the only movie that did not have a plurality of its votes in the 
+'meh' category
+* Only one person wanted to see The Mask
+* Only one person wanted to see The Abyss
+* There was a three-way tie for third place, but five of our movies had positive
+scores.
 
 ## Setup
 
@@ -87,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Cocaine Bear** wins with 2 points!
+**Teenage Mutant Ninja Turtles** wins with 5 points!
 
 ## Pics or it didn't happen
 

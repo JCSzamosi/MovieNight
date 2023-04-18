@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Low voter turnout makes ties more likely
-* **Teenage Mutant Ninja Turtles** wins with 5 votes in favour and none against
-* Our emergency backup film will be Babe 2, with 2 points
-* Babe 2 was the only movie that did not have a plurality of its votes in the 
-'meh' category
-* Only one person wanted to see The Mask
-* Only one person wanted to see The Abyss
-* There was a three-way tie for third place, but five of our movies had positive
-scores.
+* The survey was completed 11 times. Low voter turnout makes ties more likely
+* **The Man from U.N.C.L.E.** won with 6 votes in favour and 2 against.
+* Our emergency backup film will be Three Days of Condor, with 3 votes each for
+and against
+* Our winner was the only movie with a positive score
+* We had a three-way tie for third place, and a two-way tie for last place
+* Only one person wanted to see each of Flushed Away and Without Remorse.
+* All but two movies had 4 votes against
 
 ## Setup
 
@@ -89,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Teenage Mutant Ninja Turtles** wins with 5 points!
+**The Man From U.N.C.L.E.** wins with 4 points!
 
 ## Pics or it didn't happen
 

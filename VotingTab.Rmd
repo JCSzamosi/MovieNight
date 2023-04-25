@@ -3,26 +3,25 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely
-* **The Man from U.N.C.L.E.** won with 6 votes in favour and 2 against.
-* Our emergency backup film will be Three Days of Condor, with 3 votes each for
-and against
-* Our winner was the only movie with a positive score
-* We had a three-way tie for third place, and a two-way tie for last place
-* Only one person wanted to see each of Flushed Away and Without Remorse.
-* All but two movies had 4 votes against
+* The survey was completed 10 times. At this rate we will be watching Garfield 
+in no time.
+* **Crank** won with 5 votes in favour and none against
+* TMNT2 was the only movie with no negative votes
+* Willy's Wonderland was our most controversial movie, with only 2 'meh' votes
+* Only one person wanted to watch Cody Banks 2 and only 2 people wanted to watch
+The Shape of Water
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# devtools::load_all('~/Projects/Mine/aftersl1p/')
-devtools::load_all('~/Work/Projects/aftersl1p')
+devtools::load_all('~/Projects/Mine/aftersl1p/')
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -88,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Man From U.N.C.L.E.** wins with 4 points!
+**Crank** wins with 4 points!
 
 ## Pics or it didn't happen
 

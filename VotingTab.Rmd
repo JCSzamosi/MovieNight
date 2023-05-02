@@ -3,25 +3,27 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. At this rate we will be watching Garfield 
+* The survey was completed 11 times. At this rate we will be watching Garfield 
 in no time.
-* **Crank** won with 5 votes in favour and none against
-* TMNT2 was the only movie with no negative votes
-* Willy's Wonderland was our most controversial movie, with only 2 'meh' votes
-* Only one person wanted to watch Cody Banks 2 and only 2 people wanted to watch
-The Shape of Water
+* It doesn't matter. The movie is Magic Mike's Last Dance, starring Charming
+Potato's Abs and Salma Hayek's boobs. Matt Bomer's cheekbones, Joe 
+Manganiello's sock, and Kevin Nash's arms will also make an appearance.
+* All of these men are well into their silver fox eras except for Channing 
+Tatum, who will look 19 years old until the day he dies.
+* Also worth mentioning: one of the roles titled "Dancer" is played by an actor 
+named Patrick Packing.
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-devtools::load_all('~/Projects/Mine/aftersl1p/')
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# devtools::load_all('~/Projects/Mine/aftersl1p/')
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -85,9 +87,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Crank** wins with 4 points!
+**M3gic Moke** is wrestling it out with **MikeTHREEgan**. That is, I'm prety 
+sure, called a twelve-pack.
 
 ## Pics or it didn't happen
 

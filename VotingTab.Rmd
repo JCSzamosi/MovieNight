@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. At this rate we will be watching Garfield 
-in no time.
-* It doesn't matter. The movie is Magic Mike's Last Dance, starring Charming
-Potato's Abs and Salma Hayek's boobs. Matt Bomer's cheekbones, Joe 
-Manganiello's sock, and Kevin Nash's arms will also make an appearance.
-* All of these men are well into their silver fox eras except for Channing 
-Tatum, who will look 19 years old until the day he dies.
-* Also worth mentioning: one of the roles titled "Dancer" is played by an actor 
-named Patrick Packing.
+* The survey was completed 12 times. 
+* The **Hitman's Bodyguard** wins with five votes in favour and two against
+* Our emergency backup movie is The Faculty, which tied with Desperado for 
+second place and also received the same number of up votes as The Hitman's 
+Wife's Bodyguard, Desperado, and House of Gucci.
+* Every movie got at least two positive and two negative votes
+* Fifty Four is spelled out in letters because R gets mad if you made a column
+name start with a number.
 
 ## Setup
 
@@ -87,10 +86,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**M3gic Moke** is wrestling it out with **MikeTHREEgan**. That is, I'm prety 
-sure, called a twelve-pack.
+**The Hitman's Bodyguard** wins with 3 points!
 
 ## Pics or it didn't happen
 

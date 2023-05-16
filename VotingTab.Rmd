@@ -3,14 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. 
-* The **Hitman's Bodyguard** wins with five votes in favour and two against
-* Our emergency backup movie is The Faculty, which tied with Desperado for 
-second place and also received the same number of up votes as The Hitman's 
-Wife's Bodyguard, Desperado, and House of Gucci.
-* Every movie got at least two positive and two negative votes
-* Fifty Four is spelled out in letters because R gets mad if you made a column
-name start with a number.
+* The survey was completed 10 times. Garfield is coming for you.
+* **The Protege** wins with 3 votes in favour and 1 against.
+* Our emergency backup movie is XXX: Return of Xander Cage, although Snakes on
+A Plane tied with it.
+* This week there were a total of 16 positive votes and 15 negative, with a 
+solid majority (49) of votes falling in the 'meh' category.
+* The three-way tie for fourth place was a full tie: same numbers of votes in
+each category, not just same final scores.
 
 ## Setup
 
@@ -88,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Hitman's Bodyguard** wins with 3 points!
+**The Protege** wins with 2 points!
 
 ## Pics or it didn't happen
 

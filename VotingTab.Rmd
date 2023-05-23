@@ -3,26 +3,24 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Garfield is coming for you.
-* **The Protege** wins with 3 votes in favour and 1 against.
-* Our emergency backup movie is XXX: Return of Xander Cage, although Snakes on
-A Plane tied with it.
-* This week there were a total of 16 positive votes and 15 negative, with a 
-solid majority (49) of votes falling in the 'meh' category.
-* The three-way tie for fourth place was a full tie: same numbers of votes in
-each category, not just same final scores.
+* The survey was completed 12 times. 
+* **Renfield** wins with 7 votes in favour and one against.
+* Our emergency backup movie is Tetris.
+* Nobody cares whether or not we watch the 2023 Super Mario Brothers movie
+* Nobody wants to see The Pope's Exorcist
+* One person each wanted to see The Man from Toronto and The Artifice Girl
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# devtools::load_all('~/Projects/Mine/aftersl1p/')
-devtools::load_all('~/Work/Projects/aftersl1p')
+library(AfterSl1p)
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -88,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Protege** wins with 2 points!
+**Renfield** wins with 7 points!
 
 ## Pics or it didn't happen
 

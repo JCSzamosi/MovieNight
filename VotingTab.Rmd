@@ -3,12 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. 
-* **Renfield** wins with 7 votes in favour and one against.
+* The survey was completed 11 times and, like, who can blame y'all
+* **Flamin' Hot** wins with 2 votes in favour and 3 against.
+* Jackass Forever (5 up, 6 down) and Vengeance (4 up, 3 down) tied with 
+**Flamin' Hot** for first place.
+* No other movie got more than two votes in favour
+* No movie received a positive score
+* Not a single soul wanted to watch The Black Demon
 * Our emergency backup movie is Tetris.
-* Nobody cares whether or not we watch the 2023 Super Mario Brothers movie
-* Nobody wants to see The Pope's Exorcist
-* One person each wanted to see The Man from Toronto and The Artifice Girl
 
 ## Setup
 
@@ -84,9 +86,11 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Renfield** wins with 7 points!
+**Flamin' Hot**, Jackass Forever, and Vengeance tied for first place with -1
+points each. We will be watching **Flamin' Hot** because it had the fewest 
+downvotes.
 
 ## Pics or it didn't happen
 

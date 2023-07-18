@@ -3,26 +3,25 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times and, like, who can blame y'all
-* **Flamin' Hot** wins with 2 votes in favour and 3 against.
-* Jackass Forever (5 up, 6 down) and Vengeance (4 up, 3 down) tied with 
-**Flamin' Hot** for first place.
-* No other movie got more than two votes in favour
-* No movie received a positive score
-* Not a single soul wanted to watch The Black Demon
-* Our emergency backup movie is Tetris.
+* The survey was completed 10 times. Low turnout makes ties more likely.
+* **A Fish Called Wanda** wins with 4 votes in favour and none against.
+* Our backup movie in case of problematicity will be Hunt for Red October.
+* It could have been Brazil, but it isn't.
+* Three movies had negative scores and four had positive scores
+* Anaconda was the most controversial option
+
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-library(AfterSl1p)
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# library(AfterSl1p)
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -86,11 +85,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Flamin' Hot**, Jackass Forever, and Vengeance tied for first place with -1
-points each. We will be watching **Flamin' Hot** because it had the fewest 
-downvotes.
+**A Fish Called Wanda** wins with 4 points!
 
 ## Pics or it didn't happen
 

@@ -3,13 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low turnout makes ties more likely.
-* **A Fish Called Wanda** wins with 4 votes in favour and none against.
-* Our backup movie in case of problematicity will be Hunt for Red October.
-* It could have been Brazil, but it isn't.
-* Three movies had negative scores and four had positive scores
-* Anaconda was the most controversial option
-
+* The survey was completed 12 times. Low turnout makes ties more likely.
+* **Kung Fu Hustle** won with four votes in favour and one against
+* Our backup movie in case of problematicity will be Freaky Friday
+* Twins was the only movie with no positive votes, but it also got very few
+negative votes
+* Only one person wanted to see either Halloween movie, but seven people opposed
+them each.
+* Lotta 'meh' votes this week.
 
 ## Setup
 
@@ -87,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**A Fish Called Wanda** wins with 4 points!
+**Kung Fu Hustle** wins with 3 points!
 
 ## Pics or it didn't happen
 

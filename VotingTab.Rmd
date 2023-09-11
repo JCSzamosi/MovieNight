@@ -3,25 +3,24 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times and, like, who can blame y'all
-* **They Cloned Tyrone** won with five votes in favour and none against
-* Corner Office also received zero negative votes, but only 4 positive votes
-* Other than John Wick 4 (1 point), every other movie received a negative score
-* Only one person wanted to watch any of Die Hart, Hidden Strike, or Hypnotic
-* John Wick was our most controversial movie, and it tied with Sympathy For The
-Devil in terms of fewest 'meh' votes
+* The survey was completed 12 times. Low voter turnout makes ties more likely
+* **The Meg 2** wins with 7 votes for and 3 against
+* No other movie received a positive score
+* Corner Office will be our emergency backup movie for the second week in a row
+* Nobody wanted to see Training Day
+* Only one person wanted to see either of Hollow Man or The Book of Eli
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-library(AfterSl1p)
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# library(AfterSl1p)
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -87,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**They Cloned Tyrone** wins with 5 points!
+**The Meg 2** wins with 4 points!
 
 ## Pics or it didn't happen
 

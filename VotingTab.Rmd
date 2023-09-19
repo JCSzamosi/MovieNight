@@ -3,12 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low voter turnout makes ties more likely
-* **The Meg 2** wins with 7 votes for and 3 against
-* No other movie received a positive score
-* Corner Office will be our emergency backup movie for the second week in a row
-* Nobody wanted to see Training Day
-* Only one person wanted to see either of Hollow Man or The Book of Eli
+* The survey was completed 10 times. Low voter turnout makes ties more likely
+* **Polite Society** won with 6 votes in favour and none against. An honest-to-god 
+majority!
+* Our emergency backup second place movie is D.E.B.S., which had 3 votes in 
+favour and also none against
+* No movie had more than two votes against; every movie had at least one vote
+in favour
+* Most movies had a majority of their votes in the 'meh' category.
 
 ## Setup
 
@@ -86,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Meg 2** wins with 4 points!
+**Polite Society** wins with 6 points!
 
 ## Pics or it didn't happen
 

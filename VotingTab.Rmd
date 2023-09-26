@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low voter turnout makes ties more likely
-* **Polite Society** won with 6 votes in favour and none against. An honest-to-god 
-majority!
-* Our emergency backup second place movie is D.E.B.S., which had 3 votes in 
-favour and also none against
-* No movie had more than two votes against; every movie had at least one vote
-in favour
-* Most movies had a majority of their votes in the 'meh' category.
+* The survey was completed 11 times. Low voter turnout makes ties more likely
+* **TMNT** and M3gan tied. We will be watching **TMNT**
+* Our emergency backup second place movie is M3gan
+* Corner Office, Vampire Motorcycle, and The Hunger tied for third place with 1
+point each, but the vote composition was different for all three
+* Red Notice received the most negative votes. M3gan and The Hunger were tied
+for the most positive votes.
 
 ## Setup
 
@@ -86,9 +85,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Polite Society** wins with 6 points!
+**TMNT** tied with Mthreeeeegan with 2 points each!
 
 ## Pics or it didn't happen
 

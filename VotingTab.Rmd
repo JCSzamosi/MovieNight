@@ -3,25 +3,25 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely
-* **TMNT** and M3gan tied. We will be watching **TMNT**
-* Our emergency backup second place movie is M3gan
-* Corner Office, Vampire Motorcycle, and The Hunger tied for third place with 1
-point each, but the vote composition was different for all three
-* Red Notice received the most negative votes. M3gan and The Hunger were tied
-for the most positive votes.
+* The survey was completed 13 times. 
+* **Bottoms** won with 10 votes in favour and one against
+* Every other movie got negative scores. The people have spoken
+* Not one person wanted to see Night Raiders, TMNT:Out of the Shadows, or Batman
+Vs. TMNT
+* Ferris Beuler's Day Off will be our emergency backup movie in case of excess
+problematicity
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# library(AfterSl1p)
-devtools::load_all('~/Work/Projects/aftersl1p')
+library(AfterSl1p)
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -85,9 +85,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**TMNT** tied with Mthreeeeegan with 2 points each!
+**Bottoms** wins with 9 points!
 
 ## Pics or it didn't happen
 

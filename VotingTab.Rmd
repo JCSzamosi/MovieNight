@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. 
-* **Bottoms** won with 10 votes in favour and one against
-* Every other movie got negative scores. The people have spoken
-* Not one person wanted to see Night Raiders, TMNT:Out of the Shadows, or Batman
-Vs. TMNT
-* Ferris Beuler's Day Off will be our emergency backup movie in case of excess
-problematicity
+* The survey was completed 11 times. Low turnout makes ties more likely
+* **Blue Thermal** won with two votes in favour and none against
+* The horror filtm The Purge will be our emergency backup movie in case the
+airplane anime is too upsetting
+* Indiana Jones and the Dial of Destiny was our most controversial choice, with
+only 2 'meh' votes
+* Only one person wanted to see each of Superbad, Game Night, and Enola Holmes
 
 ## Setup
 
@@ -87,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Bottoms** wins with 9 points!
+**Blue Thermal** wins with 2 points
 
 ## Pics or it didn't happen
 

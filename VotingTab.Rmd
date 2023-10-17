@@ -3,25 +3,26 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low turnout makes ties more likely
-* **Blue Thermal** won with two votes in favour and none against
-* The horror filtm The Purge will be our emergency backup movie in case the
-airplane anime is too upsetting
-* Indiana Jones and the Dial of Destiny was our most controversial choice, with
-only 2 'meh' votes
-* Only one person wanted to see each of Superbad, Game Night, and Enola Holmes
+* The survey was completed 17 times. The organizing committee thanks you all for
+your participation in democracy
+* **The Faculty** won with 10 votes in favour and 1 against
+* Tucker and Dale Vs. Evil will be our emergency backup fillum
+* All other movies had negative scores, ranging from -3 to -7
+* Most other movies got 2 votes in favour (except Scary Movie, which got 3), and
+varied only in how many negative votes they got.
+* ParaNorman had the fewest, with 5, while Babadook had the most, with 10
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-library(AfterSl1p)
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# library(AfterSl1p)
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -87,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Blue Thermal** wins with 2 points
+**The Faculty** wins with 9 points
 
 ## Pics or it didn't happen
 

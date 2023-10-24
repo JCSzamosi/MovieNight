@@ -3,14 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 17 times. The organizing committee thanks you all for
-your participation in democracy
-* **The Faculty** won with 10 votes in favour and 1 against
-* Tucker and Dale Vs. Evil will be our emergency backup fillum
-* All other movies had negative scores, ranging from -3 to -7
-* Most other movies got 2 votes in favour (except Scary Movie, which got 3), and
-varied only in how many negative votes they got.
-* ParaNorman had the fewest, with 5, while Babadook had the most, with 10
+* The survey was completed 14 times. 
+* **Tucker and Dale Vs. Evil** won with 8 votes in favour and 1 against
+* If the movie about teenagers dying in the woods is too upsetting, we can 
+always switch to an opera about vital organs being repossessed from the poor.
+* This is one of our least negative weeks in a while, with only three movies' 
+scores going into negative numbers.
+* Most movies also did not have a plurality of their votes in the 'meh' category
+Way to be entergaged with the process, voters!
 
 ## Setup
 
@@ -86,9 +86,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**The Faculty** wins with 9 points
+**Tucker And Dale Vs. Evil** and Repo: A Genetic Opera tied with 7 points each.
+We will be watching **Tucker And Dale Vs. Evil**.
 
 ## Pics or it didn't happen
 

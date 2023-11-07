@@ -3,10 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely.
-* We will be watching the Gay Lesbian Vampire movie **Bit**
-* The best joke, the nerdiest option, and the most sapphic option, tied for 
-first place. Go team.
+* The survey was completed 13 times. Low voter turnout makes ties more likely.
+* We will be watching Aziraphael be a vampire in **Underworld**
+* If Aziraphael is too scary as a vampire, we will watch Five Nights and Freddy's
+* Only three movies received negative scores this week
+* Not a single person wanted to see Lego Avengers
+* Every movie got at least one down vote
+* There was a sewage leak in my building and it smells bad here. Good night.
 
 ## Setup
 
@@ -82,10 +85,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Bites!
+#### Vampire Academy Wins!
 
-**Bit** 3D but one of the dimensions is time tied with **Bit** but it's about
-queer theory and **Bit** (the drill kind).
+**Underworld** wins with 5 points!
 
 We will be watching **Bit**.
 

@@ -3,25 +3,25 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Low voter turnout makes ties more likely.
-* We will be watching Aziraphael be a vampire in **Underworld**
-* If Aziraphael is too scary as a vampire, we will watch Five Nights and Freddy's
-* Only three movies received negative scores this week
-* Not a single person wanted to see Lego Avengers
-* Every movie got at least one down vote
-* There was a sewage leak in my building and it smells bad here. Good night.
+* The survey was completed 11 times. Low voter turnout makes ties more likely.
+* **Quiz Lady** won with 6 votes in favour and 1 against
+* Our emergency backup movie will be Timeline
+* Only one person wanted to see Money Plane
+* There were fewer negative votes this week than we've been seeing lately. Only
+two movies had negative scores
+* There were ties for second and fourth place
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# library(AfterSl1p)
-devtools::load_all('~/Work/Projects/aftersl1p')
+library(AfterSl1p)
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -87,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Underworld** wins with 5 points!
+**Quiz Lady** wins with 5 points!
 
 We will be watching **Bit**.
 

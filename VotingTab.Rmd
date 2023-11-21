@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely.
-* **Quiz Lady** won with 6 votes in favour and 1 against
-* Our emergency backup movie will be Timeline
-* Only one person wanted to see Money Plane
-* There were fewer negative votes this week than we've been seeing lately. Only
-two movies had negative scores
-* There were ties for second and fourth place
+* The survey was completed 14 times.
+* **Labyrinth** won with 7 votes in favour and 2 against
+* We will have Little Shop of Horrors on standby in case David Bowie's potato is
+a little too much for us
+* Not a single solitary person wanted to see Annette
+* Only four people had any opinions at all about Willow
+* A minority of our options got negative scores this week
 
 ## Setup
 
@@ -87,9 +87,8 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Quiz Lady** wins with 5 points!
+**Labyrinth** wins with 5 points!
 
-We will be watching **Bit**.
 
 ## Pics or it didn't happen
 

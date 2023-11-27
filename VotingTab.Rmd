@@ -3,13 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Labyrinth** won with 7 votes in favour and 2 against
-* We will have Little Shop of Horrors on standby in case David Bowie's potato is
-a little too much for us
-* Not a single solitary person wanted to see Annette
-* Only four people had any opinions at all about Willow
-* A minority of our options got negative scores this week
+* The survey was completed 11 times.
+* **Dicks: The Musical** won with 9 votes in favour and 1 against
+* Alita will be our emergency backup movie but, like, I wouldn't bother 
+downloading it
+* One single person wanted to see each of The Witches, Willow, and The Last
+Unicorn
+* Nobody wanted to see The Rocketeer
+* We may have a record number of options this week that start with the word 'The'
 
 ## Setup
 
@@ -87,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Labyrinth** wins with 5 points!
+**Dicks: The Musical** wins with 8 points!
 
 
 ## Pics or it didn't happen

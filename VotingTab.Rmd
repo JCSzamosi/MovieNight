@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times.
-* **Dicks: The Musical** won with 9 votes in favour and 1 against
-* Alita will be our emergency backup movie but, like, I wouldn't bother 
-downloading it
-* One single person wanted to see each of The Witches, Willow, and The Last
-Unicorn
-* Nobody wanted to see The Rocketeer
-* We may have a record number of options this week that start with the word 'The'
+* The survey was completed 11 times. Low voter turnout makes ties more likely
+* **Hunt for Red October** won with 6 votes in favour and 1 against.
+* Birdcage will be our emergency backup movie in case **Hunt for Red October**
+sucks or something
+* Nobody wanted to see Nowhere to Run
+* One person wanted to see Lethal Weapon 2
+* Might Ducks was the most controversial option
+* The Linguini Incident tied with Nowhere to Run for option with the least 
+interest in either direction
 
 ## Setup
 
@@ -88,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Dicks: The Musical** wins with 8 points!
+**Hunt for Red October** wins with 5 points!
 
 
 ## Pics or it didn't happen

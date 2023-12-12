@@ -4,26 +4,26 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 11 times. Low voter turnout makes ties more likely
-* **Hunt for Red October** won with 6 votes in favour and 1 against.
-* Birdcage will be our emergency backup movie in case **Hunt for Red October**
-sucks or something
-* Nobody wanted to see Nowhere to Run
-* One person wanted to see Lethal Weapon 2
-* Might Ducks was the most controversial option
-* The Linguini Incident tied with Nowhere to Run for option with the least 
-interest in either direction
+* **Hanukkah On Rye** won with 5 votes in favour and none against.
+* Menorah in the Middle will be our emergency backup movie.
+* Nobody voted against either of our top two picks
+* Nobody wanted to see Little Fockers
+* Only one person wanted to see each of Love Lights Hanukkah, Double Holiday, or
+Holiday Date
+* Tonight is the sixth night of Hanukkah. I wonder how many candles we will see
+lit during the movie.
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-library(AfterSl1p)
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# library(AfterSl1p)
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -89,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Hunt for Red October** wins with 5 points!
+**Hanukkah On Rye** wins with 5 points!
 
 
 ## Pics or it didn't happen

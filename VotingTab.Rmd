@@ -3,15 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely
-* **Hanukkah On Rye** won with 5 votes in favour and none against.
-* Menorah in the Middle will be our emergency backup movie.
-* Nobody voted against either of our top two picks
-* Nobody wanted to see Little Fockers
-* Only one person wanted to see each of Love Lights Hanukkah, Double Holiday, or
-Holiday Date
-* Tonight is the sixth night of Hanukkah. I wonder how many candles we will see
-lit during the movie.
+* The survey was completed 12 times. Low voter turnout makes ties more likely
+* **District 9** won with 6 votes in favour and 1 against.
+* In case 9 is too many Districts, we will watch Marvin be sad
+* Only Serenity received a negative score
+* District 9, HHGTTG, and Alien all received the same number of positive votes
+* Only three people had the correct opinion about Dark Star, you buncha 
+heathens
 
 ## Setup
 
@@ -89,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Hanukkah On Rye** wins with 5 points!
+**District 9** wins with 5 points!
 
 
 ## Pics or it didn't happen

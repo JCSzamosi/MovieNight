@@ -4,12 +4,11 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 12 times. Low voter turnout makes ties more likely
-* **District 9** won with 6 votes in favour and 1 against.
-* In case 9 is too many Districts, we will watch Marvin be sad
-* Only Serenity received a negative score
-* District 9, HHGTTG, and Alien all received the same number of positive votes
-* Only three people had the correct opinion about Dark Star, you buncha 
-heathens
+* **At Least Donald Trump Isn't In This One** won with 6 votes in favour and 
+one against
+* Nobody objected to Ermagerd It's Hermalern!
+* Home Alone 1 and Christopher Columbus received negative points. Christopher
+Columbus certainly deserves it.
 
 ## Setup
 
@@ -87,7 +86,8 @@ res_df
 
 #### Vampire Academy Wins!
 
-**District 9** wins with 5 points!
+**At Least Donald Trump Isn't In This One" wins with 5 points. We will be 
+watching Home Alone.
 
 
 ## Pics or it didn't happen

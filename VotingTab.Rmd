@@ -3,12 +3,11 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low voter turnout makes ties more likely
-* **At Least Donald Trump Isn't In This One** won with 6 votes in favour and 
-one against
-* Nobody objected to Ermagerd It's Hermalern!
-* Home Alone 1 and Christopher Columbus received negative points. Christopher
-Columbus certainly deserves it.
+* The survey was completed 10 times. Low voter turnout makes ties more likely
+* **Thirteenth Floor**, Spideyman, and Beyond the Time Barrier ties perfectly,
+with three votes in favour and two against each.
+* Nobody wanted to see G.I. Joe
+* Godzilla Vs. Kong was the only movie that didn't tie with anything.
 
 ## Setup
 
@@ -84,10 +83,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**At Least Donald Trump Isn't In This One" wins with 5 points. We will be 
-watching Home Alone.
+**Thirteenth Floor** tied for first place with Beyond The Time Barrier and Spideyman. We will be watching Thirteenth Floor.
 
 
 ## Pics or it didn't happen

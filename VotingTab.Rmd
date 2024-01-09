@@ -3,11 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low voter turnout makes ties more likely
-* **Thirteenth Floor**, Spideyman, and Beyond the Time Barrier ties perfectly,
-with three votes in favour and two against each.
-* Nobody wanted to see G.I. Joe
-* Godzilla Vs. Kong was the only movie that didn't tie with anything.
+* The survey was completed 12 times. Low voter turnout makes ties more likely
+* **Game Night** won with 6 votes in favour and none against
+* Nobody voted against The Fantastic Mr Fox either. It will be our emergency
+backup movie
+* Every movie got at least two positive votes
+* Only four movies got more than one negative vote
+* Our lowest score was zero. Not a single movie got a negative score.
+* Widows was the most polarizing option
+* Quick Change was the least polarizing option
 
 ## Setup
 
@@ -83,10 +87,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Thirteenth Floor** tied for first place with Beyond The Time Barrier and Spideyman. We will be watching Thirteenth Floor.
-
+**Game Night** won with 6 points!
 
 ## Pics or it didn't happen
 

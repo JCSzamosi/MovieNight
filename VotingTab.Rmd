@@ -3,15 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Low voter turnout makes ties more likely
-* **Game Night** won with 6 votes in favour and none against
-* Nobody voted against The Fantastic Mr Fox either. It will be our emergency
-backup movie
-* Every movie got at least two positive votes
-* Only four movies got more than one negative vote
-* Our lowest score was zero. Not a single movie got a negative score.
-* Widows was the most polarizing option
-* Quick Change was the least polarizing option
+* The survey was completed 15 times. 
+* **Dream Scenario** won with 10 votes in favour and two against
+* Our emergency backup movie will be Blackberry
+* Only four of our options received positive scores
+* Maggie Moore and Beau Is Afraid are tied for most polarizing options
+* No Hard Feelings lost
 
 ## Setup
 
@@ -89,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Game Night** won with 6 points!
+**Dream Scenario** won with 8 points!
 
 ## Pics or it didn't happen
 

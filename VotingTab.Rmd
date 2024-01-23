@@ -3,12 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. 
-* **Dream Scenario** won with 10 votes in favour and two against
-* Our emergency backup movie will be Blackberry
-* Only four of our options received positive scores
-* Maggie Moore and Beau Is Afraid are tied for most polarizing options
-* No Hard Feelings lost
+* The survey was completed 13 times. 
+* **Catwoman** won with 10 votes in favour and two against
+* Our emergency backup movie will be Dora and The Lost City of Gold
+* Two movies got zero no votes, but they did not get enough yes votes
+to break the top three
+* Only one person each wanted to see the Peanuts Movie or Wonder
 
 ## Setup
 
@@ -86,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Dream Scenario** won with 8 points!
+**Catwoman** won with 8 points!
 
 ## Pics or it didn't happen
 

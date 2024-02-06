@@ -4,10 +4,11 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 13 times. 
-* **Rollerball** won with 5 votes in favour and 1 against
-* Our emergency backup movie will be Moonstruck
-* Nobody wanted to see F.I.S.T. or And Justice For All
-* Only one person wanted to see Jesus Christ Superstar
+* **Who Framed Roger Rabbit** won with 8 votes in favour and 0 against
+* Our emergency backup movie will be The Man Who Knew Too Little
+* Three movies got only one vote in favour
+* Two movies got only one vote against
+* Movies did not differ much in their controversiality
 
 ## Setup
 
@@ -85,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Rollerball** won with 4 points!
+**Who Framed Roger Rabbit** won with 8 points!
 
 ## Pics or it didn't happen
 

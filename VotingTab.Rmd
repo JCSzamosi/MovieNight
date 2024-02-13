@@ -3,12 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. 
-* **Who Framed Roger Rabbit** won with 8 votes in favour and 0 against
-* Our emergency backup movie will be The Man Who Knew Too Little
-* Three movies got only one vote in favour
-* Two movies got only one vote against
-* Movies did not differ much in their controversiality
+* The survey was completed 10 times. 
+* **Kiss Kiss Bang Bang** won with 5 votes in favour and none against.
+* Our emergency backup movie will be The Long Kiss, which also has Kiss in the
+name.
+* Lethal Weapon 2 was the exact opposite of our winner, with 5 votes against and
+none for.
+* Every other movie had at least one vote in each category, but most had a 
+plurality in the 'meh' category.
+* The modal number of 'no' votes per movie was 2
 
 ## Setup
 
@@ -86,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Who Framed Roger Rabbit** won with 8 points!
+**Kiss Kiss Bang Bang** wins with 5 points!
 
 ## Pics or it didn't happen
 

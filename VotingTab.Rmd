@@ -3,15 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. 
-* **Kiss Kiss Bang Bang** won with 5 votes in favour and none against.
-* Our emergency backup movie will be The Long Kiss, which also has Kiss in the
-name.
-* Lethal Weapon 2 was the exact opposite of our winner, with 5 votes against and
-none for.
-* Every other movie had at least one vote in each category, but most had a 
-plurality in the 'meh' category.
-* The modal number of 'no' votes per movie was 2
+* The survey was completed 11 times. Low voter turnout reduces the reliability 
+of our results.
+* **Happy Gilmore** won with 4 votes in favour and 1 against
+* Our emergency backup movie in case people need to stop looking at Adam Sandler
+is Predator
+* Predator was our most controversial choice
+* Predator and Happy Gilmore were our only options with positive scores
+* We had a two-way tie for third place, and a three-way tie for last place
+* No movie got more than four votes in favour and half our movies had two votes in favour
 
 ## Setup
 
@@ -89,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Kiss Kiss Bang Bang** wins with 5 points!
+**Happy Gilmore** wins with four votes in favour and one against.
 
 ## Pics or it didn't happen
 

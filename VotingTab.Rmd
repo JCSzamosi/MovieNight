@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout reduces the reliability 
-of our results.
-* **Happy Gilmore** won with 4 votes in favour and 1 against
-* Our emergency backup movie in case people need to stop looking at Adam Sandler
-is Predator
-* Predator was our most controversial choice
-* Predator and Happy Gilmore were our only options with positive scores
-* We had a two-way tie for third place, and a three-way tie for last place
-* No movie got more than four votes in favour and half our movies had two votes in favour
+* The survey was completed 14 times.
+* **Bank of Dave** won with 7 votes in favour and none against.
+* Our emergency backup movie will be The Fantastic Mr. Fox
+* Our positive scores this week outweigh the negative scores by a fair margin
+* Most movies nonetheless got a majority or plurality of their votes in the 
+'meh' cagetory
+* The Last Action Hero was the most controversial movie
+* Grown-Ups garnered the least interest in either direction
 
 ## Setup
 
@@ -89,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Happy Gilmore** wins with four votes in favour and one against.
+**Bank of Dave** wins with 7 points!
 
 ## Pics or it didn't happen
 

@@ -3,14 +3,18 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Bank of Dave** won with 7 votes in favour and none against.
-* Our emergency backup movie will be The Fantastic Mr. Fox
-* Our positive scores this week outweigh the negative scores by a fair margin
-* Most movies nonetheless got a majority or plurality of their votes in the 
-'meh' cagetory
-* The Last Action Hero was the most controversial movie
-* Grown-Ups garnered the least interest in either direction
+* The survey was completed 15 times. The organizing committee thanks you for 
+your dedication to democracy during these trying times.
+* **Power Rangers (2017)** won with 7 votes in favour and one against.
+* Our emergency backup movie will be Happytime Murders
+* Results were mostly determined by number of positive votes this week, there 
+was much lower variance in the negative votes
+* Most movies had a plurality of their votes in the 'meh' category
+* Only one person wanted to see Movie 43
+* Two people want to see beach bums
+* Every movie got at least one positive and one negative vote
+* Only Movie 43 received a negative score, while four movies received positive 
+scores
 
 ## Setup
 
@@ -88,7 +92,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Bank of Dave** wins with 7 points!
+**Power Rangers** wins with 6 points!
 
 ## Pics or it didn't happen
 

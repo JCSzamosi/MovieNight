@@ -3,18 +3,17 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. The organizing committee thanks you for 
-your dedication to democracy during these trying times.
-* **Power Rangers (2017)** won with 7 votes in favour and one against.
-* Our emergency backup movie will be Happytime Murders
-* Results were mostly determined by number of positive votes this week, there 
-was much lower variance in the negative votes
-* Most movies had a plurality of their votes in the 'meh' category
-* Only one person wanted to see Movie 43
-* Two people want to see beach bums
-* Every movie got at least one positive and one negative vote
-* Only Movie 43 received a negative score, while four movies received positive 
-scores
+* The survey was completed 11 times. Low voter turnout makes ties more likely.
+* **The Beekeeper** won with 5 votes in favour and 2 against.
+* We have a tie for second. The benevolent dictator not being available, their 
+lieutenant of questionable quality has chosen Slotherhouse for our emergency 
+backup movie
+* We have a truly overwhelming number of 'meh' votes this week. Adding together
+the number of positive votes and the number of negative votes gives an average 
+of fewer than 3 preference-expressing votes per movie.
+* That said, every movie had at least one opinionated vote. Only Slotherhouse 
+had zero negative votes, while Rebel Mood and It Lives Inside both had zero
+positive votes.
 
 ## Setup
 
@@ -92,7 +91,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Power Rangers** wins with 6 points!
+**The Beekeeper** wins with 3 points!
 
 ## Pics or it didn't happen
 

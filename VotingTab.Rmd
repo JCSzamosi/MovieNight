@@ -3,17 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. Low voter turnout makes ties more likely.
-* **The Beekeeper** won with 5 votes in favour and 2 against.
-* We have a tie for second. The benevolent dictator not being available, their 
-lieutenant of questionable quality has chosen Slotherhouse for our emergency 
-backup movie
-* We have a truly overwhelming number of 'meh' votes this week. Adding together
-the number of positive votes and the number of negative votes gives an average 
-of fewer than 3 preference-expressing votes per movie.
-* That said, every movie had at least one opinionated vote. Only Slotherhouse 
-had zero negative votes, while Rebel Mood and It Lives Inside both had zero
-positive votes.
+* The survey was completed 14 times. Your participation in democracy is appreciated
+* **Irish Wish** won with 6 votes in favour and 2 against
+* Our emergency backup movie is Slotherhouse. Maybe actually download it this 
+time.
+* Every movie got at least 2 no votes, and every movie got at least one yes vote
+* The pattern of increasing no votes is very cleanly correlated with decreasing
+yes votes, but also the number of 'meh' votes goes up as popularity goes down
+* Only three of our options got positive scores.
 
 ## Setup
 
@@ -91,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Beekeeper** wins with 3 points!
+**Irish Wish** wins with 4 points!
 
 ## Pics or it didn't happen
 

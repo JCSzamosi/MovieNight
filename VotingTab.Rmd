@@ -3,15 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times. Your participation in democracy is appreciated
-* **Brainstorm** won with 4 votes in favour and none against
-* Demolition Man will be our emergency backup movie
-* Every movie had at least two votes in favour. No movie had more than three 
-votes against.
-* Two movies had zero no votes
-* The overwhelming majority of votes were in the 'meh' category. 
-* Ricky Stanicky was the only movie with fewer than half its votes in the 'meh'
-category
+* The survey was completed 13 times.
+* **An Officer and a Gentleman** won with 5 votes in favour and one against
+* Iron Eagle and The Punisher tied for second
+* No movie had a majority of its votes in the 'meh' category
+* The Color Purple was our most controversial option
+* Iron Eagles 3 and 4, and The Color Purple had a three-way tie for last place.
 
 ## Setup
 
@@ -89,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Brainstorm** wins with 4 points!
+**An Officer and a Gentleman** won with 4 points!
 
 ## Pics or it didn't happen
 

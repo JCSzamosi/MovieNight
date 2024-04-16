@@ -3,12 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times.
-* **An Officer and a Gentleman** won with 5 votes in favour and one against
-* Iron Eagle and The Punisher tied for second
-* No movie had a majority of its votes in the 'meh' category
-* The Color Purple was our most controversial option
-* Iron Eagles 3 and 4, and The Color Purple had a three-way tie for last place.
+* The survey was completed 15 times. Your entergagement is appreciated.
+* **Happytime Murders** won with 9 votes in favour and 1 against. That's twice
+as many pro votes as any other movie received
+* Our emergency backup movie is Spring Breakers
+* Only one person wanted to see Iron Eagle
+* Every other movie received either 3 or 4 votes in favour
+* Most movies received a plurality of their votes in the 'meh' category. The 
+only exceptions were our winner and Jaws 3-D in 2-D
 
 ## Setup
 
@@ -86,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**An Officer and a Gentleman** won with 4 points!
+**Happytime Murders** wins with 8 points!
 
 ## Pics or it didn't happen
 

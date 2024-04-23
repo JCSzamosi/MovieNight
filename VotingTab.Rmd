@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. Your entergagement is appreciated.
-* **Happytime Murders** won with 9 votes in favour and 1 against. That's twice
-as many pro votes as any other movie received
-* Our emergency backup movie is Spring Breakers
-* Only one person wanted to see Iron Eagle
-* Every other movie received either 3 or 4 votes in favour
-* Most movies received a plurality of their votes in the 'meh' category. The 
-only exceptions were our winner and Jaws 3-D in 2-D
+* The survey was completed 13 times.
+* **Mixed Nuts** won with 7 votes in favour and none against.
+* Our emergency backup movie, The Adventures of Sherlock Holmes's Smarter
+Brother, also received zero negative votes
+* Only one movie received a negative score: Judy Berlin
+* Four movies got fewer than 2 negative notes, and no movie got more than 4 
+negative votes
 
 ## Setup
 
@@ -88,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Happytime Murders** wins with 8 points!
+**Mixed Nuts** wins with 7 points!
 
 ## Pics or it didn't happen
 

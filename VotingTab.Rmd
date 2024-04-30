@@ -3,13 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times.
-* **Mixed Nuts** won with 7 votes in favour and none against.
-* Our emergency backup movie, The Adventures of Sherlock Holmes's Smarter
-Brother, also received zero negative votes
-* Only one movie received a negative score: Judy Berlin
-* Four movies got fewer than 2 negative notes, and no movie got more than 4 
-negative votes
+* The survey was completed 15 times.
+* **This Is Spinal Tap** won with 6 votes in favour and none against.
+* Our emergency backup movie will be Shock and Awe
+* Throw Momma From the Train was our most controversial option, probably because 
+we already watched it
+* Shock and Awe and The Bucket List tied for least controversial
+* Only two movies had positive scores, but only three movies had negative 
+scores. Three movies had perfectly balanced positive and negative votes.
 
 ## Setup
 
@@ -87,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Mixed Nuts** wins with 7 points!
+**This Is Spinal Tap** wins with 6 points!
 
 ## Pics or it didn't happen
 

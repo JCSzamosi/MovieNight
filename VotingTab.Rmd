@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **This Is Spinal Tap** won with 6 votes in favour and none against.
-* Our emergency backup movie will be Shock and Awe
-* Throw Momma From the Train was our most controversial option, probably because 
-we already watched it
-* Shock and Awe and The Bucket List tied for least controversial
-* Only two movies had positive scores, but only three movies had negative 
-scores. Three movies had perfectly balanced positive and negative votes.
+* The survey was completed 14 times.
+* **Starship Troopers** wom with 6 votes in favour and 2 against.
+* Our emergency backup movie will be Ricky Stanicky
+* Every movie got at least one vote in each direction
+* Most movies got a plurality of their votes in the 'meh' category
+* Only two movies had negative scores
+* Only one person wanted to see Iron Eagle
 
 ## Setup
 
@@ -88,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**This Is Spinal Tap** wins with 6 points!
+**Starship Troopers** wins with 4 points!
 
 ## Pics or it didn't happen
 

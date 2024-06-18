@@ -3,13 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Starship Troopers** wom with 6 votes in favour and 2 against.
-* Our emergency backup movie will be Ricky Stanicky
-* Every movie got at least one vote in each direction
-* Most movies got a plurality of their votes in the 'meh' category
-* Only two movies had negative scores
-* Only one person wanted to see Iron Eagle
+* The survey was completed 15 times.
+* **Showgirls** won with 6 votes in favour and one against
+* Demolition Man and Totally Killer tied for second place. One of them will be
+our backup
+* Every movie got at least two positive votes and only one movie got a negative
+score
+* Overall apathy levels were relatively low, but Team America was our most 
+controversial option, while Young Frankenstein garnered the least interest in
+either direction.
 
 ## Setup
 
@@ -87,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Starship Troopers** wins with 4 points!
+**Showgirls** wins with 5 points!
 
 ## Pics or it didn't happen
 

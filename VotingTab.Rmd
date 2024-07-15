@@ -3,15 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **Showgirls** won with 6 votes in favour and one against
-* Demolition Man and Totally Killer tied for second place. One of them will be
-our backup
-* Every movie got at least two positive votes and only one movie got a negative
-score
-* Overall apathy levels were relatively low, but Team America was our most 
-controversial option, while Young Frankenstein garnered the least interest in
-either direction.
+* The survey was completed 14 times.
+* **Demolition Man** won with 5 votes in favour and one against
+* Totally Killer came in second for the second month in a row
+* There was a remarkable lack of variation in the positive votes. Each movie got
+five, three, or two votes in favour and mostly varied in terms of votes against
+* Lots of people did not want to see Starship Troopers 2
+* Half of our movies had negative scores, but ST2 doubled the next lowest score.
 
 ## Setup
 
@@ -89,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Showgirls** wins with 5 points!
+**Demolition Man** wins with 4 points!
 
 ## Pics or it didn't happen
 

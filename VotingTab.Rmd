@@ -4,12 +4,10 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 14 times.
-* **Demolition Man** won with 5 votes in favour and one against
-* Totally Killer came in second for the second month in a row
-* There was a remarkable lack of variation in the positive votes. Each movie got
-five, three, or two votes in favour and mostly varied in terms of votes against
-* Lots of people did not want to see Starship Troopers 2
-* Half of our movies had negative scores, but ST2 doubled the next lowest score.
+* **Totally Killer** won with 7 votes in favour and two against
+* Queenpins ins our new second place movie
+* Ricky Stanicky garnered the least interest in either direction
+* No one wanted to see Team America: World Police
 
 ## Setup
 
@@ -87,7 +85,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Demolition Man** wins with 4 points!
+**Totally Killer** wins with 5 points!
 
 ## Pics or it didn't happen
 

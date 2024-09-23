@@ -3,23 +3,23 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times.
-* **Totally Killer** won with 7 votes in favour and two against
-* Queenpins ins our new second place movie
-* Ricky Stanicky garnered the least interest in either direction
-* No one wanted to see Team America: World Police
+* The survey was completed 15 times.
+* **Meteor Man** won with 6 votes in favour and one against
+* Coming To America is our emergency backup movie
+* No one wanted to see Great White Hope
+* At least two people wanted to see every other movie
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Projects/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# library(AfterSl1p)
-devtools::load_all('~/Work/Projects/aftersl1p')
+library(AfterSl1p)
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -85,7 +85,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Totally Killer** wins with 5 points!
+**Meteor Man** wins with 5 points!
 
 ## Pics or it didn't happen
 

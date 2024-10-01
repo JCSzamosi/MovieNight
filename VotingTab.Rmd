@@ -3,23 +3,26 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times.
-* **Meteor Man** won with 6 votes in favour and one against
-* Coming To America is our emergency backup movie
-* No one wanted to see Great White Hope
-* At least two people wanted to see every other movie
+* The survey was completed 10 times. Youse guise are cutting it close.
+* **Lisa Frankenstein** won with 5 votes in favour and none against
+* Hundo Beavs is our emergency backup movie in case Lisa Frankenstein is too 
+problematic.
+* Repo was our most controversial choice
+* Tangerine garnered the least interest in either direction.
+* Every movie got at least one vote in favour, but not every movie got at least 
+one vote against.
 
 ## Setup
 
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Projects/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Projects/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-library(AfterSl1p)
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# library(AfterSl1p)
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -85,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Meteor Man** wins with 5 points!
+**Lisa Frankenstein** wins with 5 points!
 
 ## Pics or it didn't happen
 

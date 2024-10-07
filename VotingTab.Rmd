@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Youse guise are cutting it close.
-* **Lisa Frankenstein** won with 5 votes in favour and none against
-* Hundo Beavs is our emergency backup movie in case Lisa Frankenstein is too 
-problematic.
-* Repo was our most controversial choice
-* Tangerine garnered the least interest in either direction.
-* Every movie got at least one vote in favour, but not every movie got at least 
-one vote against.
+* The survey was completed 14 times. Your participation in the democratic 
+  process is appreciated.
+* **Evil Under the Sun** won with 7 votes in favour and four against. This also
+  made it our most controversial option.
+* Our emergency backup movie will be the much less controversial Curtain Call
+* Our second most controversial option was Death On The Nile, and Gosford Park 
+  was our least controversial option.
+* Every movie got at least two votes in favour and two votes against.
+
 
 ## Setup
 
@@ -88,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Lisa Frankenstein** wins with 5 points!
+**Evil Under the Sun** wins with 3 points!
 
 ## Pics or it didn't happen
 

@@ -3,15 +3,11 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. 
-* **Wag the Dog** won with 5 votes in favour and none against. It was the only 
-movie this week with zero no votes.
-* Our emergency backup movie will be Drive Away Dolls, with four votes in favour
-and one against
-* The number of yes votes is very strongly inversely correlated with the number 
-of no votes
-* Nobody wanted to see Coming 2 America
-* Queenpins broke the monotonically decreasing trend in yes votes
+* The survey was completed 12 times. 
+* **Frankenhooker** won with 6 votes in favour and 2 against. 
+* Our emergency backup movie will be either One Cut or Bodies Bodies Bodies.
+* The Crow was this week's least controversial option, while Hellraiser was the
+most controversial
 
 
 ## Setup
@@ -90,7 +86,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Wag the Dog** wins with 5 points!
+**Frankenhooker** wins with 4 points!
 
 ## Pics or it didn't happen
 

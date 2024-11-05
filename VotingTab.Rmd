@@ -3,15 +3,16 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. Your dedication to the cause of keeping 
+* The survey was completed 13 times. Your dedication to the cause of keeping 
 democracy alive during these uncertain times is appreciated.
-* **Beetlejuice Beetlejuice** won with 11 votes in favour and 1 against. 
-* There were surprisingly few 'meh' votes given this week's whole situation
-* Beetlejuice x5 only received a single 'meh' vote, which may be unprecedented 
-in our current system of democracy.
-* No movie got fewer than 5 positive votes and every movie got at least one 
-negative vote.
-* Our emergency backup movie will be the original 1988 Beetlejuice
+* **Wayne's World** won with 6 votes in favour and none against. 
+* Wayne's World 2 also received no votes against.
+* Our emergency backup movie will be Airheads.
+* All other movies received at least one vote against, and every movie received
+at least two votes in favour.
+* The higher than average quantity of 'meh' votes is likely a result of the 
+Other Thing that is happening on that date, leading to a feeling of "idc as long
+as it's not That"
 
 
 ## Setup
@@ -90,7 +91,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Beetlejuice Beetlejuice** wins with 10 points!
+**Wayne's World** wins with 6 points!
 
 ## Pics or it didn't happen
 

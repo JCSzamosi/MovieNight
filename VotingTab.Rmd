@@ -3,16 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Your dedication to the cause of keeping 
+* The survey was completed 15 times. Your dedication to the cause of keeping 
 democracy alive during these uncertain times is appreciated.
-* **Wayne's World** won with 6 votes in favour and none against. 
-* Wayne's World 2 also received no votes against.
-* Our emergency backup movie will be Airheads.
-* All other movies received at least one vote against, and every movie received
-at least two votes in favour.
-* The higher than average quantity of 'meh' votes is likely a result of the 
-Other Thing that is happening on that date, leading to a feeling of "idc as long
-as it's not That"
+* **The Truman Show** won with 6 votes in favour and three against. 
+* CHIPS will be our emergency backup movie, with three votes in favour and one
+against
+* The Fugitive and The Dukes of Hazzard both received five votes against, fully 
+a third of the electorate
+* More than two thirds of voters had no opinion about CHIPS
 
 
 ## Setup
@@ -91,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Wayne's World** wins with 6 points!
+**The Truman Show** wins with 3 points!
 
 ## Pics or it didn't happen
 

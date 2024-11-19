@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. Your dedication to the cause of keeping 
-democracy alive during these uncertain times is appreciated.
-* **The Truman Show** won with 6 votes in favour and three against. 
-* CHIPS will be our emergency backup movie, with three votes in favour and one
-against
-* The Fugitive and The Dukes of Hazzard both received five votes against, fully 
-a third of the electorate
-* More than two thirds of voters had no opinion about CHIPS
+* The survey was completed 11 times.
+* **I Love You Phillip Morris** won with 8 votes in favour and none against. 
+* The Incredible Burt Wonderstone also received zero votes against, and will
+be our emergency backup movie
+* Two people wanted to see Me, Myself, and Irene, and Dumb and Dumber To
+* The Mask tied with Dumb and Dumber To for the fewest 'meh' votes
+
 
 
 ## Setup
@@ -89,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**The Truman Show** wins with 3 points!
+**I Love You Phillip Morris** wins with 8 points!
 
 ## Pics or it didn't happen
 

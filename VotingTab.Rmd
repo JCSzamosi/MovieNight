@@ -3,12 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times.
-* **I Love You Phillip Morris** won with 8 votes in favour and none against. 
-* The Incredible Burt Wonderstone also received zero votes against, and will
-be our emergency backup movie
-* Two people wanted to see Me, Myself, and Irene, and Dumb and Dumber To
-* The Mask tied with Dumb and Dumber To for the fewest 'meh' votes
+* The survey was completed 12 times.
+* **Miss Congeniality** won with 9 votes in favour and one against. 
+* Queenpins will be our emergency backup movie, with 7 votes in favour and 1 
+against
+* Nobody wanted to see American Hustle
+* Only one person might wanted to see each of Catch Me If You Can or Kingpin
+* Row 1 received a truly astonishing 6 votes in favour, while all of Catch Me if
+You Can, Kingpin, and Americant Hustle received more votes against than Row 1 
+did
 
 
 
@@ -88,7 +91,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**I Love You Phillip Morris** wins with 8 points!
+**Miss Congeniality** wins with 8 points!
 
 ## Pics or it didn't happen
 

@@ -3,13 +3,18 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Your participation in the democratic 
-process is appreciated during these trying times.
-* **Look Who's Talking** won with 5 votes in favour and one against. 
-* Bridget Jones' Baby will be our emergency backup movie
-* At least one person wanted to see each movie
-* At least one person did not want to see each movie
-* Most movies received a plurality of their votes in the 'meh' category
+* The survey was completed 10 times. Please clap.
+* **Baby Driver** won with 6 votes in favour and one against. 
+* If it turns out that the movie with Kevin Spacey about the getaway driver is 
+too problematic we will instead be watching 
+  * *checks notes*
+
+Deliverance
+
+* Nobody wanted to see Cry Baby or The Babe
+* Babylon got a very impressive -4 points, despite two brave people voting in
+its favour
+* An equally impressive three quarters of our options received negative scores
 
 
 ## Setup
@@ -88,7 +93,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Look Who's Talking** wins with 4 points!
+**Baby Driver** wins with 5 points!
 
 ## Pics or it didn't happen
 

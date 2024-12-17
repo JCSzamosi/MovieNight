@@ -3,18 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Please clap.
-* **Baby Driver** won with 6 votes in favour and one against. 
-* If it turns out that the movie with Kevin Spacey about the getaway driver is 
-too problematic we will instead be watching 
-  * *checks notes*
-
-Deliverance
-
-* Nobody wanted to see Cry Baby or The Babe
-* Babylon got a very impressive -4 points, despite two brave people voting in
-its favour
-* An equally impressive three quarters of our options received negative scores
+* The survey was completed 17 times. Your participation in the democratic
+process is appreciated during these trying times.
+* **A Good Day to Die Hard** won with 9 votes in favour and 5 against. 
+* Our emergency backup movie in case of excessive problematicity will be The
+Untouchables, which sounds like an excellent idea
+* Only one person wanted to see Willow
+* At least four people voted against each movie
+* Half of our slate received negative scores, and only two movies received 
+positive scores.
 
 
 ## Setup
@@ -93,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Baby Driver** wins with 5 points!
+**A Good Day to Die Hard** wins with 4 points!
 
 ## Pics or it didn't happen
 

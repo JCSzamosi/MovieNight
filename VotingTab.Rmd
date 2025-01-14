@@ -3,15 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times.
-* **M3GAN** won with 6 votes in favour and one against. 
-* Our emergency backup movie in case of excessive problematicity will be Pacific
-Rim
-* Only one person wanted to see Repo Men, but on the other hand only one person
-didn't want to see it also
-* Our most controversial option was Hot Tub Time Machine 2
-* Two people each wanted to see Bill and Ted Face the Music, Zebraman 2, and
-Guardians of the Galaxy Holiday Special
+* The survey was completed 14 times. Your participation in the democratic 
+process is appreciated during these uncertain times.
+* **Wicked** won with 6 votes in favour and two against. 
+* There was a three-way tie for second place. Our emergency backup movie in case
+of excessive problematicity will be Challengers
+* Each movie received at least two votes in favour and two votes against
+* Each movie received at least five 'meh' votes
+* The most controversial option was The Substance, with four votes in favour
+and four against.
 
 
 ## Setup
@@ -90,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**M3GAN** won with 5 points!
+**Wicked** won with 4 points!
 
 ## Pics or it didn't happen
 

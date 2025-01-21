@@ -3,15 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times. Your participation in the democratic 
+* The survey was completed 13 times. Your participation in the democratic 
 process is appreciated during these uncertain times.
-* **Wicked** won with 6 votes in favour and two against. 
-* There was a three-way tie for second place. Our emergency backup movie in case
-of excessive problematicity will be Challengers
-* Each movie received at least two votes in favour and two votes against
-* Each movie received at least five 'meh' votes
-* The most controversial option was The Substance, with four votes in favour
-and four against.
+* **Flow** won with 5 votes in favour and one against. 
+* Our emergency backup movie will be A Real Pain
+* Nobody wanted to see Anora
+* Emilia Perez and Anora tied for most no votes
+* A Different Man was our least controversial option
+* The Substance was our most controversial option.
 
 
 ## Setup
@@ -90,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Wicked** won with 4 points!
+**Flow** won with 4 points!
 
 ## Pics or it didn't happen
 

@@ -3,14 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Your participation in the democratic 
-process is appreciated during these uncertain times.
-* **Flow** won with 5 votes in favour and one against. 
-* Our emergency backup movie will be A Real Pain
-* Nobody wanted to see Anora
-* Emilia Perez and Anora tied for most no votes
-* A Different Man was our least controversial option
-* The Substance was our most controversial option.
+* The survey was completed 12 times. 
+* **Eraserhead** won with 7 votes in favour and two against. 
+* Our emergency backup movie will be Wild At Heart
+* Our most controversial option was Mulholland Dr.
+* Our least controversial option was Elephant Man
+* Every movie received at least one vote for and at least one against
 
 
 ## Setup
@@ -89,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Flow** won with 4 points!
+**Eraserhead** won with 5 points!
 
 ## Pics or it didn't happen
 

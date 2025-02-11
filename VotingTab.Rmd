@@ -3,12 +3,16 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. 
-* **Eraserhead** won with 7 votes in favour and two against. 
-* Our emergency backup movie will be Wild At Heart
-* Our most controversial option was Mulholland Dr.
-* Our least controversial option was Elephant Man
-* Every movie received at least one vote for and at least one against
+* The survey was completed 15 times. Your participation in the democratic 
+process is appreciated during these trying times.
+* **Timecop** won with 6 votes in favour and three against. 
+* We had a three-way tie for second. Our emergency backup movie will be Real 
+Steel.
+* There was an unusually low spread on vote scores between all the movies this 
+week
+* All movies had a minimum of two votes in favour and two votes against.
+All movies except our winner received at least a plurality of their votes in the
+'meh' category.
 
 
 ## Setup
@@ -87,7 +91,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Eraserhead** won with 5 points!
+**Timecomp** won with 3 points!
 
 ## Pics or it didn't happen
 

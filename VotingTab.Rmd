@@ -3,16 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 15 times. Your participation in the democratic 
+* The survey was completed 16 times. Your participation in the democratic 
 process is appreciated during these trying times.
-* **Timecop** won with 6 votes in favour and three against. 
-* We had a three-way tie for second. Our emergency backup movie will be Real 
-Steel.
-* There was an unusually low spread on vote scores between all the movies this 
-week
-* All movies had a minimum of two votes in favour and two votes against.
-All movies except our winner received at least a plurality of their votes in the
-'meh' category.
+* **Ice Pirates** won with 8 votes in favour and two against. 
+* Our emergency backup movie in case of problematicity will be Y2K
+* No one wanted to see Subservience
+* There were fewer 'meh' votes than usual this week
+* Every movie received at least two negative votes and every movie other than
+Subservience received at least three positive votes.
+* Y2K was our most controversial option, with only three 'meh' votes
 
 
 ## Setup
@@ -91,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Timecomp** won with 3 points!
+**Ice Pirates** won with 6 points!
 
 ## Pics or it didn't happen
 

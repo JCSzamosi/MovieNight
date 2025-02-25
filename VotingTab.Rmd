@@ -3,15 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 16 times. Your participation in the democratic 
+* The survey was completed 14 times. Your participation in the democratic 
 process is appreciated during these trying times.
-* **Ice Pirates** won with 8 votes in favour and two against. 
-* Our emergency backup movie in case of problematicity will be Y2K
-* No one wanted to see Subservience
-* There were fewer 'meh' votes than usual this week
-* Every movie received at least two negative votes and every movie other than
-Subservience received at least three positive votes.
-* Y2K was our most controversial option, with only three 'meh' votes
+* **Sugar and Spice** won with 5 votes in favour and none against. 
+* Our emergency backup movie in case of problematicity will be Mad Money
+* Both our winner and second place movies received zero no votes
+* Impressively, no movie received as many as 1/3 of its votes in the 'no' 
+category
+* Thelma and Louise was our most controversial option
+* Two people wanted to see Jackie Brown
 
 
 ## Setup
@@ -90,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Ice Pirates** won with 6 points!
+**Sugar and Spice** won with 5 points!
 
 ## Pics or it didn't happen
 

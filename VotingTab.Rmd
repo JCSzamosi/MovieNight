@@ -5,13 +5,12 @@ Movie Night Voting Tabulation
 
 * The survey was completed 14 times. Your participation in the democratic 
 process is appreciated during these trying times.
-* **Sugar and Spice** won with 5 votes in favour and none against. 
-* Our emergency backup movie in case of problematicity will be Mad Money
-* Both our winner and second place movies received zero no votes
-* Impressively, no movie received as many as 1/3 of its votes in the 'no' 
-category
-* Thelma and Louise was our most controversial option
-* Two people wanted to see Jackie Brown
+* **Grand Theft Hamlet** won with 9 votes in favour and one against. 
+* Our emergency backup movie in case of problematicity will be Wargames, which
+also only received one negative vote
+* Sonic 3 was our most controversial option, but eked out a positive score
+* Only one person wanted to see either of Tron Legacy and Wargames: The Dead 
+Code, while 7 people voted against each of those movies
 
 
 ## Setup
@@ -90,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Sugar and Spice** won with 5 points!
+**Grand Theft Hamlet** won with 8 points!
 
 ## Pics or it didn't happen
 

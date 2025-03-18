@@ -5,13 +5,12 @@ Movie Night Voting Tabulation
 
 * The survey was completed 12 times. Your participation in the democratic 
 process is appreciated during these trying times.
-* **A Real Pain** won with 6 votes in favour and none against. 
-* Every other movie received a negative score, with Conclave and The Substance
-tying for second place. Our emergency backup movie will be The Substance
-* Nobody wanted to see I'm Still Here
-* Only one person wanted to see any of No Other Land, Emilia Peréz, Anora, or 
-The Brutalist.
-* The overwhelming majority of votes were 'meh'.
+* **The Birdcage** won with 8 votes in favour and none against. 
+* Our emergency backup movie will be Inspector Gadget, which came in second with
+5 votes in favour and one against
+* Only one person wanted to see Royal Tenenbaums or Superman
+* Harriet the Spy was our most controversial option
+* No movie received more than 3 negative votes
 
 
 ## Setup
@@ -90,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**A Real Pain** won with 6 points!
+**Birdcage** won with 8 points!
 
 ## Pics or it didn't happen
 

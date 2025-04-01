@@ -3,14 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. Your participation in the democratic 
-process is appreciated during these trying times.
-* **The Birdcage** won with 8 votes in favour and none against. 
-* Our emergency backup movie will be Inspector Gadget, which came in second with
-5 votes in favour and one against
-* Only one person wanted to see Royal Tenenbaums or Superman
-* Harriet the Spy was our most controversial option
-* No movie received more than 3 negative votes
+* The survey was completed 11 times. 
+* **Good Morning Vietnam** won with 8 votes in favour and none against. This is 
+the same margin by which The Birdcage won last time.
+* Our emergency backup movie will be Good Will Hunting, which received six votes
+in favour and none against.
+* The only other movie with zero no votes was Mrs. Doubtfire, which received a
+single positive vote.
+* Nobody voted for Jack because Tuesdays are not for crying.
 
 
 ## Setup
@@ -89,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Birdcage** won with 8 points!
+**Good Morning Vietnam** won with 8 points!
 
 ## Pics or it didn't happen
 

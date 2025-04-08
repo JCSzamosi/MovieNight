@@ -3,14 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. 
-* **Good Morning Vietnam** won with 8 votes in favour and none against. This is 
-the same margin by which The Birdcage won last time.
-* Our emergency backup movie will be Good Will Hunting, which received six votes
-in favour and none against.
-* The only other movie with zero no votes was Mrs. Doubtfire, which received a
-single positive vote.
-* Nobody voted for Jack because Tuesdays are not for crying.
+* The survey was completed 10 times. 
+* **Doom** won with 3 votes in favour and 3 against.
+* Our emergency backup movie will be I Am Number 4, which no one wants to see
+* No movie received a positive score
+* Only two movies received any votes in favour, our winner and Cougar Hunting
+* Every movie received at least two votes against
 
 
 ## Setup
@@ -89,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Good Morning Vietnam** won with 8 points!
+**Doom** won with 0 points!
 
 ## Pics or it didn't happen
 

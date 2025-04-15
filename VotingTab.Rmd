@@ -3,12 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. 
-* **Doom** won with 3 votes in favour and 3 against.
-* Our emergency backup movie will be I Am Number 4, which no one wants to see
-* No movie received a positive score
-* Only two movies received any votes in favour, our winner and Cougar Hunting
-* Every movie received at least two votes against
+* The survey was completed 11 times. 
+* **Top Secret** won with 7 votes in favour and none against.
+* Our emergency backup movie will be Prince of Egypt.
+* Every movie received at least one positive vote
+* No movie received more than two negative votes
+* Willow and MacGruber were the most controversial options, while Déjà Vu and 
+True Romance garnered the least interest in either direction
 
 
 ## Setup
@@ -87,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Doom** won with 0 points!
+**Top Secret** won with 7 points!
 
 ## Pics or it didn't happen
 

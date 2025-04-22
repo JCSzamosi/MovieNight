@@ -3,13 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times. 
-* **Top Secret** won with 7 votes in favour and none against.
-* Our emergency backup movie will be Prince of Egypt.
-* Every movie received at least one positive vote
-* No movie received more than two negative votes
-* Willow and MacGruber were the most controversial options, while Déjà Vu and 
-True Romance garnered the least interest in either direction
+* The survey was completed 13 times. Your participation in the democratic 
+process is appreciated during these trying times.
+* **War Games** won with 5 votes in favour and none against. 
+* Inspector Gadget received the same score with 6 votes in favour and one 
+against and will serve as our emergency backup movie.
+* There were three movies that received zero negative votes.
+* Nobody voted in favour of Prince of Egypt.
 
 
 ## Setup
@@ -17,12 +17,12 @@ True Romance garnered the least interest in either direction
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Projects/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# library(AfterSl1p)
-devtools::load_all('~/Work/Projects/aftersl1p')
+library(AfterSl1p)
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -86,9 +86,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**Top Secret** won with 7 points!
+**War Games** and Inspector Gadget tied for first with 5 points! We will be 
+watching War Games.
 
 ## Pics or it didn't happen
 
@@ -105,7 +106,7 @@ dat_long = (dat
 					   Movies = factor(Movies, levels = names(results))))
 #levels(dat_long$Movies) = rev_titles[levels(dat_long$Movies)]
 plt = ggplot(dat_long, aes(x = Movies, fill = Votes)) +
-	geom_histogram(stat = 'count') +
+	geom_bar(stat = 'count') +
 	scale_fill_manual(values = cols, name = 'Vote Value') +
 	ylab('Vote Count') +
 	rotate_ticks() +

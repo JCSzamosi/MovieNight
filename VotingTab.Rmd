@@ -3,13 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 13 times. Your participation in the democratic 
-process is appreciated during these trying times.
-* **War Games** won with 5 votes in favour and none against. 
-* Inspector Gadget received the same score with 6 votes in favour and one 
-against and will serve as our emergency backup movie.
-* There were three movies that received zero negative votes.
-* Nobody voted in favour of Prince of Egypt.
+* The survey was completed 10 times.
+* **Ghost Dog** won with 5 votes in favour and none against. This is the same 
+vote tally as last week's winner.
+* A Rage In Harlem will be our emergency backup movie
+* Every movie received at least two votes in favour and no movie received more
+than two votes against
+* Three movies received zero negative votes
+* No movie received more than five total non-meh votes
 
 
 ## Setup
@@ -86,10 +87,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**War Games** and Inspector Gadget tied for first with 5 points! We will be 
-watching War Games.
+**Ghost Dog** wins with 5 points!
 
 ## Pics or it didn't happen
 

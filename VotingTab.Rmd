@@ -3,14 +3,15 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times.
-* **Ghost Dog** won with 5 votes in favour and none against. This is the same 
-vote tally as last week's winner.
-* A Rage In Harlem will be our emergency backup movie
-* Every movie received at least two votes in favour and no movie received more
-than two votes against
-* Three movies received zero negative votes
-* No movie received more than five total non-meh votes
+* The survey was completed 11 times.
+* **Conclave** won with 7 votes in favour and 2 against.
+* Our emergency backup movie will be Inspector Gadget. Again.
+* The movie that garnered the least interest in either direction was Y2K
+* The movie that received the fewest 'meh' votes was The Substance, with only
+one
+* Only three movies received positive scores, but only two received negative s
+cores
+* Each movie received at least one vote in each category.
 
 
 ## Setup
@@ -18,12 +19,12 @@ than two votes against
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-setwd('~/Personal/MovieNight')
-# setwd('~/Projects/MovieNight')
+# setwd('~/Personal/MovieNight')
+setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-library(AfterSl1p)
-# devtools::load_all('~/Work/Projects/aftersl1p')
+# library(AfterSl1p)
+devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -89,7 +90,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Ghost Dog** wins with 5 points!
+**Conclave** wins with 5 points!
 
 ## Pics or it didn't happen
 

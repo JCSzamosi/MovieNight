@@ -4,14 +4,13 @@ Movie Night Voting Tabulation
 ## Executive Summaries Go At the Top For Engagement
 
 * The survey was completed 11 times.
-* **Conclave** won with 7 votes in favour and 2 against.
-* Our emergency backup movie will be Inspector Gadget. Again.
-* The movie that garnered the least interest in either direction was Y2K
-* The movie that received the fewest 'meh' votes was The Substance, with only
-one
-* Only three movies received positive scores, but only two received negative s
-cores
-* Each movie received at least one vote in each category.
+* **Jolt** won with 3 votes in favour and none against.
+* Our emergency backup movie will be Wild Card.
+* Grand Budapest Hotel was the only movie with a majority of its votes not in 
+the 'meh' category
+* We had two movies with zero negative votes
+* Every movie received at least one positive vote
+* Minecraft was the only movie with a negative score
 
 
 ## Setup
@@ -90,7 +89,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Conclave** wins with 5 points!
+**Jolt** wins with 3 points!
 
 ## Pics or it didn't happen
 

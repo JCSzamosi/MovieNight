@@ -3,14 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times.
-* **Jolt** won with 3 votes in favour and none against.
-* Our emergency backup movie will be Wild Card.
-* Grand Budapest Hotel was the only movie with a majority of its votes not in 
-the 'meh' category
-* We had two movies with zero negative votes
-* Every movie received at least one positive vote
-* Minecraft was the only movie with a negative score
+* The survey was completed 12 times.
+* **Runaways** won with 5 votes in favour and 1 against
+* Our emergency backum move will be Atomic Blonde
+* All votes received at least 2 votes in favour and 1 against
+* Only one movie, Catch 22, received a negative score
+* Minecraft was our most controversial choice
 
 
 ## Setup
@@ -89,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Jolt** wins with 3 points!
+**Runaways** wins with 4 points!
 
 ## Pics or it didn't happen
 

@@ -3,12 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times.
-* **Runaways** won with 5 votes in favour and 1 against
-* Our emergency backum move will be Atomic Blonde
-* All votes received at least 2 votes in favour and 1 against
-* Only one movie, Catch 22, received a negative score
-* Minecraft was our most controversial choice
+* The survey was completed 11 times.
+* **Ocean's Eight** wins with 4 votes in favour and 1 against.
+* We had a three-way tie for second place. Our emergency backup movie will be
+The Minecraft Movie
+* Every movie received at least one negative vote
+* Nobody wanted to watch Amsterdam and five people did not want to watch it
+* Only one person wanted to see either of Wild Card or The Current War
 
 
 ## Setup
@@ -87,7 +88,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Runaways** wins with 4 points!
+**Ocean's Eight** wins with 3 points!
 
 ## Pics or it didn't happen
 

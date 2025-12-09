@@ -3,13 +3,16 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 11 times.
-* **Ocean's Eight** wins with 4 votes in favour and 1 against.
-* We had a three-way tie for second place. Our emergency backup movie will be
-The Minecraft Movie
+* The survey was completed 10 times. Low voter turnout increases the probability
+of ties.
+* **Anna and the Apocalypse** and Violent Night tied for first with 3 votes in
+favour and 1 against each. We will be watching **Anna and the Apocalypse**.
+* Second place is Jingle Bell Heist.
 * Every movie received at least one negative vote
-* Nobody wanted to watch Amsterdam and five people did not want to watch it
-* Only one person wanted to see either of Wild Card or The Current War
+* Nobody wanted to watch Better Watch Out and three people did not want to watch
+it
+* Only one person wanted to watch any of Jingle Bell Heist, Krampus, or
+Spirited.
 
 
 ## Setup
@@ -17,12 +20,12 @@ The Minecraft Movie
 <details><summary>Click here for setup code</summary>
 
 ```{r, message = FALSE, warning = FALSE}
-# setwd('~/Personal/MovieNight')
-setwd('~/Projects/MovieNight')
+setwd('~/Personal/MovieNight')
+# setwd('~/Projects/MovieNight')
 library(tidyverse)
 library(lubridate)
-# library(AfterSl1p)
-devtools::load_all('~/Work/Projects/aftersl1p')
+library(AfterSl1p)
+# devtools::load_all('~/Work/Projects/aftersl1p')
 theme_set(theme_bw())
 
 cols = c('#878787','#FDDBC7','#B2182B')
@@ -88,7 +91,7 @@ res_df
 
 #### Vampire Academy Ties!
 
-**Ocean's Eight** wins with 3 points!
+**Anna and the Apocalypse** tied with Violent Night with 2 points each!
 
 ## Pics or it didn't happen
 

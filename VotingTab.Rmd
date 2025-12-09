@@ -86,7 +86,7 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
 **Ocean's Eight** wins with 3 points!
 

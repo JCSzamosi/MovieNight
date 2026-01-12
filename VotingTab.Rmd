@@ -3,16 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low voter turnout increases the probability
-of ties.
-* **Anna and the Apocalypse** and Violent Night tied for first with 3 votes in
-favour and 1 against each. We will be watching **Anna and the Apocalypse**.
-* Second place is Jingle Bell Heist.
-* Every movie received at least one negative vote
-* Nobody wanted to watch Better Watch Out and three people did not want to watch
-it
-* Only one person wanted to watch any of Jingle Bell Heist, Krampus, or
-Spirited.
+* The survey was completed 14 times. 
+* **Stand By Me** won with 7 votes in favour and none against
+* Bucket List and Princess Bride tied for second. Our emergency backup movie 
+will be Bucket List.
+* Misery and A Few Good Men were the only movies with negative scores
+* No movie received fewer than two positive votes or more than four negative 
+votes.
+* The Princess Bride was our most divisive option
 
 
 ## Setup
@@ -89,9 +87,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Anna and the Apocalypse** tied with Violent Night with 2 points each!
+**Stand By Me** wins with 7 points!
 
 ## Pics or it didn't happen
 

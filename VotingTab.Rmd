@@ -3,14 +3,12 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 14 times. 
-* **Stand By Me** won with 7 votes in favour and none against
-* Bucket List and Princess Bride tied for second. Our emergency backup movie 
-will be Bucket List.
-* Misery and A Few Good Men were the only movies with negative scores
-* No movie received fewer than two positive votes or more than four negative 
-votes.
-* The Princess Bride was our most divisive option
+* The survey was completed 12 times. 
+* **John Candy: I Like Me** won with 6 votes in favour and none against
+* Our emergency backup movie is A Might Wind
+* All movies had at least 2 positive votes
+* Half of our movies received positive scores
+* Betsy's Wedding was our most controversial option
 
 
 ## Setup
@@ -89,7 +87,7 @@ res_df
 
 #### Vampire Academy Wins!
 
-**Stand By Me** wins with 7 points!
+**John Candy: I Like Me** wins with 6 points!
 
 ## Pics or it didn't happen
 

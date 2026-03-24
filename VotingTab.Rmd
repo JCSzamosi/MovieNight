@@ -3,12 +3,14 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 12 times. 
-* **John Candy: I Like Me** won with 6 votes in favour and none against
-* Our emergency backup movie is A Might Wind
-* All movies had at least 2 positive votes
-* Half of our movies received positive scores
-* Betsy's Wedding was our most controversial option
+* The survey was completed 10 times. Low turnout makes ties more likely.
+* **Death of a Unicorn** won with 4 votes in favour and one against
+* Our emergency backup movie is Wake Up Dead Man, which received 6 positive
+votes and three negative.
+* All movies received at least two negative votes
+* No on wanted to see Marty Supreme
+* Wake Up Dead Man was our most controversial option
+* Only one person voted for Megan Turns 32
 
 
 ## Setup
@@ -85,9 +87,10 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Wins!
+#### Vampire Academy Ties!
 
-**John Candy: I Like Me** wins with 6 points!
+**Death of a Unicorn** and Wake Up Dead Man tied with 3 points each! We will be
+watching **Death of a Unicorn**.
 
 ## Pics or it didn't happen
 

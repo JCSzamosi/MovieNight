@@ -3,14 +3,13 @@ Movie Night Voting Tabulation
 
 ## Executive Summaries Go At the Top For Engagement
 
-* The survey was completed 10 times. Low turnout makes ties more likely.
-* **Death of a Unicorn** won with 4 votes in favour and one against
-* Our emergency backup movie is Wake Up Dead Man, which received 6 positive
-votes and three negative.
-* All movies received at least two negative votes
-* No on wanted to see Marty Supreme
-* Wake Up Dead Man was our most controversial option
-* Only one person voted for Megan Turns 32
+* The survey was completed 11 times. Low turnout makes ties more likely.
+* **Wake Up Dead Man** won with 6 votes in favour and one against
+* Our emergency backup movie is M3gan 2, in case WUDM is too scary
+* All movies received at least one negative vote
+* All movies received at least one positive vote
+* The Naked Gun was our most controversial option
+* Only one person each wanted to see The Moment and Mickey 17
 
 
 ## Setup
@@ -87,10 +86,9 @@ res_df = data.frame(results)
 res_df
 ```
 
-#### Vampire Academy Ties!
+#### Vampire Academy Wins!
 
-**Death of a Unicorn** and Wake Up Dead Man tied with 3 points each! We will be
-watching **Death of a Unicorn**.
+Wake Up Dead Man wins with 5 points!
 
 ## Pics or it didn't happen
 
